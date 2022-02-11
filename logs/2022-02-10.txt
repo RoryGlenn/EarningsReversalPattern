@@ -1,0 +1,515 @@
+
+=========================================================================================
+[10/02/2022 11:20:40] Fetching data for ABT 1 / 58
+[10/02/2022 11:20:48] Fetching data for ACN 2 / 58
+[10/02/2022 11:20:50] Fetching data for AMGN 3 / 58
+[10/02/2022 11:20:51] Fetching data for APD 4 / 58
+[10/02/2022 11:20:53] Fetching data for AVAL 5 / 58
+[10/02/2022 11:20:55] Fetching data for BX 6 / 58
+[10/02/2022 11:20:57] Fetching data for CMCSA 7 / 58
+[10/02/2022 11:20:58] Fetching data for CSCO 8 / 58
+[10/02/2022 11:21:00] Fetching data for CVX 9 / 58
+[10/02/2022 11:21:02] Fetching data for DPZ 10 / 58
+[10/02/2022 11:21:04] Fetching data for ECL 11 / 58
+[10/02/2022 11:21:06] Fetching data for EMR 12 / 58
+[10/02/2022 11:21:07] Fetching data for ENB 13 / 58
+[10/02/2022 11:21:09] Fetching data for ESS 14 / 58
+[10/02/2022 11:21:11] Fetching data for FDX 15 / 58
+[10/02/2022 11:21:12] Fetching data for FRT 16 / 58
+[10/02/2022 11:21:14] Fetching data for GD 17 / 58
+[10/02/2022 11:21:16] Fetching data for GPC 18 / 58
+[10/02/2022 11:21:18] Fetching data for HAS 19 / 58
+[10/02/2022 11:21:19] Fetching data for HD 20 / 58
+[10/02/2022 11:21:21] Fetching data for HON 21 / 58
+[10/02/2022 11:21:23] Fetching data for IFF 22 / 58
+[10/02/2022 11:21:25] Fetching data for INTC 23 / 58
+[10/02/2022 11:21:27] Fetching data for ITW 24 / 58
+[10/02/2022 11:21:29] Fetching data for JNJ 25 / 58
+[10/02/2022 11:21:31] Fetching data for LIN 26 / 58
+[10/02/2022 11:21:32] Fetching data for LMT 27 / 58
+[10/02/2022 11:21:34] Fetching data for LRCX 28 / 58
+[10/02/2022 11:21:36] Fetching data for MCD 29 / 58
+[10/02/2022 11:21:38] Fetching data for MCHP 30 / 58
+[10/02/2022 11:21:40] Fetching data for MMM 31 / 58
+[10/02/2022 11:21:41] Fetching data for MRVL 32 / 58
+[10/02/2022 11:21:43] Fetching data for MSFT 33 / 58
+[10/02/2022 11:21:45] Fetching data for NEU 34 / 58
+[10/02/2022 11:21:47] Fetching data for NWN 35 / 58
+[10/02/2022 11:21:49] Fetching data for NXPI 36 / 58
+[10/02/2022 11:21:51] Fetching data for NYCB 37 / 58
+[10/02/2022 11:21:53] Fetching data for O 38 / 58
+[10/02/2022 11:21:55] Fetching data for OKE 39 / 58
+[10/02/2022 11:21:57] Fetching data for ON 40 / 58
+[10/02/2022 11:21:58] Fetching data for PEP 41 / 58
+[10/02/2022 11:22:00] Fetching data for PG 42 / 58
+[10/02/2022 11:22:02] Fetching data for PM 43 / 58
+[10/02/2022 11:22:04] Fetching data for PNW 44 / 58
+[10/02/2022 11:22:06] Fetching data for PPG 45 / 58
+[10/02/2022 11:22:08] Fetching data for PSX 46 / 58
+[10/02/2022 11:22:09] Fetching data for QSR 47 / 58
+[10/02/2022 11:22:12] Fetching data for RIOCF 48 / 58
+[10/02/2022 11:22:13] Fetching data for RTX 49 / 58
+[10/02/2022 11:22:15] Fetching data for SAFT 50 / 58
+[10/02/2022 11:22:17] Fetching data for TXN 51 / 58
+[10/02/2022 11:22:19] Fetching data for UPS 52 / 58
+[10/02/2022 11:22:21] Fetching data for V 53 / 58
+[10/02/2022 11:22:23] Fetching data for VZ 54 / 58
+[10/02/2022 11:22:25] Fetching data for WBK 55 / 58
+[10/02/2022 11:22:27]  ERROR: || could not convert string to float: '—', ValueError C:\Users\newco\Documents\Repos\Python\Upwork\Steven\EarningsReversalPattern\src\tools\spiders\trading_view_spider.py 154
+[10/02/2022 11:22:27] Fetching data for WEN 56 / 58
+[10/02/2022 11:22:29] Fetching data for WM 57 / 58
+[10/02/2022 11:22:32] Fetching data for YUM 58 / 58
+[10/02/2022 11:22:34] {'ABT': {'Current Price': '127.97',
+         'Dividends': {'Dividends Paid (FY)': '—',
+                       'Dividends Yield (FY)': '1.4407',
+                       'Dividends per Share (FY)': '1.8200'},
+         'Price to Earnings Ratio (TTM)': '33.0405',
+         'Total Shares Outstanding (MRQ)': '1.768B',
+         'Trading Below Value': False},
+ 'ACN': {'Current Price': '341.04',
+         'Dividends': {'Dividends Paid (FY)': '−2.233B',
+                       'Dividends Yield (FY)': '1.0913',
+                       'Dividends per Share (FY)': '3.5200'},
+         'Price to Earnings Ratio (TTM)': '36.9874',
+         'Total Shares Outstanding (MRQ)': '658.333M',
+         'Trading Below Value': False},
+ 'AMGN': {'Current Price': '229.33',
+          'Dividends': {'Dividends Paid (FY)': '−3.755B',
+                        'Dividends Yield (FY)': '3.2716',
+                        'Dividends per Share (FY)': '6.4000'},
+          'Price to Earnings Ratio (TTM)': '24.4410',
+          'Total Shares Outstanding (MRQ)': '563.266M',
+          'Trading Below Value': False},
+ 'APD': {'Current Price': '253.54',
+         'Dividends': {'Dividends Paid (FY)': '−1.257B',
+                       'Dividends Yield (FY)': '2.4985',
+                       'Dividends per Share (FY)': '5.8400'},
+         'Price to Earnings Ratio (TTM)': '27.2560',
+         'Total Shares Outstanding (MRQ)': '221.717M',
+         'Trading Below Value': False},
+ 'AVAL': {'Current Price': '5.46',
+          'Dividends': {'Dividends Paid (FY)': '−359.914M',
+                        'Dividends Yield (FY)': '4.6863',
+                        'Dividends per Share (FY)': '0.3208'},
+          'Price to Earnings Ratio (TTM)': '7.0545',
+          'Total Shares Outstanding (MRQ)': '357.491M',
+          'Trading Below Value': False},
+ 'BX': {'Current Price': '135.36',
+        'Dividends': {'Dividends Paid (FY)': '—',
+                      'Dividends Yield (FY)': '2.6523',
+                      'Dividends per Share (FY)': '3.5700'},
+        'Price to Earnings Ratio (TTM)': '16.5299',
+        'Total Shares Outstanding (MRQ)': '1.2B',
+        'Trading Below Value': False},
+ 'CMCSA': {'Current Price': '48.88',
+           'Dividends': {'Dividends Paid (FY)': '−4.532B',
+                         'Dividends Yield (FY)': '2.1700',
+                         'Dividends per Share (FY)': '1'},
+           'Price to Earnings Ratio (TTM)': '16.3653',
+           'Total Shares Outstanding (MRQ)': '4.533B',
+           'Trading Below Value': False},
+ 'CSCO': {'Current Price': '55.14',
+          'Dividends': {'Dividends Paid (FY)': '−6.163B',
+                        'Dividends Yield (FY)': '2.6292',
+                        'Dividends per Share (FY)': '1.4600'},
+          'Price to Earnings Ratio (TTM)': '20.9334',
+          'Total Shares Outstanding (MRQ)': '4.218B',
+          'Trading Below Value': False},
+ 'CVX': {'Current Price': '135.86',
+         'Dividends': {'Dividends Paid (FY)': '−10.2B',
+                       'Dividends Yield (FY)': '4.1222',
+                       'Dividends per Share (FY)': '5.3100'},
+         'Price to Earnings Ratio (TTM)': '16.9415',
+         'Total Shares Outstanding (MRQ)': '1.928B',
+         'Trading Below Value': False},
+ 'DPZ': {'Current Price': '438.59',
+         'Dividends': {'Dividends Paid (FY)': '−121.925M',
+                       'Dividends Yield (FY)': '0.8454',
+                       'Dividends per Share (FY)': '3.1200'},
+         'Price to Earnings Ratio (TTM)': '33.8110',
+         'Total Shares Outstanding (MRQ)': '36.39M',
+         'Trading Below Value': False},
+ 'ECL': {'Current Price': '187.83',
+         'Dividends': {'Dividends Paid (FY)': '−560.8M',
+                       'Dividends Yield (FY)': '1.0662',
+                       'Dividends per Share (FY)': '1.8900'},
+         'Price to Earnings Ratio (TTM)': '48.9536',
+         'Total Shares Outstanding (MRQ)': '286.567M',
+         'Trading Below Value': False},
+ 'EMR': {'Current Price': '96.90',
+         'Dividends': {'Dividends Paid (FY)': '−1.21B',
+                       'Dividends Yield (FY)': '2.0931',
+                       'Dividends per Share (FY)': '2.0200'},
+         'Price to Earnings Ratio (TTM)': '21.4619',
+         'Total Shares Outstanding (MRQ)': '594M',
+         'Trading Below Value': False},
+ 'ENB': {'Current Price': '54.59',
+         'Dividends': {'Dividends Paid (FY)': '−6.94B',
+                       'Dividends Yield (FY)': '6.3189',
+                       'Dividends per Share (FY)': '3.2400'},
+         'Price to Earnings Ratio (TTM)': '19.1690',
+         'Total Shares Outstanding (MRQ)': '2.026B',
+         'Trading Below Value': False},
+ 'ESS': {'Current Price': '0.445',
+         'Dividends': {'Dividends Paid (FY)': '0',
+                       'Dividends Yield (FY)': '—',
+                       'Dividends per Share (FY)': '0'},
+         'Price to Earnings Ratio (TTM)': '—',
+         'Total Shares Outstanding (MRQ)': '244.247M',
+         'Trading Below Value': False},
+ 'FDX': {'Current Price': '240.64',
+         'Dividends': {'Dividends Paid (FY)': '−686M',
+                       'Dividends Yield (FY)': '1.2283',
+                       'Dividends per Share (FY)': '2.6000'},
+         'Price to Earnings Ratio (TTM)': '13.4505',
+         'Total Shares Outstanding (MRQ)': '264.969M',
+         'Trading Below Value': False},
+ 'FRT': {'Current Price': '97000',
+         'Dividends': {'Dividends Paid (FY)': '−78.982B',
+                       'Dividends Yield (FY)': '—',
+                       'Dividends per Share (FY)': '—'},
+         'Price to Earnings Ratio (TTM)': '66.2320',
+         'Total Shares Outstanding (MRQ)': '78.982M',
+         'Trading Below Value': False},
+ 'GD': {'Current Price': '211.69',
+        'Dividends': {'Dividends Paid (FY)': '−1.315B',
+                      'Dividends Yield (FY)': '2.2094',
+                      'Dividends per Share (FY)': '4.7600'},
+        'Price to Earnings Ratio (TTM)': '18.6512',
+        'Total Shares Outstanding (MRQ)': '277.621M',
+        'Trading Below Value': False},
+ 'GPC': {'Current Price': '127.87',
+         'Dividends': {'Dividends Paid (FY)': '−453.277M',
+                       'Dividends Yield (FY)': '2.4678',
+                       'Dividends per Share (FY)': '3.1600'},
+         'Price to Earnings Ratio (TTM)': '23.4715',
+         'Total Shares Outstanding (MRQ)': '142.422M',
+         'Trading Below Value': False},
+ 'HAS': {'Current Price': '95.47',
+         'Dividends': {'Dividends Paid (FY)': '−374.5M',
+                       'Dividends Yield (FY)': '2.9097',
+                       'Dividends per Share (FY)': '2.7200'},
+         'Price to Earnings Ratio (TTM)': '31.0550',
+         'Total Shares Outstanding (MRQ)': '137.947M',
+         'Trading Below Value': False},
+ 'HD': {'Current Price': '356.15',
+        'Dividends': {'Dividends Paid (FY)': '−6.451B',
+                      'Dividends Yield (FY)': '1.8113',
+                      'Dividends per Share (FY)': '6'},
+        'Price to Earnings Ratio (TTM)': '24.3667',
+        'Total Shares Outstanding (MRQ)': '1.044B',
+        'Trading Below Value': False},
+ 'HON': {'Current Price': '192.55',
+         'Dividends': {'Dividends Paid (FY)': '−2.626B',
+                       'Dividends Yield (FY)': '1.9937',
+                       'Dividends per Share (FY)': '3.7700'},
+         'Price to Earnings Ratio (TTM)': '24.8581',
+         'Total Shares Outstanding (MRQ)': '688.423M',
+         'Trading Below Value': False},
+ 'IFF': {'Current Price': '139.78',
+         'Dividends': {'Dividends Paid (FY)': '−322.584M',
+                       'Dividends Yield (FY)': '2.3831',
+                       'Dividends per Share (FY)': '3.0400'},
+         'Price to Earnings Ratio (TTM)': '108.2979',
+         'Total Shares Outstanding (MRQ)': '254.547M',
+         'Trading Below Value': False},
+ 'INTC': {'Current Price': '49.06',
+          'Dividends': {'Dividends Paid (FY)': '−5.644B',
+                        'Dividends Yield (FY)': '2.9253',
+                        'Dividends per Share (FY)': '1.3900'},
+          'Price to Earnings Ratio (TTM)': '10.2725',
+          'Total Shares Outstanding (MRQ)': '4.072B',
+          'Trading Below Value': False},
+ 'ITW': {'Current Price': '219.23',
+         'Dividends': {'Dividends Paid (FY)': '—',
+                       'Dividends Yield (FY)': '2.1521',
+                       'Dividends per Share (FY)': '4.7200'},
+         'Price to Earnings Ratio (TTM)': '26.6479',
+         'Total Shares Outstanding (MRQ)': '313.881M',
+         'Trading Below Value': False},
+ 'JNJ': {'Current Price': '169.65',
+         'Dividends': {'Dividends Paid (FY)': '—',
+                       'Dividends Yield (FY)': '2.4724',
+                       'Dividends per Share (FY)': '4.1900'},
+         'Price to Earnings Ratio (TTM)': '21.9490',
+         'Total Shares Outstanding (MRQ)': '2.633B',
+         'Trading Below Value': False},
+ 'LIN': {'Current Price': '308.36',
+         'Dividends': {'Dividends Paid (FY)': '−2.028B',
+                       'Dividends Yield (FY)': '1.3940',
+                       'Dividends per Share (FY)': '3.8520'},
+         'Price to Earnings Ratio (TTM)': '44.7049',
+         'Total Shares Outstanding (MRQ)': '512.555M',
+         'Trading Below Value': False},
+ 'LMT': {'Current Price': '385.87',
+         'Dividends': {'Dividends Paid (FY)': '−2.94B',
+                       'Dividends Yield (FY)': '2.8387',
+                       'Dividends per Share (FY)': '10.6000'},
+         'Price to Earnings Ratio (TTM)': '17.3316',
+         'Total Shares Outstanding (MRQ)': '272.327M',
+         'Trading Below Value': False},
+ 'LRCX': {'Current Price': '599.44',
+          'Dividends': {'Dividends Paid (FY)': '−726.992M',
+                        'Dividends Yield (FY)': '0.9878',
+                        'Dividends per Share (FY)': '5.2000'},
+          'Price to Earnings Ratio (TTM)': '18.9248',
+          'Total Shares Outstanding (MRQ)': '139.5M',
+          'Trading Below Value': False},
+ 'MCD': {'Current Price': '256.77',
+         'Dividends': {'Dividends Paid (FY)': '−3.919B',
+                       'Dividends Yield (FY)': '2.1242',
+                       'Dividends per Share (FY)': '5.2500'},
+         'Price to Earnings Ratio (TTM)': '25.8961',
+         'Total Shares Outstanding (MRQ)': '747.245M',
+         'Trading Below Value': False},
+ 'MCHP': {'Current Price': '75.51',
+          'Dividends': {'Dividends Paid (FY)': '−388.3M',
+                        'Dividends Yield (FY)': '1.2903',
+                        'Dividends per Share (FY)': '0.7470'},
+          'Price to Earnings Ratio (TTM)': '46.0594',
+          'Total Shares Outstanding (MRQ)': '554.871M',
+          'Trading Below Value': False},
+ 'MMM': {'Current Price': '159.56',
+         'Dividends': {'Dividends Paid (FY)': '−3.42B',
+                       'Dividends Yield (FY)': '3.6421',
+                       'Dividends per Share (FY)': '5.9200'},
+         'Price to Earnings Ratio (TTM)': '16.1780',
+         'Total Shares Outstanding (MRQ)': '571.845M',
+         'Trading Below Value': False},
+ 'MRVL': {'Current Price': '74.37',
+          'Dividends': {'Dividends Paid (FY)': '−160.574M',
+                        'Dividends Yield (FY)': '0.3087',
+                        'Dividends per Share (FY)': '0.2400'},
+          'Price to Earnings Ratio (TTM)': '—',
+          'Total Shares Outstanding (MRQ)': '843.8M',
+          'Trading Below Value': False},
+ 'MSFT': {'Current Price': '301.78',
+          'Dividends': {'Dividends Paid (FY)': '−16.521B',
+                        'Dividends Yield (FY)': '0.7969',
+                        'Dividends per Share (FY)': '2.2400'},
+          'Price to Earnings Ratio (TTM)': '33.1103',
+          'Total Shares Outstanding (MRQ)': '7.497B',
+          'Trading Below Value': False},
+ 'NEU': {'Current Price': '4.31',
+         'Dividends': {'Dividends Paid (FY)': '0',
+                       'Dividends Yield (FY)': '—',
+                       'Dividends per Share (FY)': '0'},
+         'Price to Earnings Ratio (TTM)': '—',
+         'Total Shares Outstanding (MRQ)': '128.966M',
+         'Trading Below Value': False},
+ 'NWN': {'Current Price': '46.29',
+         'Dividends': {'Dividends Paid (FY)': '−55.42M',
+                       'Dividends Yield (FY)': '4.0683',
+                       'Dividends per Share (FY)': '1.9125'},
+         'Price to Earnings Ratio (TTM)': '17.2346',
+         'Total Shares Outstanding (MRQ)': '30.73M',
+         'Trading Below Value': False},
+ 'NXPI': {'Current Price': '201.53',
+          'Dividends': {'Dividends Paid (FY)': '−562M',
+                        'Dividends Yield (FY)': '1.6114',
+                        'Dividends per Share (FY)': '2.2500'},
+          'Price to Earnings Ratio (TTM)': '30.7426',
+          'Total Shares Outstanding (MRQ)': '265.933M',
+          'Trading Below Value': False},
+ 'NYCB': {'Current Price': '11.50',
+          'Dividends': {'Dividends Paid (FY)': '—',
+                        'Dividends Yield (FY)': '5.8120',
+                        'Dividends per Share (FY)': '0.6800'},
+          'Price to Earnings Ratio (TTM)': '9.8121',
+          'Total Shares Outstanding (MRQ)': '465.016M',
+          'Trading Below Value': False},
+ 'O': {'Current Price': '67.61',
+       'Dividends': {'Dividends Paid (FY)': '−964.167M',
+                     'Dividends Yield (FY)': '4.3145',
+                     'Dividends per Share (FY)': '2.8010'},
+       'Price to Earnings Ratio (TTM)': '54.0013',
+       'Total Shares Outstanding (MRQ)': '565.758M',
+       'Trading Below Value': False},
+ 'OKE': {'Current Price': '63.21',
+         'Dividends': {'Dividends Paid (FY)': '−1.605B',
+                       'Dividends Yield (FY)': '5.8768',
+                       'Dividends per Share (FY)': '3.7400'},
+         'Price to Earnings Ratio (TTM)': '19.9161',
+         'Total Shares Outstanding (MRQ)': '445.937M',
+         'Trading Below Value': False},
+ 'ON': {'Current Price': '63.90',
+        'Dividends': {'Dividends Paid (FY)': '0',
+                      'Dividends Yield (FY)': '—',
+                      'Dividends per Share (FY)': '—'},
+        'Price to Earnings Ratio (TTM)': '29.4262',
+        'Total Shares Outstanding (MRQ)': '430.834M',
+        'Trading Below Value': False},
+ 'PEP': {'Current Price': '168.15',
+         'Dividends': {'Dividends Paid (FY)': '−5.509B',
+                       'Dividends Yield (FY)': '2.5009',
+                       'Dividends per Share (FY)': '4.0225'},
+         'Price to Earnings Ratio (TTM)': '29.3163',
+         'Total Shares Outstanding (MRQ)': '1.383B',
+         'Trading Below Value': False},
+ 'PG': {'Current Price': '157.05',
+        'Dividends': {'Dividends Paid (FY)': '−8.263B',
+                      'Dividends Yield (FY)': '2.1799',
+                      'Dividends per Share (FY)': '3.2419'},
+        'Price to Earnings Ratio (TTM)': '28.2069',
+        'Total Shares Outstanding (MRQ)': '2.397B',
+        'Trading Below Value': False},
+ 'PM': {'Current Price': '104.01',
+        'Dividends': {'Dividends Paid (FY)': '−7.364B',
+                      'Dividends Yield (FY)': '4.8031',
+                      'Dividends per Share (FY)': '4.7400'},
+        'Price to Earnings Ratio (TTM)': '18.1053',
+        'Total Shares Outstanding (MRQ)': '1.557B',
+        'Trading Below Value': False},
+ 'PNW': {'Current Price': '69.17',
+         'Dividends': {'Dividends Paid (FY)': '−350.577M',
+                       'Dividends Yield (FY)': '4.7948',
+                       'Dividends per Share (FY)': '3.1775'},
+         'Price to Earnings Ratio (TTM)': '14.0430',
+         'Total Shares Outstanding (MRQ)': '112.819M',
+         'Trading Below Value': False},
+ 'PPG': {'Current Price': '154.54',
+         'Dividends': {'Dividends Paid (FY)': '—',
+                       'Dividends Yield (FY)': '1.5033',
+                       'Dividends per Share (FY)': '2.2600'},
+         'Price to Earnings Ratio (TTM)': '26.1063',
+         'Total Shares Outstanding (MRQ)': '237.401M',
+         'Trading Below Value': False},
+ 'PSX': {'Current Price': '89.62',
+         'Dividends': {'Dividends Paid (FY)': '−1.585B',
+                       'Dividends Yield (FY)': '4.1140',
+                       'Dividends per Share (FY)': '3.6200'},
+         'Price to Earnings Ratio (TTM)': '30.2554',
+         'Total Shares Outstanding (MRQ)': '438.17M',
+         'Trading Below Value': False},
+ 'QSR': {'Current Price': '57.61',
+         'Dividends': {'Dividends Paid (FY)': '−1.01B',
+                       'Dividends Yield (FY)': '3.6899',
+                       'Dividends per Share (FY)': '2.1873'},
+         'Price to Earnings Ratio (TTM)': '24.1369',
+         'Total Shares Outstanding (MRQ)': '315.072M',
+         'Trading Below Value': False},
+ 'RIOCF': {'Current Price': '18.44',
+           'Dividends': {'Dividends Paid (FY)': '−359.122M',
+                         'Dividends Yield (FY)': '4.2365',
+                         'Dividends per Share (FY)': '1.1303'},
+           'Price to Earnings Ratio (TTM)': '15.8390',
+           'Total Shares Outstanding (MRQ)': '317.8M',
+           'Trading Below Value': False},
+ 'RTX': {'Current Price': '94.87',
+         'Dividends': {'Dividends Paid (FY)': '−2.957B',
+                       'Dividends Yield (FY)': '2.1250',
+                       'Dividends per Share (FY)': '2.0050'},
+         'Price to Earnings Ratio (TTM)': '37.4780',
+         'Total Shares Outstanding (MRQ)': '1.497B',
+         'Trading Below Value': False},
+ 'SAFT': {'Current Price': '85.25',
+          'Dividends': {'Dividends Paid (FY)': '−54.575M',
+                        'Dividends Yield (FY)': '4.1754',
+                        'Dividends per Share (FY)': '3.6000'},
+          'Price to Earnings Ratio (TTM)': '8.4725',
+          'Total Shares Outstanding (MRQ)': '14.982M',
+          'Trading Below Value': False},
+ 'TXN': {'Current Price': '171.87',
+         'Dividends': {'Dividends Paid (FY)': '−3.886B',
+                       'Dividends Yield (FY)': '2.6031',
+                       'Dividends per Share (FY)': '4.2100'},
+         'Price to Earnings Ratio (TTM)': '21.3810',
+         'Total Shares Outstanding (MRQ)': '923.547M',
+         'Trading Below Value': False},
+ 'UPS': {'Current Price': '220.80',
+         'Dividends': {'Dividends Paid (FY)': '—',
+                       'Dividends Yield (FY)': '2.7014',
+                       'Dividends per Share (FY)': '4.0800'},
+         'Price to Earnings Ratio (TTM)': '15.3236',
+         'Total Shares Outstanding (MRQ)': '869.142M',
+         'Trading Below Value': False},
+ 'V': {'Current Price': '225.57',
+       'Dividends': {'Dividends Paid (FY)': '−2.798B',
+                     'Dividends Yield (FY)': '0.6497',
+                     'Dividends per Share (FY)': '1.2800'},
+       'Price to Earnings Ratio (TTM)': '39.1259',
+       'Total Shares Outstanding (MRQ)': '2.097B',
+       'Trading Below Value': False},
+ 'VZ': {'Current Price': '53.00',
+        'Dividends': {'Dividends Paid (FY)': '−10.445B',
+                      'Dividends Yield (FY)': '4.7850',
+                      'Dividends per Share (FY)': '2.5350'},
+        'Price to Earnings Ratio (TTM)': '10.0587',
+        'Total Shares Outstanding (MRQ)': '4.198B',
+        'Trading Below Value': False},
+ 'WBK': {'Current Price': '1091.000',
+         'Dividends': {'Dividends Paid (FY)': '—',
+                       'Dividends Yield (FY)': '—',
+                       'Dividends per Share (FY)': '—'},
+         'Price to Earnings Ratio (TTM)': '—',
+         'Total Shares Outstanding (MRQ)': '—',
+         'Trading Below Value': False},
+ 'WEN': {'Current Price': '23.08',
+         'Dividends': {'Dividends Paid (FY)': '−64.866M',
+                       'Dividends Yield (FY)': '1.8329',
+                       'Dividends per Share (FY)': '0.2900'},
+         'Price to Earnings Ratio (TTM)': '28.3848',
+         'Total Shares Outstanding (MRQ)': '220.634M',
+         'Trading Below Value': False},
+ 'WM': {'Current Price': '143.91',
+        'Dividends': {'Dividends Paid (FY)': '−970M',
+                      'Dividends Yield (FY)': '1.5685',
+                      'Dividends per Share (FY)': '2.3000'},
+        'Price to Earnings Ratio (TTM)': '34.1365',
+        'Total Shares Outstanding (MRQ)': '418.316M',
+        'Trading Below Value': False},
+ 'YUM': {'Current Price': '124.72',
+         'Dividends': {'Dividends Paid (FY)': '−592M',
+                       'Dividends Yield (FY)': '1.7854',
+                       'Dividends per Share (FY)': '2'},
+         'Price to Earnings Ratio (TTM)': '24.4946',
+         'Total Shares Outstanding (MRQ)': '293.133M',
+         'Trading Below Value': False}}
+
+=========================================================================================
+
+=========================================================================================
+
+=========================================================================================
+
+=========================================================================================
+
+=========================================================================================
+
+=========================================================================================
+
+=========================================================================================
+
+=========================================================================================
+
+=========================================================================================
+
+=========================================================================================
+
+=========================================================================================
+
+=========================================================================================
+
+=========================================================================================
+
+=========================================================================================
+
+=========================================================================================
+
+=========================================================================================
+
+=========================================================================================
+
+=========================================================================================
+
+=========================================================================================
+
+=========================================================================================
+
+=========================================================================================
+
+=========================================================================================
+[10/02/2022 22:50:42] Fetching data for EOG 1 / 58
+
+=========================================================================================
+[10/02/2022 22:51:05] Fetching data for EOG 1 / 58
