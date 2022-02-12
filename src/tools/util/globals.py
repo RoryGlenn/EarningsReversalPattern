@@ -5,7 +5,7 @@ from .config import Config
 
 class Globals:
     log:    Log    = Log()
-    config: Config = Config()
+    # config: Config = Config()
 
 # Global variable "G" is shared between files and classes
 G: Globals = Globals()

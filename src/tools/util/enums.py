@@ -1,8 +1,6 @@
-CHROME_DRIVER_PATH = 'drivers/windows/chromedriver_v98.0.4758.80.exe'
-# ALPHA_QUERY_URL   = 'https://www.alphaquery.com/stock/AAPL/earnings-history'
-ALPHA_QUERY_URL   = 'https://www.alphaquery.com/stock/'
+ALPHA_QUERY_URL    = 'https://www.alphaquery.com/stock/'
 CONFIG_JSON        = 'json/config.json'
-STOCK_LIST = "data/Trade_List_2017_Present.xlsx"
+STOCK_LIST         = "data/Trade_List_2017_Present.xlsx"
 
 
 class FileMode:
