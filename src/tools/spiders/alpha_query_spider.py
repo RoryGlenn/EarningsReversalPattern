@@ -1,11 +1,11 @@
 import datetime
 
 import pandas as pd
+import numpy  as np
 
-from pprint         import pprint
+from pprint         import PrettyPrinter, pprint
 from ..util.enums   import *
 from ..util.globals import G
-
 
 
 class AlphaQuerySpider():
@@ -16,10 +16,12 @@ class AlphaQuerySpider():
         return
 
     def __add_to_all_stocks(self, symbol, entry_date) -> None:
+        entry_date_str = entry_date[0] + '-' + entry_date[1] + '-' + entry_date[2]
+        
         if symbol in self.all_stocks:
-            self.all_stocks[symbol].append(entry_date.strftime("%m-%d-%Y"))
+            self.all_stocks[symbol].append(entry_date_str)
         else:
-            self.all_stocks[symbol] = [entry_date.strftime("%m-%d-%Y")]
+            self.all_stocks[symbol] = [entry_date_str]
         return
 
     def __add_to_reported_stocks(self, symbol, earnings_date) -> None:
@@ -29,10 +31,21 @@ class AlphaQuerySpider():
             self.reported_stocks[symbol] = [earnings_date.strftime("%m-%d-%Y")]        
         return
 
+    def __add_to_unreported_stocks(self, symbol, entry_date) -> None:
+        entry_date_str = entry_date[0] + '-' + entry_date[1] + '-' + entry_date[2]
+        
+        if symbol in self.unreported_stocks:
+            self.unreported_stocks[symbol].append(entry_date_str)
+        else:
+            self.unreported_stocks[symbol] = [entry_date_str]
+        return
+
+
     def scrape_data(self) -> None:
-        stock_df             = pd.read_excel(STOCK_LIST, usecols=['Date', 'Symbol', 'Price'])
-        symbol_list          = stock_df['Symbol'].to_list()
-        stock_count          = 1
+        stock_df    = pd.read_excel(STOCK_LIST, usecols=['Date', 'Symbol', 'Price'])
+        symbol_list = stock_df['Symbol'].to_list()
+        stock_count = 1
+        reported = False
 
         for row in stock_df.iterrows():
             entry_date   = row[1]['Date']
@@ -65,68 +78,75 @@ class AlphaQuerySpider():
                             # spreadsheet, one with reported and one non-reported
                             
                             self.__add_to_reported_stocks(symbol, earnings_date)
-                                
-                            print("self.reported_stocks")
-                            print(self.reported_stocks)
-                            print()
+                            reported = True
                             break
                     except Exception as e:
                         G.log.print_and_log(e=e, filename=__file__)
+
+                if not reported:
+                    self.__add_to_unreported_stocks(symbol, entry_date)
+
             except Exception as e:
                 G.log.print_and_log(e=e, filename=__file__)
+
             stock_count += 1
 
+        reported_stock_str = PrettyPrinter(indent=1).pformat({symbol: earnings_date for (symbol, earnings_date) in self.reported_stocks.items()})
+        G.log.print_and_log(f"{reported_stock_str}")
 
-        pprint({symbol: earnings_date for (symbol, earnings_date) in self.reported_stocks.items()})
-        print("\n")
+        reported_s = pd.Series(self.reported_stocks)
+        unreported = pd.Series(self.unreported_stocks)
+
+        reported_s.to_excel("Trade_Result_Reported.xlsx", sheet_name="Reported Stocks")
+        unreported.to_excel("Trade_Result_Unreported.xlsx", sheet_name="Unreported Stocks")
         return
 
 
 
 """
-{'ALLE': ['12-31-2020'],
- 'APTV': ['09-30-2020'],
- 'ATVI': ['09-30-2019'],
- 'BDX': ['06-30-2018', '09-30-2018', '03-31-2019'],
- 'BIO': ['03-31-2019'],
- 'CLX': ['06-30-2020'],
- 'COST': ['11-30-2019'],
- 'CTSH': ['03-31-2018'],
- 'DD': ['12-31-2017'],
- 'DIS': ['06-30-2019'],
- 'DLR': ['09-30-2017'],
- 'DXCM': ['03-31-2017'],
- 'EL': ['09-30-2017', '09-30-2021'],
- 'EMN': ['03-31-2017'],
- 'EPAM': ['06-30-2018'],
- 'EQR': ['12-31-2021'],
- 'FB': ['09-30-2017'],
- 'FLT': ['03-31-2017'],
- 'FRT': ['12-31-2021'],
- 'HES': ['12-31-2017'],
- 'IT': ['06-30-2021'],
- 'J': ['09-30-2019'],
- 'JKHY': ['06-30-2017', '09-30-2021'],
- 'LIN': ['12-31-2021'],
- 'LOW': ['04-30-2019'],
- 'MLM': ['12-31-2020'],
- 'MSCI': ['06-30-2020'],
- 'NDAQ': ['09-30-2021'],
- 'NUE': ['12-31-2021', '12-31-2021'],
- 'PEP': ['09-30-2019'],
- 'PKI': ['09-30-2020'],
- 'REG': ['12-31-2021'],
- 'ROK': ['06-30-2017'],
- 'ROP': ['06-30-2021'],
- 'SEE': ['06-30-2020'],
- 'SNPS': ['07-31-2019'],
- 'SPGI': ['03-31-2018'],
- 'TDG': ['06-30-2018'],
- 'TMO': ['09-30-2019'],
- 'TSN': ['12-31-2021'],
- 'TT': ['12-31-2020'],
- 'VRSK': ['09-30-2019'],
- 'WST': ['09-30-2019'],
- 'XOM': ['06-30-2021']}
+    {'ALLE': ['12-31-2020'],
+    'APTV': ['09-30-2020'],
+    'ATVI': ['09-30-2019'],
+    'BDX': ['06-30-2018', '09-30-2018', '03-31-2019'],
+    'BIO': ['03-31-2019'],
+    'CLX': ['06-30-2020'],
+    'COST': ['11-30-2019'],
+    'CTSH': ['03-31-2018'],
+    'DD': ['12-31-2017'],
+    'DIS': ['06-30-2019'],
+    'DLR': ['09-30-2017'],
+    'DXCM': ['03-31-2017'],
+    'EL': ['09-30-2017', '09-30-2021'],
+    'EMN': ['03-31-2017'],
+    'EPAM': ['06-30-2018'],
+    'EQR': ['12-31-2021'],
+    'FB': ['09-30-2017'],
+    'FLT': ['03-31-2017'],
+    'FRT': ['12-31-2021'],
+    'HES': ['12-31-2017'],
+    'IT': ['06-30-2021'],
+    'J': ['09-30-2019'],
+    'JKHY': ['06-30-2017', '09-30-2021'],
+    'LIN': ['12-31-2021'],
+    'LOW': ['04-30-2019'],
+    'MLM': ['12-31-2020'],
+    'MSCI': ['06-30-2020'],
+    'NDAQ': ['09-30-2021'],
+    'NUE': ['12-31-2021', '12-31-2021'],
+    'PEP': ['09-30-2019'],
+    'PKI': ['09-30-2020'],
+    'REG': ['12-31-2021'],
+    'ROK': ['06-30-2017'],
+    'ROP': ['06-30-2021'],
+    'SEE': ['06-30-2020'],
+    'SNPS': ['07-31-2019'],
+    'SPGI': ['03-31-2018'],
+    'TDG': ['06-30-2018'],
+    'TMO': ['09-30-2019'],
+    'TSN': ['12-31-2021'],
+    'TT': ['12-31-2020'],
+    'VRSK': ['09-30-2019'],
+    'WST': ['09-30-2019'],
+    'XOM': ['06-30-2021']}
 
 """        
