@@ -27,6 +27,18 @@ class AlphaQuerySpider():
         else:
             self.unreported_stocks[symbol] = [entry_date_str]
         return
+    
+    def __write_to_excel(self) -> None:
+        reported_s   = pd.Series(self.reported_stocks)
+        unreported_s = pd.Series(self.unreported_stocks)
+
+        G.log.print_and_log(f"Reported stocks\n{reported_s}")
+        G.log.print_and_log(f"Unreported stocks\n{unreported_s}")
+
+        with pd.ExcelWriter('Trade_Result.xlsx', engine='xlsxwriter') as writer:
+            reported_s.to_excel(writer, sheet_name="Reported_Stocks")
+            unreported_s.to_excel(writer, sheet_name="Unreported_Stocks")        
+        return
 
     def scrape_data(self) -> None:
         stock_df    = pd.read_excel(STOCK_LIST, usecols=['Date', 'Symbol', 'Price'])
@@ -38,7 +50,7 @@ class AlphaQuerySpider():
         for row in stock_df.iterrows():
             entry_date   = row[1]['Date']
             symbol       = row[1]['Symbol']
-            entry_price  = row[1]['Price']
+            # entry_price  = row[1]['Price']
 
             G.log.print_and_log(f"Fetching data for {symbol} {entry_date} {stock_count} / {len(symbol_list)}")
             
@@ -70,14 +82,6 @@ class AlphaQuerySpider():
             except Exception as e:
                 G.log.print_and_log(e=e, filename=__file__)
             stock_count += 1
-
-        reported_s   = pd.Series(self.reported_stocks)
-        unreported_s = pd.Series(self.unreported_stocks)
-
-        G.log.print_and_log(f"Reported stocks\n{reported_s}")
-        G.log.print_and_log(f"Unreported stocks\n{unreported_s}")
-
-        with pd.ExcelWriter('Trade_Result.xlsx', engine='xlsxwriter') as writer:
-            reported_s.to_excel(writer, sheet_name="Reported_Stocks")
-            unreported_s.to_excel(writer, sheet_name="Unreported_Stocks")
+            
+        self.__write_to_excel()
         return
