@@ -85,6 +85,7 @@ class AlphaQuerySpider():
 
                 if not reported:
                     self.__add_to_unreported_stocks(symbol, entry_date)
+                reported = False
 
             except Exception as e:
                 G.log.print_and_log(e=e, filename=__file__)
@@ -94,11 +95,16 @@ class AlphaQuerySpider():
         reported_stock_str = PrettyPrinter(indent=1).pformat({symbol: earnings_date for (symbol, earnings_date) in self.reported_stocks.items()})
         G.log.print_and_log(f"{reported_stock_str}")
 
-        reported_s = pd.Series(self.reported_stocks)
-        unreported = pd.Series(self.unreported_stocks)
+        self.reported_stocks
+
+        reported_s   = pd.Series(self.reported_stocks)
+        unreported_s = pd.Series(self.unreported_stocks)
+
+        reported_s.sort_index(axis=1)
+        unreported_s.sort_index(axis=1)
 
         reported_s.to_excel("Trade_Result_Reported.xlsx", sheet_name="Reported Stocks")
-        unreported.to_excel("Trade_Result_Unreported.xlsx", sheet_name="Unreported Stocks")
+        unreported_s.to_excel("Trade_Result_Unreported.xlsx", sheet_name="Unreported Stocks")
         return
 
 
