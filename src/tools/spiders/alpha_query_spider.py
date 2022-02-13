@@ -4,25 +4,26 @@ import pandas as pd
 import numpy  as np
 
 from pprint         import PrettyPrinter, pprint
+
 from ..util.enums   import *
 from ..util.globals import G
 
 
 class AlphaQuerySpider():
     def __init__(self) -> None:
-        self.reported_stocks    = dict()
+        self.reported_stocks   = dict()
         self.unreported_stocks = dict()
-        self.all_stocks = dict()
+        # self.all_stocks        = dict()
         return
 
-    def __add_to_all_stocks(self, symbol, entry_date) -> None:
-        entry_date_str = entry_date[0] + '-' + entry_date[1] + '-' + entry_date[2]
+    # def __add_to_all_stocks(self, symbol, entry_date) -> None:
+    #     entry_date_str = entry_date[0] + '-' + entry_date[1] + '-' + entry_date[2]
         
-        if symbol in self.all_stocks:
-            self.all_stocks[symbol].append(entry_date_str)
-        else:
-            self.all_stocks[symbol] = [entry_date_str]
-        return
+    #     if symbol in self.all_stocks:
+    #         self.all_stocks[symbol].append(entry_date_str)
+    #     else:
+    #         self.all_stocks[symbol] = [entry_date_str]
+    #     return
 
     def __add_to_reported_stocks(self, symbol, earnings_date) -> None:
         if symbol in self.reported_stocks.keys():
@@ -42,10 +43,11 @@ class AlphaQuerySpider():
 
 
     def scrape_data(self) -> None:
-        stock_df    = pd.read_excel(STOCK_LIST, usecols=['Date', 'Symbol', 'Price'])
+        stock_df    = pd.read_excel(STOCK_LIST_TEST, usecols=['Date', 'Symbol', 'Price'])
+        # stock_df    = pd.read_excel(STOCK_LIST, usecols=['Date', 'Symbol', 'Price'])
         symbol_list = stock_df['Symbol'].to_list()
         stock_count = 1
-        reported = False
+        reported    = False
 
         for row in stock_df.iterrows():
             entry_date   = row[1]['Date']
@@ -62,7 +64,7 @@ class AlphaQuerySpider():
                 end_date    = datetime.datetime(year=int(entry_date[2]), month=int(entry_date[0]), day=int(entry_date[1]))
                 start_date  = end_date - datetime.timedelta(days=7)
 
-                self.__add_to_all_stocks(symbol, entry_date)
+                # self.__add_to_all_stocks(symbol, entry_date)
 
                 for _row in earnings_df.iterrows():
                     try:
@@ -89,22 +91,28 @@ class AlphaQuerySpider():
 
             except Exception as e:
                 G.log.print_and_log(e=e, filename=__file__)
-
             stock_count += 1
 
-        reported_stock_str = PrettyPrinter(indent=1).pformat({symbol: earnings_date for (symbol, earnings_date) in self.reported_stocks.items()})
-        G.log.print_and_log(f"{reported_stock_str}")
-
-        self.reported_stocks
+        # reported_stock_str = PrettyPrinter(indent=1).pformat({symbol: earnings_date for (symbol, earnings_date) in self.reported_stocks.items()})
 
         reported_s   = pd.Series(self.reported_stocks)
         unreported_s = pd.Series(self.unreported_stocks)
 
-        reported_s.sort_index(axis=1)
-        unreported_s.sort_index(axis=1)
+        reported_s.sort_index()
+        unreported_s.sort_index()
 
-        reported_s.to_excel("Trade_Result_Reported.xlsx", sheet_name="Reported Stocks")
-        unreported_s.to_excel("Trade_Result_Unreported.xlsx", sheet_name="Unreported Stocks")
+        G.log.print_and_log("Reported stocks")
+        G.log.print_and_log(f"{reported_s}")
+
+        G.log.print_and_log(f"Unreported stocks")
+        G.log.print_and_log(f"{unreported_s}")
+
+        writer = pd.ExcelWriter('Trade_Result.xlsx', engine='xlsxwriter')
+
+        reported_s.to_excel(writer, sheet_name="Reported_Stocks")
+        unreported_s.to_excel(writer, sheet_name="Unreported_Stocks")
+
+        writer.save()
         return
 
 

@@ -1,6 +1,7 @@
-ALPHA_QUERY_URL    = 'https://www.alphaquery.com/stock/'
-CONFIG_JSON        = 'json/config.json'
-STOCK_LIST         = "data/Trade_List_2017_Present.xlsx"
+ALPHA_QUERY_URL = 'https://www.alphaquery.com/stock/'
+CONFIG_JSON     = 'json/config.json'
+STOCK_LIST      = "data/Trade_List_2017_Present.xlsx"
+STOCK_LIST_TEST = "data/Trade_List_2017_Present_TEST.xlsx"
 
 
 class FileMode:

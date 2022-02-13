@@ -1,0 +1,318 @@
+
+=========================================================================================
+[13/02/2022 12:49:18] Fetching data for EOG 12/5/2016 1 / 19
+[13/02/2022 12:49:19] Fetching data for EOG 1/17/2017 2 / 19
+[13/02/2022 12:49:19] Fetching data for HII 12/19/2016 3 / 19
+[13/02/2022 12:49:20] Fetching data for HII 1/30/2017 4 / 19
+[13/02/2022 12:49:20] Fetching data for VIAC 12/19/2016 5 / 19
+[13/02/2022 12:49:21] Fetching data for VIAC 1/30/2017 6 / 19
+[13/02/2022 12:49:21] Fetching data for ALK 1/17/2017 7 / 19
+[13/02/2022 12:49:22] Fetching data for ALK 2/27/2017 8 / 19
+[13/02/2022 12:49:22] Fetching data for GWW 1/17/2017 9 / 19
+[13/02/2022 12:49:22] Fetching data for GWW 1/25/2017 10 / 19
+[13/02/2022 12:49:23] Fetching data for GWW 3/9/2017 11 / 19
+[13/02/2022 12:49:23] Fetching data for NSC 1/23/2017 12 / 19
+[13/02/2022 12:49:24] Fetching data for NSC 2/13/2017 13 / 19
+[13/02/2022 12:49:24] Fetching data for NSC 3/15/2017 14 / 19
+[13/02/2022 12:49:25] Fetching data for BRK.B 1/30/2017 15 / 19
+[13/02/2022 12:49:25] Fetching data for BRK.B 3/1/2017 16 / 19
+[13/02/2022 12:49:26] Fetching data for BRK.B 3/27/2017 17 / 19
+[13/02/2022 12:49:26] Fetching data for EMN 1/30/2017 18 / 19
+[13/02/2022 12:49:27] Fetching data for EMN 3/13/2017 19 / 19
+[13/02/2022 12:49:27] {}
+
+=========================================================================================
+[13/02/2022 12:49:51] Fetching data for EOG 12/5/2016 1 / 19
+[13/02/2022 12:49:51] Fetching data for EOG 1/17/2017 2 / 19
+[13/02/2022 12:49:52] Fetching data for HII 12/19/2016 3 / 19
+[13/02/2022 12:49:52] Fetching data for HII 1/30/2017 4 / 19
+[13/02/2022 12:49:53] Fetching data for VIAC 12/19/2016 5 / 19
+[13/02/2022 12:49:53] Fetching data for VIAC 1/30/2017 6 / 19
+[13/02/2022 12:49:54] Fetching data for ALK 1/17/2017 7 / 19
+[13/02/2022 12:49:54] Fetching data for ALK 2/27/2017 8 / 19
+[13/02/2022 12:49:55] Fetching data for GWW 1/17/2017 9 / 19
+[13/02/2022 12:49:55] Fetching data for GWW 1/25/2017 10 / 19
+[13/02/2022 12:49:55] Fetching data for GWW 3/9/2017 11 / 19
+[13/02/2022 12:49:56] Fetching data for NSC 1/23/2017 12 / 19
+[13/02/2022 12:49:56] Fetching data for NSC 2/13/2017 13 / 19
+[13/02/2022 12:49:57] Fetching data for NSC 3/15/2017 14 / 19
+[13/02/2022 12:49:57] Fetching data for BRK.B 1/30/2017 15 / 19
+[13/02/2022 12:49:58] Fetching data for BRK.B 3/1/2017 16 / 19
+[13/02/2022 12:49:58] Fetching data for BRK.B 3/27/2017 17 / 19
+[13/02/2022 12:49:59] Fetching data for EMN 1/30/2017 18 / 19
+[13/02/2022 12:49:59] Fetching data for EMN 3/13/2017 19 / 19
+[13/02/2022 12:50:00] {}
+
+=========================================================================================
+[13/02/2022 12:50:19] Fetching data for EOG 12/5/2016 1 / 19
+[13/02/2022 12:50:20] Fetching data for EOG 1/17/2017 2 / 19
+[13/02/2022 12:50:21] Fetching data for HII 12/19/2016 3 / 19
+[13/02/2022 12:50:21] Fetching data for HII 1/30/2017 4 / 19
+[13/02/2022 12:50:21] Fetching data for VIAC 12/19/2016 5 / 19
+[13/02/2022 12:50:22] Fetching data for VIAC 1/30/2017 6 / 19
+[13/02/2022 12:50:22] Fetching data for ALK 1/17/2017 7 / 19
+[13/02/2022 12:50:23] Fetching data for ALK 2/27/2017 8 / 19
+[13/02/2022 12:50:23] Fetching data for GWW 1/17/2017 9 / 19
+[13/02/2022 12:50:24] Fetching data for GWW 1/25/2017 10 / 19
+[13/02/2022 12:50:24] Fetching data for GWW 3/9/2017 11 / 19
+[13/02/2022 12:50:25] Fetching data for NSC 1/23/2017 12 / 19
+[13/02/2022 12:50:25] Fetching data for NSC 2/13/2017 13 / 19
+[13/02/2022 12:50:26] Fetching data for NSC 3/15/2017 14 / 19
+[13/02/2022 12:50:26] Fetching data for BRK.B 1/30/2017 15 / 19
+[13/02/2022 12:50:26] Fetching data for BRK.B 3/1/2017 16 / 19
+[13/02/2022 12:50:27] Fetching data for BRK.B 3/27/2017 17 / 19
+[13/02/2022 12:50:27] Fetching data for EMN 1/30/2017 18 / 19
+[13/02/2022 12:50:28] Fetching data for EMN 3/13/2017 19 / 19
+[13/02/2022 12:50:28] {}
+
+=========================================================================================
+[13/02/2022 12:52:06] Fetching data for EOG 12/5/2016 1 / 98
+[13/02/2022 12:52:07] Fetching data for EOG 1/17/2017 2 / 98
+[13/02/2022 12:52:07] Fetching data for HII 12/19/2016 3 / 98
+[13/02/2022 12:52:07] Fetching data for HII 1/30/2017 4 / 98
+[13/02/2022 12:52:08] Fetching data for VIAC 12/19/2016 5 / 98
+[13/02/2022 12:52:08] Fetching data for VIAC 1/30/2017 6 / 98
+[13/02/2022 12:52:09] Fetching data for ALK 1/17/2017 7 / 98
+[13/02/2022 12:52:09] Fetching data for ALK 2/27/2017 8 / 98
+[13/02/2022 12:52:10] Fetching data for GWW 1/17/2017 9 / 98
+[13/02/2022 12:52:10] Fetching data for GWW 1/25/2017 10 / 98
+[13/02/2022 12:52:11] Fetching data for GWW 3/9/2017 11 / 98
+[13/02/2022 12:52:11] Fetching data for NSC 1/23/2017 12 / 98
+[13/02/2022 12:52:12] Fetching data for NSC 2/13/2017 13 / 98
+[13/02/2022 12:52:12] Fetching data for NSC 3/15/2017 14 / 98
+[13/02/2022 12:52:12] Fetching data for BRK.B 1/30/2017 15 / 98
+[13/02/2022 12:52:13] Fetching data for BRK.B 3/1/2017 16 / 98
+[13/02/2022 12:52:13] Fetching data for BRK.B 3/27/2017 17 / 98
+[13/02/2022 12:52:14] Fetching data for EMN 1/30/2017 18 / 98
+[13/02/2022 12:52:14] Fetching data for EMN 3/13/2017 19 / 98
+[13/02/2022 12:52:15] Fetching data for FDX 1/30/2017 20 / 98
+[13/02/2022 12:52:15] Fetching data for FDX 3/13/2017 21 / 98
+[13/02/2022 12:52:16] Fetching data for GD 1/30/2017 22 / 98
+[13/02/2022 12:52:16] Fetching data for GD 3/13/2017 23 / 98
+[13/02/2022 12:52:16] Fetching data for HAL 1/30/2017 24 / 98
+[13/02/2022 12:52:17] Fetching data for HAL 3/8/2017 25 / 98
+[13/02/2022 12:52:17] Fetching data for LUV 1/30/2017 26 / 98
+[13/02/2022 12:52:18] Fetching data for LUV 2/13/2017 27 / 98
+[13/02/2022 12:52:18] Fetching data for LUV 3/14/2017 28 / 98
+[13/02/2022 12:52:19] Fetching data for STX 1/30/2017 29 / 98
+[13/02/2022 12:52:19] Fetching data for STX 2/13/2017 30 / 98
+[13/02/2022 12:52:20] Fetching data for STX 3/21/2017 31 / 98
+[13/02/2022 12:52:20] Fetching data for ALGN 2/6/2017 32 / 98
+[13/02/2022 12:52:21] Fetching data for ALGN 2/28/2017 33 / 98
+[13/02/2022 12:52:21] Fetching data for ALGN 12/21/2017 34 / 98
+[13/02/2022 12:52:22] Fetching data for COP 2/6/2017 35 / 98
+[13/02/2022 12:52:22] Fetching data for COP 3/14/2017 36 / 98
+[13/02/2022 12:52:23] Fetching data for CTXS 2/6/2017 37 / 98
+[13/02/2022 12:52:23] Fetching data for CTXS 3/13/2017 38 / 98
+[13/02/2022 12:52:23] Fetching data for CTXS 4/27/2017 39 / 98
+[13/02/2022 12:52:24] Fetching data for GS 2/6/2017 40 / 98
+[13/02/2022 12:52:24] Fetching data for GS 3/20/2017 41 / 98
+[13/02/2022 12:52:25] Fetching data for FANG 2/13/2017 42 / 98
+[13/02/2022 12:52:25] Fetching data for FANG 2/15/2017 43 / 98
+[13/02/2022 12:52:26] Fetching data for FANG 2/22/2017 44 / 98
+[13/02/2022 12:52:26] Fetching data for PXD 2/13/2017 45 / 98
+[13/02/2022 12:52:27] Fetching data for PXD 3/27/2017 46 / 98
+[13/02/2022 12:52:27] Fetching data for TYL 2/13/2017 47 / 98
+[13/02/2022 12:52:28] Fetching data for TYL 3/27/2017 48 / 98
+[13/02/2022 12:52:28] Fetching data for DXCM 3/6/2017 49 / 98
+[13/02/2022 12:52:28] Fetching data for DXCM 3/29/2017 50 / 98
+[13/02/2022 12:52:29] Fetching data for DXCM 4/6/2017 51 / 98
+[13/02/2022 12:52:29] Fetching data for ADSK 3/13/2017 52 / 98
+[13/02/2022 12:52:30] Fetching data for ADSK 4/24/2017 53 / 98
+[13/02/2022 12:52:30] Fetching data for BXP 3/20/2017 54 / 98
+[13/02/2022 12:52:31] Fetching data for BXP 5/1/2017 55 / 98
+[13/02/2022 12:52:31] Fetching data for FLT 3/20/2017 56 / 98
+[13/02/2022 12:52:32] Fetching data for FLT 4/4/2017 57 / 98
+[13/02/2022 12:52:32] Fetching data for HII 3/20/2017 58 / 98
+[13/02/2022 12:52:33] Fetching data for HII 5/1/2017 59 / 98
+[13/02/2022 12:52:33] Fetching data for HCA 3/27/2017 60 / 98
+[13/02/2022 12:52:34] Fetching data for HCA 5/8/2017 61 / 98
+[13/02/2022 12:52:34] Fetching data for EMN 4/3/2017 62 / 98
+[13/02/2022 12:52:35] Fetching data for EMN 5/15/2017 63 / 98
+[13/02/2022 12:52:35] Fetching data for EXPE 4/10/2017 64 / 98
+[13/02/2022 12:52:35] Fetching data for EXPE 5/2/2017 65 / 98
+[13/02/2022 12:52:36] Fetching data for EXPE 8/8/2017 66 / 98
+[13/02/2022 12:52:36] Fetching data for AXP 4/24/2017 67 / 98
+[13/02/2022 12:52:37] Fetching data for AXP 6/5/2017 68 / 98
+[13/02/2022 12:52:37] Fetching data for DGX 4/24/2017 69 / 98
+[13/02/2022 12:52:38] Fetching data for DGX 6/5/2017 70 / 98
+[13/02/2022 12:52:38] Fetching data for HON 4/24/2017 71 / 98
+[13/02/2022 12:52:39] Fetching data for HON 6/5/2017 72 / 98
+[13/02/2022 12:52:39] Fetching data for REGN 5/1/2017 73 / 98
+[13/02/2022 12:52:40] Fetching data for REGN 5/4/2017 74 / 98
+[13/02/2022 12:52:40] Fetching data for REGN 8/1/2017 75 / 98
+[13/02/2022 12:52:41] Fetching data for EPAM 5/8/2017 76 / 98
+[13/02/2022 12:52:41] Fetching data for EPAM 6/2/2017 77 / 98
+[13/02/2022 12:52:41] Fetching data for EPAM 6/12/2017 78 / 98
+[13/02/2022 12:52:42] Fetching data for TPR 5/8/2017 79 / 98
+[13/02/2022 12:52:42] Fetching data for TPR 5/8/2017 80 / 98
+[13/02/2022 12:52:43] Fetching data for TPR 6/19/2017 81 / 98
+[13/02/2022 12:52:43] Fetching data for JKHY 5/22/2017 82 / 98
+[13/02/2022 12:52:44] Fetching data for JKHY 7/3/2017 83 / 98
+[13/02/2022 12:52:44] Fetching data for PVH 5/22/2017 84 / 98
+[13/02/2022 12:52:45] Fetching data for PVH 6/22/2017 85 / 98
+[13/02/2022 12:52:45] Fetching data for PVH 10/12/2017 86 / 98
+[13/02/2022 12:52:46] Fetching data for ROK 5/22/2017 87 / 98
+[13/02/2022 12:52:46] Fetching data for ROK 7/3/2017 88 / 98
+[13/02/2022 12:52:47] Fetching data for UNH 5/22/2017 89 / 98
+[13/02/2022 12:52:47] Fetching data for UNH 6/22/2017 90 / 98
+[13/02/2022 12:52:47] Fetching data for UNH 9/22/2017 91 / 98
+[13/02/2022 12:52:48] Fetching data for BBY 5/30/2017 92 / 98
+[13/02/2022 12:52:48] Fetching data for BBY 7/10/2017 93 / 98
+[13/02/2022 12:52:49] Fetching data for ULTA 5/30/2017 94 / 98
+[13/02/2022 12:52:49] Fetching data for ULTA 7/6/2017 95 / 98
+[13/02/2022 12:52:50] Fetching data for ATVI 6/19/2017 96 / 98
+[13/02/2022 12:52:50] Fetching data for ATVI 7/31/2017 97 / 98
+[13/02/2022 12:52:51] Fetching data for DLR 6/19/2017 98 / 98
+[13/02/2022 12:52:51] {'DXCM': ['03-31-2017'],
+ 'EMN': ['03-31-2017'],
+ 'FLT': ['03-31-2017'],
+ 'JKHY': ['06-30-2017'],
+ 'ROK': ['06-30-2017']}
+
+=========================================================================================
+[13/02/2022 12:55:20] Fetching data for EOG 12/5/2016 1 / 98
+[13/02/2022 12:55:20] Fetching data for EOG 1/17/2017 2 / 98
+[13/02/2022 12:55:21] Fetching data for HII 12/19/2016 3 / 98
+[13/02/2022 12:55:21] Fetching data for HII 1/30/2017 4 / 98
+[13/02/2022 12:55:22] Fetching data for VIAC 12/19/2016 5 / 98
+[13/02/2022 12:55:22] Fetching data for VIAC 1/30/2017 6 / 98
+[13/02/2022 12:55:22] Fetching data for ALK 1/17/2017 7 / 98
+[13/02/2022 12:55:23] Fetching data for ALK 2/27/2017 8 / 98
+[13/02/2022 12:55:23] Fetching data for GWW 1/17/2017 9 / 98
+[13/02/2022 12:55:24] Fetching data for GWW 1/25/2017 10 / 98
+[13/02/2022 12:55:24] Fetching data for GWW 3/9/2017 11 / 98
+[13/02/2022 12:55:25] Fetching data for NSC 1/23/2017 12 / 98
+[13/02/2022 12:55:25] Fetching data for NSC 2/13/2017 13 / 98
+[13/02/2022 12:55:26] Fetching data for NSC 3/15/2017 14 / 98
+[13/02/2022 12:55:26] Fetching data for BRK.B 1/30/2017 15 / 98
+[13/02/2022 12:55:26] Fetching data for BRK.B 3/1/2017 16 / 98
+[13/02/2022 12:55:27] Fetching data for BRK.B 3/27/2017 17 / 98
+[13/02/2022 12:55:27] Fetching data for EMN 1/30/2017 18 / 98
+[13/02/2022 12:55:28] Fetching data for EMN 3/13/2017 19 / 98
+[13/02/2022 12:55:28] Fetching data for FDX 1/30/2017 20 / 98
+[13/02/2022 12:55:29] Fetching data for FDX 3/13/2017 21 / 98
+[13/02/2022 12:55:29] Fetching data for GD 1/30/2017 22 / 98
+[13/02/2022 12:55:30] Fetching data for GD 3/13/2017 23 / 98
+[13/02/2022 12:55:30] Fetching data for HAL 1/30/2017 24 / 98
+[13/02/2022 12:55:31] Fetching data for HAL 3/8/2017 25 / 98
+[13/02/2022 12:55:31] Fetching data for LUV 1/30/2017 26 / 98
+[13/02/2022 12:55:31] Fetching data for LUV 2/13/2017 27 / 98
+[13/02/2022 12:55:32] Fetching data for LUV 3/14/2017 28 / 98
+[13/02/2022 12:55:32] Fetching data for STX 1/30/2017 29 / 98
+[13/02/2022 12:55:33] Fetching data for STX 2/13/2017 30 / 98
+[13/02/2022 12:55:33] Fetching data for STX 3/21/2017 31 / 98
+[13/02/2022 12:55:34] Fetching data for ALGN 2/6/2017 32 / 98
+[13/02/2022 12:55:34] Fetching data for ALGN 2/28/2017 33 / 98
+[13/02/2022 12:55:35] Fetching data for ALGN 12/21/2017 34 / 98
+[13/02/2022 12:55:35] Fetching data for COP 2/6/2017 35 / 98
+[13/02/2022 12:55:36] Fetching data for COP 3/14/2017 36 / 98
+[13/02/2022 12:55:36] Fetching data for CTXS 2/6/2017 37 / 98
+[13/02/2022 12:55:36] Fetching data for CTXS 3/13/2017 38 / 98
+[13/02/2022 12:55:37] Fetching data for CTXS 4/27/2017 39 / 98
+[13/02/2022 12:55:37] Fetching data for GS 2/6/2017 40 / 98
+[13/02/2022 12:55:38] Fetching data for GS 3/20/2017 41 / 98
+[13/02/2022 12:55:38] Fetching data for FANG 2/13/2017 42 / 98
+[13/02/2022 12:55:39] Fetching data for FANG 2/15/2017 43 / 98
+[13/02/2022 12:55:39] Fetching data for FANG 2/22/2017 44 / 98
+[13/02/2022 12:55:40] Fetching data for PXD 2/13/2017 45 / 98
+[13/02/2022 12:55:40] Fetching data for PXD 3/27/2017 46 / 98
+[13/02/2022 12:55:41] Fetching data for TYL 2/13/2017 47 / 98
+[13/02/2022 12:55:41] Fetching data for TYL 3/27/2017 48 / 98
+[13/02/2022 12:55:41] Fetching data for DXCM 3/6/2017 49 / 98
+[13/02/2022 12:55:42] Fetching data for DXCM 3/29/2017 50 / 98
+[13/02/2022 12:55:42] Fetching data for DXCM 4/6/2017 51 / 98
+[13/02/2022 12:55:43] Fetching data for ADSK 3/13/2017 52 / 98
+[13/02/2022 12:55:43] Fetching data for ADSK 4/24/2017 53 / 98
+[13/02/2022 12:55:44] Fetching data for BXP 3/20/2017 54 / 98
+[13/02/2022 12:55:44] Fetching data for BXP 5/1/2017 55 / 98
+[13/02/2022 12:55:45] Fetching data for FLT 3/20/2017 56 / 98
+[13/02/2022 12:55:45] Fetching data for FLT 4/4/2017 57 / 98
+[13/02/2022 12:55:45] Fetching data for HII 3/20/2017 58 / 98
+[13/02/2022 12:55:46] Fetching data for HII 5/1/2017 59 / 98
+[13/02/2022 12:55:46] Fetching data for HCA 3/27/2017 60 / 98
+[13/02/2022 12:55:47] Fetching data for HCA 5/8/2017 61 / 98
+[13/02/2022 12:55:47] Fetching data for EMN 4/3/2017 62 / 98
+[13/02/2022 12:55:48] Fetching data for EMN 5/15/2017 63 / 98
+[13/02/2022 12:55:48] Fetching data for EXPE 4/10/2017 64 / 98
+[13/02/2022 12:55:48] Fetching data for EXPE 5/2/2017 65 / 98
+[13/02/2022 12:55:49] Fetching data for EXPE 8/8/2017 66 / 98
+[13/02/2022 12:55:49] Fetching data for AXP 4/24/2017 67 / 98
+[13/02/2022 12:55:50] Fetching data for AXP 6/5/2017 68 / 98
+[13/02/2022 12:55:50] Fetching data for DGX 4/24/2017 69 / 98
+[13/02/2022 12:55:51] Fetching data for DGX 6/5/2017 70 / 98
+[13/02/2022 12:55:51] Fetching data for HON 4/24/2017 71 / 98
+[13/02/2022 12:55:52] Fetching data for HON 6/5/2017 72 / 98
+[13/02/2022 12:55:52] Fetching data for REGN 5/1/2017 73 / 98
+[13/02/2022 12:55:53] Fetching data for REGN 5/4/2017 74 / 98
+[13/02/2022 12:55:53] Fetching data for REGN 8/1/2017 75 / 98
+[13/02/2022 12:55:53] Fetching data for EPAM 5/8/2017 76 / 98
+[13/02/2022 12:55:54] Fetching data for EPAM 6/2/2017 77 / 98
+[13/02/2022 12:55:54] Fetching data for EPAM 6/12/2017 78 / 98
+[13/02/2022 12:55:55] Fetching data for TPR 5/8/2017 79 / 98
+[13/02/2022 12:55:55] Fetching data for TPR 5/8/2017 80 / 98
+[13/02/2022 12:55:56] Fetching data for TPR 6/19/2017 81 / 98
+[13/02/2022 12:55:56] Fetching data for JKHY 5/22/2017 82 / 98
+[13/02/2022 12:55:57] Fetching data for JKHY 7/3/2017 83 / 98
+[13/02/2022 12:55:57] Fetching data for PVH 5/22/2017 84 / 98
+[13/02/2022 12:55:57] Fetching data for PVH 6/22/2017 85 / 98
+[13/02/2022 12:55:58] Fetching data for PVH 10/12/2017 86 / 98
+[13/02/2022 12:55:58] Fetching data for ROK 5/22/2017 87 / 98
+[13/02/2022 12:55:59] Fetching data for ROK 7/3/2017 88 / 98
+[13/02/2022 12:55:59] Fetching data for UNH 5/22/2017 89 / 98
+[13/02/2022 12:56:00] Fetching data for UNH 6/22/2017 90 / 98
+[13/02/2022 12:56:00] Fetching data for UNH 9/22/2017 91 / 98
+[13/02/2022 12:56:01] Fetching data for BBY 5/30/2017 92 / 98
+[13/02/2022 12:56:01] Fetching data for BBY 7/10/2017 93 / 98
+[13/02/2022 12:56:02] Fetching data for ULTA 5/30/2017 94 / 98
+[13/02/2022 12:56:02] Fetching data for ULTA 7/6/2017 95 / 98
+[13/02/2022 12:56:03] Fetching data for ATVI 6/19/2017 96 / 98
+[13/02/2022 12:56:03] Fetching data for ATVI 7/31/2017 97 / 98
+[13/02/2022 12:56:03] Fetching data for DLR 6/19/2017 98 / 98
+[13/02/2022 12:56:04] Reported stocks DXCM    [03-31-2017]
+FLT     [03-31-2017]
+EMN     [03-31-2017]
+JKHY    [06-30-2017]
+ROK     [06-30-2017]
+dtype: object
+[13/02/2022 12:56:04] Unreported stocks EOG                            [12-5-2016, 1-17-2017]
+HII      [12-19-2016, 1-30-2017, 3-20-2017, 5-1-2017]
+VIAC                          [12-19-2016, 1-30-2017]
+ALK                            [1-17-2017, 2-27-2017]
+GWW                  [1-17-2017, 1-25-2017, 3-9-2017]
+NSC                 [1-23-2017, 2-13-2017, 3-15-2017]
+BRK.B                [1-30-2017, 3-1-2017, 3-27-2017]
+EMN                 [1-30-2017, 3-13-2017, 5-15-2017]
+FDX                            [1-30-2017, 3-13-2017]
+GD                             [1-30-2017, 3-13-2017]
+HAL                             [1-30-2017, 3-8-2017]
+LUV                 [1-30-2017, 2-13-2017, 3-14-2017]
+STX                 [1-30-2017, 2-13-2017, 3-21-2017]
+ALGN                [2-6-2017, 2-28-2017, 12-21-2017]
+COP                             [2-6-2017, 3-14-2017]
+CTXS                 [2-6-2017, 3-13-2017, 4-27-2017]
+GS                              [2-6-2017, 3-20-2017]
+FANG                [2-13-2017, 2-15-2017, 2-22-2017]
+PXD                            [2-13-2017, 3-27-2017]
+TYL                            [2-13-2017, 3-27-2017]
+DXCM                            [3-6-2017, 3-29-2017]
+ADSK                           [3-13-2017, 4-24-2017]
+BXP                             [3-20-2017, 5-1-2017]
+FLT                                       [3-20-2017]
+HCA                             [3-27-2017, 5-8-2017]
+EXPE                  [4-10-2017, 5-2-2017, 8-8-2017]
+AXP                             [4-24-2017, 6-5-2017]
+DGX                             [4-24-2017, 6-5-2017]
+HON                             [4-24-2017, 6-5-2017]
+REGN                   [5-1-2017, 5-4-2017, 8-1-2017]
+EPAM                  [5-8-2017, 6-2-2017, 6-12-2017]
+TPR                   [5-8-2017, 5-8-2017, 6-19-2017]
+JKHY                                      [5-22-2017]
+PVH                [5-22-2017, 6-22-2017, 10-12-2017]
+ROK                                       [5-22-2017]
+UNH                 [5-22-2017, 6-22-2017, 9-22-2017]
+BBY                            [5-30-2017, 7-10-2017]
+ULTA                            [5-30-2017, 7-6-2017]
+ATVI                           [6-19-2017, 7-31-2017]
+DLR                                       [6-19-2017]
+dtype: object
