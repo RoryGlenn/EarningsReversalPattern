@@ -41,7 +41,8 @@ class AlphaQuerySpider():
         return
 
     def scrape_data(self) -> None:
-        stock_df    = pd.read_excel(STOCK_LIST, usecols=['Date', 'Symbol', 'Price'])
+        stock_df    = pd.read_excel(STOCK_LIST, usecols=['Date', 'Symbol'])
+        # stock_df    = pd.read_excel(STOCK_LIST, usecols=['Date', 'Symbol', 'Price'])
         # stock_df    = pd.read_excel(STOCK_LIST_TEST, usecols=['Date', 'Symbol', 'Price'])
         symbol_list = stock_df['Symbol'].to_list()
         stock_count = 1
