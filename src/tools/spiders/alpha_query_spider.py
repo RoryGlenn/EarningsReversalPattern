@@ -8,35 +8,35 @@ from ..util.globals import G
 
 class AlphaQuerySpider():
     def __init__(self) -> None:
-        self.reported_stocks     = dict()
-        self.unreported_stocks   = dict()
+        self._reported_stocks   = dict()
+        self._unreported_stocks = dict()
         return
 
     def __add_to_reported_stocks(self, symbol, entry_date: datetime.datetime) -> None:
-        if symbol in self.reported_stocks.keys():
-            self.reported_stocks[symbol].append(entry_date.strftime("%m-%d-%Y"))
+        if symbol in self._reported_stocks.keys():
+            self._reported_stocks[symbol].append(entry_date.strftime("%m-%d-%Y"))
         else:
-            self.reported_stocks[symbol] = [entry_date.strftime("%m-%d-%Y")]
+            self._reported_stocks[symbol] = [entry_date.strftime("%m-%d-%Y")]
         return
 
-    def __add_to_unreported_stocks(self, symbol, entry_date: list) -> None:
+    def __add_to_unreported_stocks(self, symbol: str, entry_date: list) -> None:
         entry_date_str = entry_date[0] + '-' + entry_date[1] + '-' + entry_date[2]
         
-        if symbol in self.unreported_stocks:
-            self.unreported_stocks[symbol].append(entry_date_str)
+        if symbol in self._unreported_stocks:
+            self._unreported_stocks[symbol].append(entry_date_str)
         else:
-            self.unreported_stocks[symbol] = [entry_date_str]
+            self._unreported_stocks[symbol] = [entry_date_str]
         return
     
     def __write_to_excel(self) -> None:
-        reported_s   = pd.Series(self.reported_stocks)
-        unreported_s = pd.Series(self.unreported_stocks)
+        reported_s   = pd.Series(self._reported_stocks)
+        unreported_s = pd.Series(self._unreported_stocks)
 
         G.log.print_and_log(f"Reported stocks\n{reported_s}")
         G.log.print_and_log(f"Unreported stocks\n{unreported_s}")
 
         with pd.ExcelWriter('Trade_Result.xlsx', engine='xlsxwriter') as writer:
-            reported_s.to_excel(writer, sheet_name="Reported_Stocks")
+            reported_s.to_excel(writer,   sheet_name="Reported_Stocks")
             unreported_s.to_excel(writer, sheet_name="Unreported_Stocks")   
         return
 
@@ -46,18 +46,16 @@ class AlphaQuerySpider():
         return earnings_date
 
     def scrape_data(self) -> None:
-        stock_df    = pd.read_excel(STOCK_LIST, usecols=['Date', 'Symbol'])
-        stock_df = stock_df[::-1] # reverse the data
-
-        symbol_list = stock_df['Symbol'].to_list()
-        stock_count = 1
-        reported    = False
+        stock_df        = pd.read_excel(STOCK_LIST, usecols=['Date', 'Symbol'])
+        symbol_list_len = len(stock_df['Symbol'].to_list())
+        stock_count     = 1
+        reported        = False
 
         for row in stock_df.iterrows():
             entry_date   = row[1]['Date']
             symbol       = row[1]['Symbol']
 
-            G.log.print_and_log(f"Fetching data for {symbol} {entry_date} {stock_count} / {len(symbol_list)}")
+            G.log.print_and_log(f"Fetching data for {symbol} {entry_date} {stock_count} / {symbol_list_len}")
             
             url = ALPHA_QUERY_URL + symbol + '/' + 'earnings-history'
 
@@ -71,19 +69,17 @@ class AlphaQuerySpider():
                     try:
                         earnings_date = self.__get_earnings_date(_row)
 
-                        # is there an earnings day that falls between start_date and end_date?
-                        if earnings_date < end_date and earnings_date >= start_date:                           
-                            # self.__add_to_reported_stocks(symbol, earnings_date)
+                        if earnings_date < end_date and earnings_date >= start_date:
                             self.__add_to_reported_stocks(symbol, end_date)
                             reported = True
                             break
                     except Exception as e:
                         G.log.print_and_log(e=e, filename=__file__)
 
-                if not reported:  
+                if not reported:
                     self.__add_to_unreported_stocks(symbol, entry_date)
+                
                 reported = False
-
             except Exception as e:
                 G.log.print_and_log(e=e, filename=__file__)
             stock_count += 1

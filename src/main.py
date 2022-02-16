@@ -1,6 +1,5 @@
 import os
 
-
 from tools.spiders.alpha_query_spider import AlphaQuerySpider
 from tools.util.globals               import G
 
