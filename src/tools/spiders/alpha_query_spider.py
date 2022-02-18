@@ -37,9 +37,6 @@ class AlphaQuerySpider():
         return
     
     def __write_to_excel(self) -> None:
-        # reported_s   = pd.Series({'Symbols': list(self._reported_stocks.keys()), 'Entry Dates': self._reported_stocks.values()})
-        # unreported_s = pd.Series({'Symbols': list(self._unreported_stocks.keys()), 'Entry Dates': self._unreported_stocks.values()})
-
         reported_df   = pd.DataFrame({'Symbols': list(self._reported_stocks.keys()), 'Entry Dates': self._reported_stocks.values(), 'Reported Dates': self._reported_stock_dates.values()})
         unreported_df = pd.DataFrame({'Symbols': list(self._unreported_stocks.keys()), 'Entry Dates': self._unreported_stocks.values()})
 
@@ -101,9 +98,6 @@ class AlphaQuerySpider():
                 except Exception as e:
                     G.log.print_and_log(e=e, filename=__file__)
                 stock_count += 1
-
-                if stock_count > 100:
-                    break
             
         self.__write_to_excel()
         return
