@@ -40,8 +40,6 @@ class AlphaQuerySpider():
         reported_df   = pd.DataFrame({'Symbols': list(self._reported_stocks.keys()), 'Entry Dates': self._reported_stocks.values(), 'Reported Dates': self._reported_stock_dates.values()})
         unreported_df = pd.DataFrame({'Symbols': list(self._unreported_stocks.keys()), 'Entry Dates': self._unreported_stocks.values()})
 
-        reported_df.set_index('Symbols')
-
         G.log.print_and_log(f"Reported stocks\n{reported_df}")
         G.log.print_and_log(f"Unreported stocks\n{unreported_df}")
 
@@ -63,10 +61,9 @@ class AlphaQuerySpider():
 
         for row in stock_df.iterrows():
             entry_date_list = row[1]['Date']
-            order_type = row[1]['Type']
-            symbol     = row[1]['Symbol']
-
-            order_type = order_type.replace(' ', '').upper()
+            order_type      = row[1]['Type']
+            symbol          = row[1]['Symbol']
+            order_type      = order_type.replace(' ', '').upper()
 
             if order_type == LONG_ENTRY:
                 G.log.print_and_log(f"Fetching data for {symbol} {entry_date_list} {stock_count} / {symbol_list_len}")
