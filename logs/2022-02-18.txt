@@ -1,0 +1,2155 @@
+
+=========================================================================================
+
+=========================================================================================
+[18/02/2022 12:46:53] Fetching data for EOG 12/5/2016 1 / 970
+[18/02/2022 12:47:06] Fetching data for HII 12/19/2016 2 / 970
+[18/02/2022 12:47:07] Fetching data for VIAC 12/19/2016 3 / 970
+[18/02/2022 12:47:07]  ERROR: || HTTP Error 404: Not Found, HTTPError C:\Users\newco\Documents\Repos\Python\Upwork\Steven\EarningsReversalPattern\src\tools\spiders\alpha_query_spider.py 67
+[18/02/2022 12:47:07] Fetching data for ALK 1/17/2017 4 / 970
+[18/02/2022 12:47:07] Fetching data for GWW 1/17/2017 5 / 970
+[18/02/2022 12:47:08] Fetching data for NSC 1/23/2017 6 / 970
+[18/02/2022 12:47:08] Fetching data for BRK.B 1/30/2017 7 / 970
+[18/02/2022 12:47:08] Fetching data for EMN 1/30/2017 8 / 970
+[18/02/2022 12:47:09] Fetching data for FDX 1/30/2017 9 / 970
+[18/02/2022 12:47:09] Fetching data for GD 1/30/2017 10 / 970
+[18/02/2022 12:47:10] Fetching data for HAL 1/30/2017 11 / 970
+[18/02/2022 12:47:10] Fetching data for LUV 1/30/2017 12 / 970
+[18/02/2022 12:47:10] Fetching data for STX 1/30/2017 13 / 970
+[18/02/2022 12:47:11] Fetching data for ALGN 2/6/2017 14 / 970
+[18/02/2022 12:47:11] Fetching data for COP 2/6/2017 15 / 970
+
+=========================================================================================
+[18/02/2022 12:47:17] Fetching data for EOG 12/5/2016 1 / 970
+[18/02/2022 12:47:18] Fetching data for HII 12/19/2016 2 / 970
+[18/02/2022 12:47:18] Fetching data for VIAC 12/19/2016 3 / 970
+[18/02/2022 12:47:19]  ERROR: || HTTP Error 404: Not Found, HTTPError C:\Users\newco\Documents\Repos\Python\Upwork\Steven\EarningsReversalPattern\src\tools\spiders\alpha_query_spider.py 65
+[18/02/2022 12:47:19] Fetching data for ALK 1/17/2017 4 / 970
+[18/02/2022 12:47:19] Fetching data for GWW 1/17/2017 5 / 970
+[18/02/2022 12:47:19] Fetching data for NSC 1/23/2017 6 / 970
+[18/02/2022 12:47:20] Fetching data for BRK.B 1/30/2017 7 / 970
+[18/02/2022 12:47:20] Fetching data for EMN 1/30/2017 8 / 970
+[18/02/2022 12:47:20] Fetching data for FDX 1/30/2017 9 / 970
+[18/02/2022 12:47:21] Fetching data for GD 1/30/2017 10 / 970
+[18/02/2022 12:47:21] Fetching data for HAL 1/30/2017 11 / 970
+[18/02/2022 12:47:22] Fetching data for LUV 1/30/2017 12 / 970
+[18/02/2022 12:47:22] Fetching data for STX 1/30/2017 13 / 970
+[18/02/2022 12:47:22] Fetching data for ALGN 2/6/2017 14 / 970
+[18/02/2022 12:47:23] Fetching data for COP 2/6/2017 15 / 970
+[18/02/2022 12:47:23] Fetching data for CTXS 2/6/2017 16 / 970
+[18/02/2022 12:47:23] Fetching data for GS 2/6/2017 17 / 970
+[18/02/2022 12:47:24] Fetching data for FANG 2/13/2017 18 / 970
+[18/02/2022 12:47:24] Fetching data for PXD 2/13/2017 19 / 970
+[18/02/2022 12:47:24] Fetching data for TYL 2/13/2017 20 / 970
+[18/02/2022 12:47:25] Fetching data for DXCM 3/6/2017 21 / 970
+[18/02/2022 12:47:25] Fetching data for ADSK 3/13/2017 22 / 970
+[18/02/2022 12:47:26] Fetching data for BXP 3/20/2017 23 / 970
+[18/02/2022 12:47:26] Fetching data for FLT 3/20/2017 24 / 970
+[18/02/2022 12:47:26] Fetching data for HII 3/20/2017 25 / 970
+[18/02/2022 12:47:27] Fetching data for HCA 3/27/2017 26 / 970
+[18/02/2022 12:47:27] Fetching data for EMN 4/3/2017 27 / 970
+
+=========================================================================================
+[18/02/2022 12:47:36] Fetching data for EOG 12/5/2016 1 / 970
+[18/02/2022 12:47:37] Fetching data for HII 12/19/2016 2 / 970
+[18/02/2022 12:47:37] Fetching data for VIAC 12/19/2016 3 / 970
+[18/02/2022 12:47:37]  ERROR: || HTTP Error 404: Not Found, HTTPError C:\Users\newco\Documents\Repos\Python\Upwork\Steven\EarningsReversalPattern\src\tools\spiders\alpha_query_spider.py 65
+[18/02/2022 12:47:37] Fetching data for ALK 1/17/2017 4 / 970
+[18/02/2022 12:47:38] Fetching data for GWW 1/17/2017 5 / 970
+[18/02/2022 12:47:38] Fetching data for NSC 1/23/2017 6 / 970
+[18/02/2022 12:47:38] Fetching data for BRK.B 1/30/2017 7 / 970
+[18/02/2022 12:47:39] Fetching data for EMN 1/30/2017 8 / 970
+[18/02/2022 12:47:39] Fetching data for FDX 1/30/2017 9 / 970
+[18/02/2022 12:47:39] Fetching data for GD 1/30/2017 10 / 970
+[18/02/2022 12:47:40] Fetching data for HAL 1/30/2017 11 / 970
+[18/02/2022 12:47:40] Fetching data for LUV 1/30/2017 12 / 970
+[18/02/2022 12:47:40] Fetching data for STX 1/30/2017 13 / 970
+[18/02/2022 12:47:41] Fetching data for ALGN 2/6/2017 14 / 970
+[18/02/2022 12:47:41] Fetching data for COP 2/6/2017 15 / 970
+[18/02/2022 12:47:42] Fetching data for CTXS 2/6/2017 16 / 970
+[18/02/2022 12:47:42] Fetching data for GS 2/6/2017 17 / 970
+[18/02/2022 12:47:42] Fetching data for FANG 2/13/2017 18 / 970
+[18/02/2022 12:47:43] Fetching data for PXD 2/13/2017 19 / 970
+[18/02/2022 12:47:43] Fetching data for TYL 2/13/2017 20 / 970
+[18/02/2022 12:47:43] Fetching data for DXCM 3/6/2017 21 / 970
+[18/02/2022 12:47:44] Fetching data for ADSK 3/13/2017 22 / 970
+[18/02/2022 12:47:44] Fetching data for BXP 3/20/2017 23 / 970
+[18/02/2022 12:47:44] Fetching data for FLT 3/20/2017 24 / 970
+[18/02/2022 12:47:45] Fetching data for HII 3/20/2017 25 / 970
+[18/02/2022 12:47:45] Fetching data for HCA 3/27/2017 26 / 970
+[18/02/2022 12:47:46] Fetching data for EMN 4/3/2017 27 / 970
+[18/02/2022 12:47:46] Fetching data for EXPE 4/10/2017 28 / 970
+[18/02/2022 12:47:46] Fetching data for AXP 4/24/2017 29 / 970
+[18/02/2022 12:47:47] Fetching data for DGX 4/24/2017 30 / 970
+[18/02/2022 12:47:47] Fetching data for HON 4/24/2017 31 / 970
+[18/02/2022 12:47:47] Fetching data for REGN 5/1/2017 32 / 970
+[18/02/2022 12:47:48] Fetching data for EPAM 5/8/2017 33 / 970
+[18/02/2022 12:47:48] Fetching data for TPR 5/8/2017 34 / 970
+[18/02/2022 12:47:48] Fetching data for JKHY 5/22/2017 35 / 970
+[18/02/2022 12:47:49] Fetching data for PVH 5/22/2017 36 / 970
+[18/02/2022 12:47:49] Fetching data for ROK 5/22/2017 37 / 970
+[18/02/2022 12:47:50] Fetching data for UNH 5/22/2017 38 / 970
+[18/02/2022 12:47:50] Fetching data for BBY 5/30/2017 39 / 970
+[18/02/2022 12:47:50] Fetching data for ULTA 5/30/2017 40 / 970
+[18/02/2022 12:47:51] Fetching data for ATVI 6/19/2017 41 / 970
+[18/02/2022 12:47:51] Fetching data for DLR 6/19/2017 42 / 970
+[18/02/2022 12:47:51] Fetching data for EA 6/19/2017 43 / 970
+[18/02/2022 12:47:52] Fetching data for FB 6/19/2017 44 / 970
+[18/02/2022 12:47:52] Fetching data for HD 6/19/2017 45 / 970
+[18/02/2022 12:47:53] Fetching data for HUM 6/19/2017 46 / 970
+[18/02/2022 12:47:53] Fetching data for MAR 6/19/2017 47 / 970
+[18/02/2022 12:47:53] Fetching data for PTC 6/19/2017 48 / 970
+[18/02/2022 12:47:54] Fetching data for MCD 7/31/2017 49 / 970
+[18/02/2022 12:47:54] Fetching data for MHK 7/31/2017 50 / 970
+[18/02/2022 12:47:54] Fetching data for NDAQ 7/31/2017 51 / 970
+[18/02/2022 12:47:55] Fetching data for PKG 7/31/2017 52 / 970
+[18/02/2022 12:47:55] Fetching data for HUM 8/7/2017 53 / 970
+[18/02/2022 12:47:55] Fetching data for LHX 8/7/2017 54 / 970
+[18/02/2022 12:47:56] Fetching data for TFX 8/7/2017 55 / 970
+[18/02/2022 12:47:56] Fetching data for DXC 8/14/2017 56 / 970
+[18/02/2022 12:47:57] Fetching data for TECH 8/14/2017 57 / 970
+[18/02/2022 12:47:57] Fetching data for ZBRA 8/14/2017 58 / 970
+[18/02/2022 12:47:57] Fetching data for DLR 10/2/2017 59 / 970
+[18/02/2022 12:47:58] Fetching data for EL 10/2/2017 60 / 970
+[18/02/2022 12:47:58] Fetching data for FB 10/2/2017 61 / 970
+[18/02/2022 12:47:58] Fetching data for MKC 10/2/2017 62 / 970
+[18/02/2022 12:47:59] Fetching data for ETR 10/9/2017 63 / 970
+[18/02/2022 12:47:59] Fetching data for TSLA 10/9/2017 64 / 970
+[18/02/2022 12:47:59] Fetching data for COST 10/16/2017 65 / 970
+[18/02/2022 12:48:00] Fetching data for GWW 10/16/2017 66 / 970
+[18/02/2022 12:48:00] Fetching data for TGT 10/16/2017 67 / 970
+[18/02/2022 12:48:01] Fetching data for DHR 10/23/2017 68 / 970
+[18/02/2022 12:48:01] Fetching data for DOV 10/23/2017 69 / 970
+[18/02/2022 12:48:01] Fetching data for JBHT 10/23/2017 70 / 970
+[18/02/2022 12:48:02] Fetching data for UNP 10/23/2017 71 / 970
+[18/02/2022 12:48:02] Fetching data for ABMD 10/30/2017 72 / 970
+[18/02/2022 12:48:02] Fetching data for CME 10/30/2017 73 / 970
+[18/02/2022 12:48:03] Fetching data for ILMN 10/30/2017 74 / 970
+[18/02/2022 12:48:03] Fetching data for NSC 10/30/2017 75 / 970
+[18/02/2022 12:48:04] Fetching data for ORLY 10/30/2017 76 / 970
+[18/02/2022 12:48:04] Fetching data for ZTS 11/6/2017 77 / 970
+[18/02/2022 12:48:04] Fetching data for MSCI 11/6/2017 78 / 970
+[18/02/2022 12:48:05] Fetching data for QCOM 11/6/2017 79 / 970
+[18/02/2022 12:48:05] Fetching data for CMA 11/20/2017 80 / 970
+[18/02/2022 12:48:05] Fetching data for DD 11/20/2017 81 / 970
+[18/02/2022 12:48:06] Fetching data for HES 12/4/2017 82 / 970
+[18/02/2022 12:48:06] Fetching data for WST 12/4/2017 83 / 970
+[18/02/2022 12:48:06] Fetching data for MU 12/11/2017 84 / 970
+[18/02/2022 12:48:07] Fetching data for ROK 12/11/2017 85 / 970
+[18/02/2022 12:48:07] Fetching data for TDY 12/18/2017 86 / 970
+[18/02/2022 12:48:08] Fetching data for MHK 12/26/2017 87 / 970
+[18/02/2022 12:48:08] Fetching data for MMM 1/8/2018 88 / 970
+[18/02/2022 12:48:08] Fetching data for TEL 1/8/2018 89 / 970
+[18/02/2022 12:48:09] Fetching data for ALL 1/16/2018 90 / 970
+[18/02/2022 12:48:09] Fetching data for DAL 1/16/2018 91 / 970
+[18/02/2022 12:48:09] Fetching data for LUV 1/16/2018 92 / 970
+[18/02/2022 12:48:10] Fetching data for WYNN 1/16/2018 93 / 970
+[18/02/2022 12:48:10] Fetching data for TWTR 1/29/2018 94 / 970
+[18/02/2022 12:48:10] Fetching data for POOL 1/29/2018 95 / 970
+[18/02/2022 12:48:11] Fetching data for WHR 1/29/2018 96 / 970
+[18/02/2022 12:48:11] Fetching data for CTSH 2/12/2018 97 / 970
+[18/02/2022 12:48:12] Fetching data for K 2/12/2018 98 / 970
+[18/02/2022 12:48:12] Fetching data for OMC 2/12/2018 99 / 970
+[18/02/2022 12:48:12] Fetching data for SPGI 2/12/2018 100 / 970
+[18/02/2022 12:48:13] Fetching data for TPR 2/12/2018 101 / 970
+[18/02/2022 12:48:13] Fetching data for A 3/12/2018 102 / 970
+[18/02/2022 12:48:13] Fetching data for DE 3/12/2018 103 / 970
+[18/02/2022 12:48:14] Fetching data for ADBE 4/9/2018 104 / 970
+[18/02/2022 12:48:14] Fetching data for ADSK 4/9/2018 105 / 970
+[18/02/2022 12:48:14] Fetching data for ALL 4/9/2018 106 / 970
+[18/02/2022 12:48:15] Fetching data for NKE 4/9/2018 107 / 970
+[18/02/2022 12:48:15] Fetching data for NTAP 4/9/2018 108 / 970
+[18/02/2022 12:48:15] Fetching data for PSX 4/9/2018 109 / 970
+[18/02/2022 12:48:16] Fetching data for VRSK 4/9/2018 110 / 970
+[18/02/2022 12:48:16] Fetching data for BXP 4/30/2018 111 / 970
+[18/02/2022 12:48:17] Fetching data for PSA 4/30/2018 112 / 970
+[18/02/2022 12:48:17] Fetching data for SPG 4/30/2018 113 / 970
+[18/02/2022 12:48:17] Fetching data for SRE 4/30/2018 114 / 970
+[18/02/2022 12:48:18] Fetching data for ADP 5/7/2018 115 / 970
+[18/02/2022 12:48:18] Fetching data for EA 5/7/2018 116 / 970
+[18/02/2022 12:48:18] Fetching data for JKHY 5/7/2018 117 / 970
+[18/02/2022 12:48:19] Fetching data for MSCI 5/7/2018 118 / 970
+[18/02/2022 12:48:19] Fetching data for RSG 5/7/2018 119 / 970
+[18/02/2022 12:48:19] Fetching data for TDY 5/7/2018 120 / 970
+[18/02/2022 12:48:20] Fetching data for BDX 6/4/2018 121 / 970
+[18/02/2022 12:48:20] Fetching data for GL 6/4/2018 122 / 970
+[18/02/2022 12:48:21] Fetching data for ISRG 6/4/2018 123 / 970
+[18/02/2022 12:48:21] Fetching data for ROST 6/4/2018 124 / 970
+[18/02/2022 12:48:21] Fetching data for TECH 6/4/2018 125 / 970
+[18/02/2022 12:48:22] Fetching data for MCD 6/11/2018 126 / 970
+[18/02/2022 12:48:22] Fetching data for ATO 6/18/2018 127 / 970
+[18/02/2022 12:48:22] Fetching data for COO 6/18/2018 128 / 970
+[18/02/2022 12:48:23] Fetching data for ACN 7/2/2018 129 / 970
+[18/02/2022 12:48:23] Fetching data for ADBE 7/2/2018 130 / 970
+[18/02/2022 12:48:24] Fetching data for EPAM 7/2/2018 131 / 970
+[18/02/2022 12:48:24] Fetching data for NKE 7/2/2018 132 / 970
+[18/02/2022 12:48:24] Fetching data for TDG 7/2/2018 133 / 970
+[18/02/2022 12:48:25] Fetching data for SNA 7/23/2018 134 / 970
+[18/02/2022 12:48:25] Fetching data for HSY 7/30/2018 135 / 970
+[18/02/2022 12:48:25] Fetching data for RSG 7/30/2018 136 / 970
+[18/02/2022 12:48:26] Fetching data for CDW 8/6/2018 137 / 970
+[18/02/2022 12:48:26] Fetching data for FISV 8/6/2018 138 / 970
+[18/02/2022 12:48:27] Fetching data for FRT 8/6/2018 139 / 970
+[18/02/2022 12:48:27] Fetching data for FTNT 8/6/2018 140 / 970
+[18/02/2022 12:48:27] Fetching data for RCL 8/6/2018 141 / 970
+[18/02/2022 12:48:28] Fetching data for SPG 8/6/2018 142 / 970
+[18/02/2022 12:48:28] Fetching data for TSLA 8/6/2018 143 / 970
+[18/02/2022 12:48:28] Fetching data for TTWO 8/6/2018 144 / 970
+[18/02/2022 12:48:29] Fetching data for VRSK 8/6/2018 145 / 970
+[18/02/2022 12:48:29] Fetching data for VTR 8/6/2018 146 / 970
+[18/02/2022 12:48:29] Fetching data for CRL 8/20/2018 147 / 970
+[18/02/2022 12:48:30] Fetching data for NVDA 8/27/2018 148 / 970
+[18/02/2022 12:48:30] Fetching data for DISCA 9/17/2018 149 / 970
+[18/02/2022 12:48:31] Fetching data for IFF 9/17/2018 150 / 970
+[18/02/2022 12:48:31] Fetching data for BIIB 9/24/2018 151 / 970
+[18/02/2022 12:48:31] Fetching data for BWA 2/19/2019 152 / 970
+[18/02/2022 12:48:32] Fetching data for XRAY 3/4/2019 153 / 970
+[18/02/2022 12:48:32] Fetching data for LOW 3/18/2019 154 / 970
+[18/02/2022 12:48:32] Fetching data for MAR 3/18/2019 155 / 970
+[18/02/2022 12:48:33] Fetching data for BDX 4/1/2019 156 / 970
+[18/02/2022 12:48:33] Fetching data for BIO 4/1/2019 157 / 970
+[18/02/2022 12:48:33] Fetching data for NKE 4/1/2019 158 / 970
+[18/02/2022 12:48:34] Fetching data for IEX 4/29/2019 159 / 970
+[18/02/2022 12:48:34] Fetching data for FANG 5/13/2019 160 / 970
+[18/02/2022 12:48:35] Fetching data for FLT 5/13/2019 161 / 970
+[18/02/2022 12:48:35] Fetching data for FMC 5/13/2019 162 / 970
+[18/02/2022 12:48:35] Fetching data for MSI 5/13/2019 163 / 970
+[18/02/2022 12:48:36] Fetching data for AMAT 5/20/2019 164 / 970
+[18/02/2022 12:48:36] Fetching data for CSCO 5/20/2019 165 / 970
+[18/02/2022 12:48:36] Fetching data for DIS 5/20/2019 166 / 970
+[18/02/2022 12:48:37] Fetching data for MSCI 5/20/2019 167 / 970
+[18/02/2022 12:48:37] Fetching data for PGR 5/20/2019 168 / 970
+[18/02/2022 12:48:37] Fetching data for CPRT 5/28/2019 169 / 970
+[18/02/2022 12:48:38] Fetching data for PAYC 6/10/2019 170 / 970
+[18/02/2022 12:48:38] Fetching data for EPAM 6/10/2019 171 / 970
+[18/02/2022 12:48:38] Fetching data for ETR 6/10/2019 172 / 970
+[18/02/2022 12:48:39] Fetching data for FISV 6/10/2019 173 / 970
+[18/02/2022 12:48:39] Fetching data for MA 6/10/2019 174 / 970
+[18/02/2022 12:48:40] Fetching data for MSFT 6/10/2019 175 / 970
+[18/02/2022 12:48:40] Fetching data for PPG 6/10/2019 176 / 970
+[18/02/2022 12:48:40] Fetching data for SHW 6/10/2019 177 / 970
+[18/02/2022 12:48:41] Fetching data for SJM 6/10/2019 178 / 970
+[18/02/2022 12:48:41] Fetching data for SNPS 6/10/2019 179 / 970
+[18/02/2022 12:48:41] Fetching data for SYY 6/10/2019 180 / 970
+[18/02/2022 12:48:42] Fetching data for AMT 7/8/2019 181 / 970
+[18/02/2022 12:48:42] Fetching data for PEP 7/15/2019 182 / 970
+[18/02/2022 12:48:42] Fetching data for DHR 7/22/2019 183 / 970
+[18/02/2022 12:48:43] Fetching data for POOL 7/22/2019 184 / 970
+[18/02/2022 12:48:43] Fetching data for APD 7/29/2019 185 / 970
+[18/02/2022 12:48:44] Fetching data for CB 7/29/2019 186 / 970
+[18/02/2022 12:48:44] Fetching data for CDNS 7/29/2019 187 / 970
+[18/02/2022 12:48:44] Fetching data for CERN 7/29/2019 188 / 970
+[18/02/2022 12:48:45] Fetching data for DGX 7/29/2019 189 / 970
+[18/02/2022 12:48:45] Fetching data for GPN 7/29/2019 190 / 970
+[18/02/2022 12:48:45] Fetching data for KMB 7/29/2019 191 / 970
+[18/02/2022 12:48:46] Fetching data for LMT 7/29/2019 192 / 970
+[18/02/2022 12:48:46] Fetching data for MAS 7/29/2019 193 / 970
+[18/02/2022 12:48:46] Fetching data for TROW 7/29/2019 194 / 970
+[18/02/2022 12:48:47] Fetching data for WHR 7/29/2019 195 / 970
+[18/02/2022 12:48:47] Fetching data for WST 7/29/2019 196 / 970
+[18/02/2022 12:48:47] Fetching data for PAYC 8/5/2019 197 / 970
+[18/02/2022 12:48:48] Fetching data for VRTX 8/5/2019 198 / 970
+[18/02/2022 12:48:48] Fetching data for CME 8/5/2019 199 / 970
+[18/02/2022 12:48:49] Fetching data for ETR 8/5/2019 200 / 970
+[18/02/2022 12:48:49] Fetching data for MAA 8/5/2019 201 / 970
+[18/02/2022 12:48:49] Fetching data for OKE 8/5/2019 202 / 970
+[18/02/2022 12:48:50] Fetching data for SEE 8/5/2019 203 / 970
+[18/02/2022 12:48:50] Fetching data for LDOS 8/12/2019 204 / 970
+[18/02/2022 12:48:50] Fetching data for ZTS 8/12/2019 205 / 970
+[18/02/2022 12:48:51] Fetching data for ADP 8/12/2019 206 / 970
+[18/02/2022 12:48:51] Fetching data for AIZ 8/12/2019 207 / 970
+[18/02/2022 12:48:51] Fetching data for AMD 8/12/2019 208 / 970
+[18/02/2022 12:48:52] Fetching data for ANSS 8/12/2019 209 / 970
+[18/02/2022 12:48:52] Fetching data for AXP 8/12/2019 210 / 970
+[18/02/2022 12:48:53] Fetching data for BDX 8/12/2019 211 / 970
+[18/02/2022 12:48:53] Fetching data for CINF 8/12/2019 212 / 970
+[18/02/2022 12:48:53] Fetching data for COO 8/12/2019 213 / 970
+[18/02/2022 12:48:54] Fetching data for COST 8/12/2019 214 / 970
+[18/02/2022 12:48:54] Fetching data for CVS 8/12/2019 215 / 970
+[18/02/2022 12:48:54] Fetching data for ECL 8/12/2019 216 / 970
+[18/02/2022 12:48:55] Fetching data for EFX 8/12/2019 217 / 970
+[18/02/2022 12:48:55] Fetching data for FIS 8/12/2019 218 / 970
+[18/02/2022 12:48:56] Fetching data for FLT 8/12/2019 219 / 970
+[18/02/2022 12:48:56] Fetching data for FMC 8/12/2019 220 / 970
+[18/02/2022 12:48:56] Fetching data for IDXX 8/12/2019 221 / 970
+[18/02/2022 12:48:57] Fetching data for J 8/12/2019 222 / 970
+[18/02/2022 12:48:57] Fetching data for MA 8/12/2019 223 / 970
+[18/02/2022 12:48:57] Fetching data for MKC 8/12/2019 224 / 970
+[18/02/2022 12:48:58] Fetching data for MSFT 8/12/2019 225 / 970
+[18/02/2022 12:48:58] Fetching data for PLD 8/12/2019 226 / 970
+[18/02/2022 12:48:58] Fetching data for STE 8/12/2019 227 / 970
+[18/02/2022 12:48:59] Fetching data for TTWO 8/12/2019 228 / 970
+[18/02/2022 12:48:59] Fetching data for V 8/12/2019 229 / 970
+[18/02/2022 12:48:59] Fetching data for VRSK 8/12/2019 230 / 970
+[18/02/2022 12:49:00] Fetching data for WM 8/12/2019 231 / 970
+[18/02/2022 12:49:00] Fetching data for WMT 8/19/2019 232 / 970
+[18/02/2022 12:49:01] Fetching data for HSY 9/23/2019 233 / 970
+[18/02/2022 12:49:01] Fetching data for TSLA 9/30/2019 234 / 970
+[18/02/2022 12:49:01] Fetching data for ATVI 10/7/2019 235 / 970
+[18/02/2022 12:49:02] Fetching data for CPRT 10/7/2019 236 / 970
+[18/02/2022 12:49:02] Fetching data for PEP 10/7/2019 237 / 970
+[18/02/2022 12:49:02] Fetching data for TMO 10/7/2019 238 / 970
+[18/02/2022 12:49:03] Fetching data for VRSK 10/7/2019 239 / 970
+[18/02/2022 12:49:03] Fetching data for DPZ 10/14/2019 240 / 970
+[18/02/2022 12:49:03] Fetching data for EXPD 10/14/2019 241 / 970
+[18/02/2022 12:49:04] Fetching data for FAST 10/14/2019 242 / 970
+[18/02/2022 12:49:04] Fetching data for CCI 10/21/2019 243 / 970
+[18/02/2022 12:49:05] Fetching data for POOL 10/21/2019 244 / 970
+[18/02/2022 12:49:05] Fetching data for SRE 11/4/2019 245 / 970
+[18/02/2022 12:49:05] Fetching data for TYL 11/4/2019 246 / 970
+
+=========================================================================================
+[18/02/2022 12:51:40] Fetching data for EOG 12/5/2016 1 / 970
+
+=========================================================================================
+[18/02/2022 12:51:56] Fetching data for EOG 12/5/2016 1 / 970
+[18/02/2022 12:51:57] Fetching data for HII 12/19/2016 2 / 970
+[18/02/2022 12:51:57] Fetching data for VIAC 12/19/2016 3 / 970
+[18/02/2022 12:51:57]  ERROR: || HTTP Error 404: Not Found, HTTPError C:\Users\newco\Documents\Repos\Python\Upwork\Steven\EarningsReversalPattern\src\tools\spiders\alpha_query_spider.py 67
+[18/02/2022 12:51:57] Fetching data for ALK 1/17/2017 4 / 970
+[18/02/2022 12:51:58] Fetching data for GWW 1/17/2017 5 / 970
+[18/02/2022 12:51:58] Fetching data for NSC 1/23/2017 6 / 970
+[18/02/2022 12:51:58] Fetching data for BRK.B 1/30/2017 7 / 970
+[18/02/2022 12:51:59] Fetching data for EMN 1/30/2017 8 / 970
+[18/02/2022 12:51:59] Fetching data for FDX 1/30/2017 9 / 970
+[18/02/2022 12:51:59] Fetching data for GD 1/30/2017 10 / 970
+[18/02/2022 12:52:00] Fetching data for HAL 1/30/2017 11 / 970
+[18/02/2022 12:52:00] Fetching data for LUV 1/30/2017 12 / 970
+[18/02/2022 12:52:00] Fetching data for STX 1/30/2017 13 / 970
+[18/02/2022 12:52:01] Fetching data for ALGN 2/6/2017 14 / 970
+[18/02/2022 12:52:01] Fetching data for COP 2/6/2017 15 / 970
+[18/02/2022 12:52:01] Fetching data for CTXS 2/6/2017 16 / 970
+[18/02/2022 12:52:02] Fetching data for GS 2/6/2017 17 / 970
+[18/02/2022 12:52:02] Fetching data for FANG 2/13/2017 18 / 970
+[18/02/2022 12:52:03] Fetching data for PXD 2/13/2017 19 / 970
+[18/02/2022 12:52:03] Fetching data for TYL 2/13/2017 20 / 970
+[18/02/2022 12:52:03] Fetching data for DXCM 3/6/2017 21 / 970
+[18/02/2022 12:52:04] Fetching data for ADSK 3/13/2017 22 / 970
+[18/02/2022 12:52:04] Fetching data for BXP 3/20/2017 23 / 970
+[18/02/2022 12:52:04] Fetching data for FLT 3/20/2017 24 / 970
+[18/02/2022 12:52:05] Fetching data for HII 3/20/2017 25 / 970
+[18/02/2022 12:52:05] Fetching data for HCA 3/27/2017 26 / 970
+[18/02/2022 12:52:05] Fetching data for EMN 4/3/2017 27 / 970
+[18/02/2022 12:52:06] Fetching data for EXPE 4/10/2017 28 / 970
+[18/02/2022 12:52:06] Fetching data for AXP 4/24/2017 29 / 970
+[18/02/2022 12:52:07] Fetching data for DGX 4/24/2017 30 / 970
+[18/02/2022 12:52:07] Fetching data for HON 4/24/2017 31 / 970
+[18/02/2022 12:52:07] Fetching data for REGN 5/1/2017 32 / 970
+[18/02/2022 12:52:08] Fetching data for EPAM 5/8/2017 33 / 970
+[18/02/2022 12:52:08] Fetching data for TPR 5/8/2017 34 / 970
+[18/02/2022 12:52:08] Fetching data for JKHY 5/22/2017 35 / 970
+[18/02/2022 12:52:09] Fetching data for PVH 5/22/2017 36 / 970
+[18/02/2022 12:52:09] Fetching data for ROK 5/22/2017 37 / 970
+[18/02/2022 12:52:09] Fetching data for UNH 5/22/2017 38 / 970
+[18/02/2022 12:52:10] Fetching data for BBY 5/30/2017 39 / 970
+[18/02/2022 12:52:10] Fetching data for ULTA 5/30/2017 40 / 970
+[18/02/2022 12:52:11] Fetching data for ATVI 6/19/2017 41 / 970
+[18/02/2022 12:52:11] Fetching data for DLR 6/19/2017 42 / 970
+[18/02/2022 12:52:11] Fetching data for EA 6/19/2017 43 / 970
+[18/02/2022 12:52:12] Fetching data for FB 6/19/2017 44 / 970
+[18/02/2022 12:52:12] Fetching data for HD 6/19/2017 45 / 970
+[18/02/2022 12:52:12] Fetching data for HUM 6/19/2017 46 / 970
+[18/02/2022 12:52:13] Fetching data for MAR 6/19/2017 47 / 970
+[18/02/2022 12:52:13] Fetching data for PTC 6/19/2017 48 / 970
+[18/02/2022 12:52:13] Fetching data for MCD 7/31/2017 49 / 970
+[18/02/2022 12:52:14] Fetching data for MHK 7/31/2017 50 / 970
+[18/02/2022 12:52:14] Fetching data for NDAQ 7/31/2017 51 / 970
+[18/02/2022 12:52:15] Fetching data for PKG 7/31/2017 52 / 970
+[18/02/2022 12:52:15] Fetching data for HUM 8/7/2017 53 / 970
+[18/02/2022 12:52:15] Fetching data for LHX 8/7/2017 54 / 970
+[18/02/2022 12:52:16] Fetching data for TFX 8/7/2017 55 / 970
+[18/02/2022 12:52:16] Fetching data for DXC 8/14/2017 56 / 970
+[18/02/2022 12:52:16] Fetching data for TECH 8/14/2017 57 / 970
+[18/02/2022 12:52:17] Fetching data for ZBRA 8/14/2017 58 / 970
+[18/02/2022 12:52:17] Fetching data for DLR 10/2/2017 59 / 970
+[18/02/2022 12:52:17] Fetching data for EL 10/2/2017 60 / 970
+[18/02/2022 12:52:18] Fetching data for FB 10/2/2017 61 / 970
+[18/02/2022 12:52:18] Fetching data for MKC 10/2/2017 62 / 970
+[18/02/2022 12:52:19] Fetching data for ETR 10/9/2017 63 / 970
+[18/02/2022 12:52:19] Fetching data for TSLA 10/9/2017 64 / 970
+[18/02/2022 12:52:19] Fetching data for COST 10/16/2017 65 / 970
+[18/02/2022 12:52:20] Fetching data for GWW 10/16/2017 66 / 970
+[18/02/2022 12:52:20] Fetching data for TGT 10/16/2017 67 / 970
+[18/02/2022 12:52:20] Fetching data for DHR 10/23/2017 68 / 970
+[18/02/2022 12:52:21] Fetching data for DOV 10/23/2017 69 / 970
+[18/02/2022 12:52:21] Fetching data for JBHT 10/23/2017 70 / 970
+[18/02/2022 12:52:21] Fetching data for UNP 10/23/2017 71 / 970
+[18/02/2022 12:52:22] Fetching data for ABMD 10/30/2017 72 / 970
+[18/02/2022 12:52:22] Fetching data for CME 10/30/2017 73 / 970
+[18/02/2022 12:52:22] Fetching data for ILMN 10/30/2017 74 / 970
+[18/02/2022 12:52:23] Fetching data for NSC 10/30/2017 75 / 970
+[18/02/2022 12:52:23] Fetching data for ORLY 10/30/2017 76 / 970
+[18/02/2022 12:52:24] Fetching data for ZTS 11/6/2017 77 / 970
+[18/02/2022 12:52:24] Fetching data for MSCI 11/6/2017 78 / 970
+[18/02/2022 12:52:24] Fetching data for QCOM 11/6/2017 79 / 970
+[18/02/2022 12:52:25] Fetching data for CMA 11/20/2017 80 / 970
+[18/02/2022 12:52:25] Fetching data for DD 11/20/2017 81 / 970
+[18/02/2022 12:52:25] Fetching data for HES 12/4/2017 82 / 970
+[18/02/2022 12:52:26] Fetching data for WST 12/4/2017 83 / 970
+[18/02/2022 12:52:26] Fetching data for MU 12/11/2017 84 / 970
+[18/02/2022 12:52:26] Fetching data for ROK 12/11/2017 85 / 970
+[18/02/2022 12:52:27] Fetching data for TDY 12/18/2017 86 / 970
+[18/02/2022 12:52:27] Fetching data for MHK 12/26/2017 87 / 970
+[18/02/2022 12:52:27] Fetching data for MMM 1/8/2018 88 / 970
+[18/02/2022 12:52:28] Fetching data for TEL 1/8/2018 89 / 970
+[18/02/2022 12:52:28] Fetching data for ALL 1/16/2018 90 / 970
+[18/02/2022 12:52:29] Fetching data for DAL 1/16/2018 91 / 970
+[18/02/2022 12:52:29] Fetching data for LUV 1/16/2018 92 / 970
+[18/02/2022 12:52:29] Fetching data for WYNN 1/16/2018 93 / 970
+[18/02/2022 12:52:30] Fetching data for TWTR 1/29/2018 94 / 970
+[18/02/2022 12:52:30] Fetching data for POOL 1/29/2018 95 / 970
+[18/02/2022 12:52:30] Fetching data for WHR 1/29/2018 96 / 970
+[18/02/2022 12:52:31] Fetching data for CTSH 2/12/2018 97 / 970
+[18/02/2022 12:52:31] Fetching data for K 2/12/2018 98 / 970
+[18/02/2022 12:52:31] Fetching data for OMC 2/12/2018 99 / 970
+[18/02/2022 12:52:32] Fetching data for SPGI 2/12/2018 100 / 970
+[18/02/2022 12:52:32] Fetching data for TPR 2/12/2018 101 / 970
+[18/02/2022 12:52:32] Fetching data for A 3/12/2018 102 / 970
+[18/02/2022 12:52:33] Fetching data for DE 3/12/2018 103 / 970
+[18/02/2022 12:52:33] Fetching data for ADBE 4/9/2018 104 / 970
+[18/02/2022 12:52:34] Fetching data for ADSK 4/9/2018 105 / 970
+[18/02/2022 12:52:34] Fetching data for ALL 4/9/2018 106 / 970
+[18/02/2022 12:52:34] Fetching data for NKE 4/9/2018 107 / 970
+[18/02/2022 12:52:35] Fetching data for NTAP 4/9/2018 108 / 970
+[18/02/2022 12:52:35] Fetching data for PSX 4/9/2018 109 / 970
+[18/02/2022 12:52:35] Fetching data for VRSK 4/9/2018 110 / 970
+[18/02/2022 12:52:36] Fetching data for BXP 4/30/2018 111 / 970
+[18/02/2022 12:52:36] Fetching data for PSA 4/30/2018 112 / 970
+[18/02/2022 12:52:36] Fetching data for SPG 4/30/2018 113 / 970
+[18/02/2022 12:52:37] Fetching data for SRE 4/30/2018 114 / 970
+[18/02/2022 12:52:37] Fetching data for ADP 5/7/2018 115 / 970
+[18/02/2022 12:52:37] Fetching data for EA 5/7/2018 116 / 970
+[18/02/2022 12:52:38] Fetching data for JKHY 5/7/2018 117 / 970
+[18/02/2022 12:52:38] Fetching data for MSCI 5/7/2018 118 / 970
+[18/02/2022 12:52:39] Fetching data for RSG 5/7/2018 119 / 970
+[18/02/2022 12:52:39] Fetching data for TDY 5/7/2018 120 / 970
+[18/02/2022 12:52:39] Fetching data for BDX 6/4/2018 121 / 970
+[18/02/2022 12:52:40] Fetching data for GL 6/4/2018 122 / 970
+[18/02/2022 12:52:40] Fetching data for ISRG 6/4/2018 123 / 970
+[18/02/2022 12:52:40] Fetching data for ROST 6/4/2018 124 / 970
+[18/02/2022 12:52:41] Fetching data for TECH 6/4/2018 125 / 970
+[18/02/2022 12:52:41] Fetching data for MCD 6/11/2018 126 / 970
+[18/02/2022 12:52:41] Fetching data for ATO 6/18/2018 127 / 970
+[18/02/2022 12:52:42] Fetching data for COO 6/18/2018 128 / 970
+[18/02/2022 12:52:42] Fetching data for ACN 7/2/2018 129 / 970
+[18/02/2022 12:52:42] Fetching data for ADBE 7/2/2018 130 / 970
+[18/02/2022 12:52:43] Fetching data for EPAM 7/2/2018 131 / 970
+[18/02/2022 12:52:43] Fetching data for NKE 7/2/2018 132 / 970
+[18/02/2022 12:52:44] Fetching data for TDG 7/2/2018 133 / 970
+[18/02/2022 12:52:44] Fetching data for SNA 7/23/2018 134 / 970
+[18/02/2022 12:52:44] Fetching data for HSY 7/30/2018 135 / 970
+[18/02/2022 12:52:45] Fetching data for RSG 7/30/2018 136 / 970
+[18/02/2022 12:52:45] Fetching data for CDW 8/6/2018 137 / 970
+[18/02/2022 12:52:45] Fetching data for FISV 8/6/2018 138 / 970
+[18/02/2022 12:52:46] Fetching data for FRT 8/6/2018 139 / 970
+[18/02/2022 12:52:46] Fetching data for FTNT 8/6/2018 140 / 970
+[18/02/2022 12:52:46] Fetching data for RCL 8/6/2018 141 / 970
+[18/02/2022 12:52:47] Fetching data for SPG 8/6/2018 142 / 970
+[18/02/2022 12:52:47] Fetching data for TSLA 8/6/2018 143 / 970
+[18/02/2022 12:52:47] Fetching data for TTWO 8/6/2018 144 / 970
+[18/02/2022 12:52:48] Fetching data for VRSK 8/6/2018 145 / 970
+[18/02/2022 12:52:48] Fetching data for VTR 8/6/2018 146 / 970
+[18/02/2022 12:52:49] Fetching data for CRL 8/20/2018 147 / 970
+[18/02/2022 12:52:49] Fetching data for NVDA 8/27/2018 148 / 970
+[18/02/2022 12:52:49] Fetching data for DISCA 9/17/2018 149 / 970
+[18/02/2022 12:52:50] Fetching data for IFF 9/17/2018 150 / 970
+[18/02/2022 12:52:50] Fetching data for BIIB 9/24/2018 151 / 970
+[18/02/2022 12:52:50] Fetching data for BWA 2/19/2019 152 / 970
+[18/02/2022 12:52:51] Fetching data for XRAY 3/4/2019 153 / 970
+[18/02/2022 12:52:51] Fetching data for LOW 3/18/2019 154 / 970
+[18/02/2022 12:52:51] Fetching data for MAR 3/18/2019 155 / 970
+[18/02/2022 12:52:52] Fetching data for BDX 4/1/2019 156 / 970
+[18/02/2022 12:52:52] Fetching data for BIO 4/1/2019 157 / 970
+[18/02/2022 12:52:53] Fetching data for NKE 4/1/2019 158 / 970
+[18/02/2022 12:52:53] Fetching data for IEX 4/29/2019 159 / 970
+[18/02/2022 12:52:53] Fetching data for FANG 5/13/2019 160 / 970
+[18/02/2022 12:52:54] Fetching data for FLT 5/13/2019 161 / 970
+[18/02/2022 12:52:54] Fetching data for FMC 5/13/2019 162 / 970
+[18/02/2022 12:52:54] Fetching data for MSI 5/13/2019 163 / 970
+[18/02/2022 12:52:55] Fetching data for AMAT 5/20/2019 164 / 970
+[18/02/2022 12:52:55] Fetching data for CSCO 5/20/2019 165 / 970
+[18/02/2022 12:52:55] Fetching data for DIS 5/20/2019 166 / 970
+[18/02/2022 12:52:56] Fetching data for MSCI 5/20/2019 167 / 970
+[18/02/2022 12:52:56] Fetching data for PGR 5/20/2019 168 / 970
+[18/02/2022 12:52:57] Fetching data for CPRT 5/28/2019 169 / 970
+[18/02/2022 12:52:57] Fetching data for PAYC 6/10/2019 170 / 970
+[18/02/2022 12:52:57] Fetching data for EPAM 6/10/2019 171 / 970
+[18/02/2022 12:52:58] Fetching data for ETR 6/10/2019 172 / 970
+[18/02/2022 12:52:58] Fetching data for FISV 6/10/2019 173 / 970
+[18/02/2022 12:52:58] Fetching data for MA 6/10/2019 174 / 970
+[18/02/2022 12:52:59] Fetching data for MSFT 6/10/2019 175 / 970
+[18/02/2022 12:52:59] Fetching data for PPG 6/10/2019 176 / 970
+[18/02/2022 12:52:59] Fetching data for SHW 6/10/2019 177 / 970
+[18/02/2022 12:53:00] Fetching data for SJM 6/10/2019 178 / 970
+[18/02/2022 12:53:00] Fetching data for SNPS 6/10/2019 179 / 970
+[18/02/2022 12:53:00] Fetching data for SYY 6/10/2019 180 / 970
+[18/02/2022 12:53:01] Fetching data for AMT 7/8/2019 181 / 970
+[18/02/2022 12:53:01] Fetching data for PEP 7/15/2019 182 / 970
+[18/02/2022 12:53:01] Fetching data for DHR 7/22/2019 183 / 970
+[18/02/2022 12:53:02] Fetching data for POOL 7/22/2019 184 / 970
+[18/02/2022 12:53:02] Fetching data for APD 7/29/2019 185 / 970
+[18/02/2022 12:53:03] Fetching data for CB 7/29/2019 186 / 970
+[18/02/2022 12:53:03] Fetching data for CDNS 7/29/2019 187 / 970
+[18/02/2022 12:53:03] Fetching data for CERN 7/29/2019 188 / 970
+[18/02/2022 12:53:04] Fetching data for DGX 7/29/2019 189 / 970
+[18/02/2022 12:53:04] Fetching data for GPN 7/29/2019 190 / 970
+[18/02/2022 12:53:04] Fetching data for KMB 7/29/2019 191 / 970
+[18/02/2022 12:53:05] Fetching data for LMT 7/29/2019 192 / 970
+[18/02/2022 12:53:05] Fetching data for MAS 7/29/2019 193 / 970
+[18/02/2022 12:53:05] Fetching data for TROW 7/29/2019 194 / 970
+[18/02/2022 12:53:06] Fetching data for WHR 7/29/2019 195 / 970
+[18/02/2022 12:53:06] Fetching data for WST 7/29/2019 196 / 970
+[18/02/2022 12:53:06] Fetching data for PAYC 8/5/2019 197 / 970
+[18/02/2022 12:53:07] Fetching data for VRTX 8/5/2019 198 / 970
+[18/02/2022 12:53:07] Fetching data for CME 8/5/2019 199 / 970
+[18/02/2022 12:53:08] Fetching data for ETR 8/5/2019 200 / 970
+[18/02/2022 12:53:08] Fetching data for MAA 8/5/2019 201 / 970
+[18/02/2022 12:53:08] Fetching data for OKE 8/5/2019 202 / 970
+[18/02/2022 12:53:09] Fetching data for SEE 8/5/2019 203 / 970
+[18/02/2022 12:53:09] Fetching data for LDOS 8/12/2019 204 / 970
+[18/02/2022 12:53:09] Fetching data for ZTS 8/12/2019 205 / 970
+[18/02/2022 12:53:10] Fetching data for ADP 8/12/2019 206 / 970
+[18/02/2022 12:53:10] Fetching data for AIZ 8/12/2019 207 / 970
+[18/02/2022 12:53:10] Fetching data for AMD 8/12/2019 208 / 970
+[18/02/2022 12:53:11] Fetching data for ANSS 8/12/2019 209 / 970
+[18/02/2022 12:53:11] Fetching data for AXP 8/12/2019 210 / 970
+[18/02/2022 12:53:11] Fetching data for BDX 8/12/2019 211 / 970
+[18/02/2022 12:53:12] Fetching data for CINF 8/12/2019 212 / 970
+[18/02/2022 12:53:12] Fetching data for COO 8/12/2019 213 / 970
+[18/02/2022 12:53:13] Fetching data for COST 8/12/2019 214 / 970
+[18/02/2022 12:53:13] Fetching data for CVS 8/12/2019 215 / 970
+[18/02/2022 12:53:13] Fetching data for ECL 8/12/2019 216 / 970
+[18/02/2022 12:53:14] Fetching data for EFX 8/12/2019 217 / 970
+[18/02/2022 12:53:14] Fetching data for FIS 8/12/2019 218 / 970
+[18/02/2022 12:53:14] Fetching data for FLT 8/12/2019 219 / 970
+[18/02/2022 12:53:15] Fetching data for FMC 8/12/2019 220 / 970
+[18/02/2022 12:53:15] Fetching data for IDXX 8/12/2019 221 / 970
+[18/02/2022 12:53:15] Fetching data for J 8/12/2019 222 / 970
+[18/02/2022 12:53:16] Fetching data for MA 8/12/2019 223 / 970
+[18/02/2022 12:53:16] Fetching data for MKC 8/12/2019 224 / 970
+[18/02/2022 12:53:16] Fetching data for MSFT 8/12/2019 225 / 970
+[18/02/2022 12:53:17] Fetching data for PLD 8/12/2019 226 / 970
+[18/02/2022 12:53:17] Fetching data for STE 8/12/2019 227 / 970
+[18/02/2022 12:53:18] Fetching data for TTWO 8/12/2019 228 / 970
+[18/02/2022 12:53:18] Fetching data for V 8/12/2019 229 / 970
+[18/02/2022 12:53:18] Fetching data for VRSK 8/12/2019 230 / 970
+[18/02/2022 12:53:19] Fetching data for WM 8/12/2019 231 / 970
+[18/02/2022 12:53:19] Fetching data for WMT 8/19/2019 232 / 970
+[18/02/2022 12:53:19] Fetching data for HSY 9/23/2019 233 / 970
+[18/02/2022 12:53:20] Fetching data for TSLA 9/30/2019 234 / 970
+[18/02/2022 12:53:20] Fetching data for ATVI 10/7/2019 235 / 970
+[18/02/2022 12:53:20] Fetching data for CPRT 10/7/2019 236 / 970
+[18/02/2022 12:53:21] Fetching data for PEP 10/7/2019 237 / 970
+[18/02/2022 12:53:21] Fetching data for TMO 10/7/2019 238 / 970
+[18/02/2022 12:53:21] Fetching data for VRSK 10/7/2019 239 / 970
+[18/02/2022 12:53:22] Fetching data for DPZ 10/14/2019 240 / 970
+[18/02/2022 12:53:22] Fetching data for EXPD 10/14/2019 241 / 970
+[18/02/2022 12:53:23] Fetching data for FAST 10/14/2019 242 / 970
+[18/02/2022 12:53:23] Fetching data for CCI 10/21/2019 243 / 970
+[18/02/2022 12:53:23] Fetching data for POOL 10/21/2019 244 / 970
+[18/02/2022 12:53:24] Fetching data for SRE 11/4/2019 245 / 970
+[18/02/2022 12:53:24] Fetching data for TYL 11/4/2019 246 / 970
+[18/02/2022 12:53:24] Fetching data for ANSS 11/11/2019 247 / 970
+[18/02/2022 12:53:25] Fetching data for MAA 11/18/2019 248 / 970
+[18/02/2022 12:53:25] Fetching data for HII 12/9/2019 249 / 970
+[18/02/2022 12:53:25] Fetching data for PH 12/9/2019 250 / 970
+[18/02/2022 12:53:26] Fetching data for PNC 12/9/2019 251 / 970
+[18/02/2022 12:53:26] Fetching data for SWK 12/9/2019 252 / 970
+[18/02/2022 12:53:26] Fetching data for TDY 12/9/2019 253 / 970
+[18/02/2022 12:53:27] Fetching data for GPN 12/16/2019 254 / 970
+[18/02/2022 12:53:27] Fetching data for VRTX 12/23/2019 255 / 970
+[18/02/2022 12:53:28] Fetching data for QRVO 1/13/2020 256 / 970
+[18/02/2022 12:53:28] Fetching data for ISRG 1/13/2020 257 / 970
+[18/02/2022 12:53:28] Fetching data for MPWR 1/13/2020 258 / 970
+[18/02/2022 12:53:29] Fetching data for PM 1/13/2020 259 / 970
+[18/02/2022 12:53:29] Fetching data for FRC 1/21/2020 260 / 970
+[18/02/2022 12:53:29] Fetching data for UNH 1/21/2020 261 / 970
+[18/02/2022 12:53:30] Fetching data for CHTR 2/3/2020 262 / 970
+[18/02/2022 12:53:30] Fetching data for AAPL 2/10/2020 263 / 970
+[18/02/2022 12:53:30] Fetching data for ABC 2/10/2020 264 / 970
+[18/02/2022 12:53:31] Fetching data for ATVI 2/10/2020 265 / 970
+[18/02/2022 12:53:31] Fetching data for CNC 2/10/2020 266 / 970
+[18/02/2022 12:53:32] Fetching data for NXPI 2/10/2020 267 / 970
+[18/02/2022 12:53:32] Fetching data for VRTX 6/1/2020 268 / 970
+[18/02/2022 12:53:32] Fetching data for BAX 6/1/2020 269 / 970
+[18/02/2022 12:53:33] Fetching data for CLX 6/1/2020 270 / 970
+[18/02/2022 12:53:33] Fetching data for EA 6/1/2020 271 / 970
+[18/02/2022 12:53:33] Fetching data for LLY 6/1/2020 272 / 970
+[18/02/2022 12:53:34] Fetching data for MSCI 6/8/2020 273 / 970
+[18/02/2022 12:53:34] Fetching data for OXY 6/8/2020 274 / 970
+[18/02/2022 12:53:34] Fetching data for KEYS 6/22/2020 275 / 970
+[18/02/2022 12:53:35] Fetching data for APTV 6/22/2020 276 / 970
+[18/02/2022 12:53:35] Fetching data for BBY 6/22/2020 277 / 970
+[18/02/2022 12:53:36] Fetching data for CERN 6/22/2020 278 / 970
+[18/02/2022 12:53:36] Fetching data for FTNT 6/22/2020 279 / 970
+[18/02/2022 12:53:36] Fetching data for GNRC 6/22/2020 280 / 970
+[18/02/2022 12:53:37] Fetching data for HD 6/22/2020 281 / 970
+[18/02/2022 12:53:37] Fetching data for HOLX 6/22/2020 282 / 970
+[18/02/2022 12:53:37] Fetching data for JKHY 6/22/2020 283 / 970
+[18/02/2022 12:53:38] Fetching data for LEN 6/22/2020 284 / 970
+[18/02/2022 12:53:38] Fetching data for LKQ 6/22/2020 285 / 970
+[18/02/2022 12:53:38] Fetching data for LOW 6/22/2020 286 / 970
+[18/02/2022 12:53:39] Fetching data for MAS 6/22/2020 287 / 970
+[18/02/2022 12:53:39] Fetching data for OKE 6/22/2020 288 / 970
+[18/02/2022 12:53:39] Fetching data for PNR 6/22/2020 289 / 970
+[18/02/2022 12:53:40] Fetching data for ROK 6/22/2020 290 / 970
+[18/02/2022 12:53:40] Fetching data for SEE 6/22/2020 291 / 970
+[18/02/2022 12:53:40] Fetching data for SLB 6/22/2020 292 / 970
+[18/02/2022 12:53:41] Fetching data for STZ 6/22/2020 293 / 970
+[18/02/2022 12:53:41] Fetching data for TEL 6/22/2020 294 / 970
+[18/02/2022 12:53:42] Fetching data for TROW 6/22/2020 295 / 970
+[18/02/2022 12:53:42] Fetching data for UNP 6/22/2020 296 / 970
+[18/02/2022 12:53:42] Fetching data for MPC 7/13/2020 297 / 970
+[18/02/2022 12:53:43] Fetching data for GRMN 8/3/2020 298 / 970
+[18/02/2022 12:53:43] Fetching data for AMGN 8/31/2020 299 / 970
+[18/02/2022 12:53:43] Fetching data for PKI 8/31/2020 300 / 970
+[18/02/2022 12:53:44] Fetching data for APTV 9/21/2020 301 / 970
+[18/02/2022 12:53:44] Fetching data for SEDG 9/28/2020 302 / 970
+[18/02/2022 12:53:44] Fetching data for CBRE 11/2/2020 303 / 970
+[18/02/2022 12:53:45] Fetching data for PYPL 11/9/2020 304 / 970
+[18/02/2022 12:53:45] Fetching data for EXR 11/16/2020 305 / 970
+[18/02/2022 12:53:46] Fetching data for EQR 12/7/2020 306 / 970
+[18/02/2022 12:53:46] Fetching data for ESS 12/7/2020 307 / 970
+[18/02/2022 12:53:46] Fetching data for GNRC 12/14/2020 308 / 970
+[18/02/2022 12:53:47] Fetching data for ALLE 12/21/2020 309 / 970
+[18/02/2022 12:53:47] Fetching data for MLM 12/21/2020 310 / 970
+[18/02/2022 12:53:47] Fetching data for SWK 12/21/2020 311 / 970
+[18/02/2022 12:53:48] Fetching data for TT 12/21/2020 312 / 970
+[18/02/2022 12:53:48] Fetching data for CE 1/11/2021 313 / 970
+[18/02/2022 12:53:48] Fetching data for ABC 1/11/2021 314 / 970
+[18/02/2022 12:53:49] Fetching data for CAH 1/11/2021 315 / 970
+[18/02/2022 12:53:49] Fetching data for CI 1/11/2021 316 / 970
+[18/02/2022 12:53:50] Fetching data for LKQ 1/11/2021 317 / 970
+[18/02/2022 12:53:50] Fetching data for HOLX 2/1/2021 318 / 970
+[18/02/2022 12:53:50] Fetching data for PVH 2/8/2021 319 / 970
+[18/02/2022 12:53:51] Fetching data for CDNS 3/1/2021 320 / 970
+[18/02/2022 12:53:51] Fetching data for COO 3/8/2021 321 / 970
+[18/02/2022 12:53:51] Fetching data for LEN 3/8/2021 322 / 970
+[18/02/2022 12:53:52] Fetching data for NDAQ 3/8/2021 323 / 970
+[18/02/2022 12:53:52] Fetching data for PCAR 3/8/2021 324 / 970
+[18/02/2022 12:53:52] Fetching data for AMAT 3/15/2021 325 / 970
+[18/02/2022 12:53:53] Fetching data for CFG 3/29/2021 326 / 970
+[18/02/2022 12:53:53] Fetching data for AON 3/29/2021 327 / 970
+[18/02/2022 12:53:53] Fetching data for COP 3/29/2021 328 / 970
+[18/02/2022 12:53:54] Fetching data for CVX 3/29/2021 329 / 970
+[18/02/2022 12:53:54] Fetching data for DRI 3/29/2021 330 / 970
+[18/02/2022 12:53:55] Fetching data for EMN 3/29/2021 331 / 970
+[18/02/2022 12:53:55] Fetching data for MLM 3/29/2021 332 / 970
+[18/02/2022 12:53:55] Fetching data for TFC 3/29/2021 333 / 970
+[18/02/2022 12:53:56] Fetching data for XOM 3/29/2021 334 / 970
+[18/02/2022 12:53:56] Fetching data for ZBRA 3/29/2021 335 / 970
+[18/02/2022 12:53:56] Fetching data for CMA 4/26/2021 336 / 970
+[18/02/2022 12:53:57] Fetching data for STT 4/26/2021 337 / 970
+[18/02/2022 12:53:57] Fetching data for UNP 4/26/2021 338 / 970
+[18/02/2022 12:53:57] Fetching data for TMUS 5/10/2021 339 / 970
+[18/02/2022 12:53:58] Fetching data for ABC 5/10/2021 340 / 970
+[18/02/2022 12:53:58] Fetching data for EMR 5/10/2021 341 / 970
+[18/02/2022 12:53:58] Fetching data for PH 5/10/2021 342 / 970
+[18/02/2022 12:53:59] Fetching data for ROP 5/24/2021 343 / 970
+[18/02/2022 12:53:59] Fetching data for TECH 5/24/2021 344 / 970
+[18/02/2022 12:54:00] Fetching data for HII 6/1/2021 345 / 970
+[18/02/2022 12:54:00] Fetching data for BIIB 6/7/2021 346 / 970
+[18/02/2022 12:54:00] Fetching data for BMY 6/14/2021 347 / 970
+[18/02/2022 12:54:01] Fetching data for SRE 6/14/2021 348 / 970
+[18/02/2022 12:54:01] Fetching data for CNC 6/21/2021 349 / 970
+[18/02/2022 12:54:01] Fetching data for IT 6/21/2021 350 / 970
+[18/02/2022 12:54:02] Fetching data for HSY 6/28/2021 351 / 970
+[18/02/2022 12:54:02] Fetching data for FRT 7/12/2021 352 / 970
+[18/02/2022 12:54:02] Fetching data for TWTR 7/26/2021 353 / 970
+[18/02/2022 12:54:03] Fetching data for AXP 7/26/2021 354 / 970
+[18/02/2022 12:54:03] Fetching data for IPG 7/26/2021 355 / 970
+[18/02/2022 12:54:03] Fetching data for MCK 7/26/2021 356 / 970
+[18/02/2022 12:54:04] Fetching data for MMC 7/26/2021 357 / 970
+[18/02/2022 12:54:04] Fetching data for NVDA 7/26/2021 358 / 970
+[18/02/2022 12:54:05] Fetching data for POOL 7/26/2021 359 / 970
+[18/02/2022 12:54:05] Fetching data for RHI 7/26/2021 360 / 970
+[18/02/2022 12:54:05] Fetching data for EBAY 8/16/2021 361 / 970
+[18/02/2022 12:54:06] Fetching data for EL 8/23/2021 362 / 970
+[18/02/2022 12:54:06] Fetching data for JKHY 8/23/2021 363 / 970
+[18/02/2022 12:54:06] Fetching data for LOW 8/23/2021 364 / 970
+[18/02/2022 12:54:07] Fetching data for PAYC 9/20/2021 365 / 970
+[18/02/2022 12:54:07] Fetching data for ISRG 9/20/2021 366 / 970
+[18/02/2022 12:54:07] Fetching data for MSFT 9/20/2021 367 / 970
+[18/02/2022 12:54:08] Fetching data for PKI 9/20/2021 368 / 970
+[18/02/2022 12:54:08] Fetching data for STE 9/20/2021 369 / 970
+[18/02/2022 12:54:09] Fetching data for ACN 9/27/2021 370 / 970
+[18/02/2022 12:54:09] Fetching data for CMA 9/27/2021 371 / 970
+[18/02/2022 12:54:09] Fetching data for COO 9/27/2021 372 / 970
+[18/02/2022 12:54:10] Fetching data for DRI 9/27/2021 373 / 970
+[18/02/2022 12:54:10] Fetching data for LNC 9/27/2021 374 / 970
+[18/02/2022 12:54:10] Fetching data for RJF 9/27/2021 375 / 970
+[18/02/2022 12:54:11] Fetching data for TFC 9/27/2021 376 / 970
+[18/02/2022 12:54:11] Fetching data for USB 9/27/2021 377 / 970
+[18/02/2022 12:54:11] Fetching data for PAYX 10/4/2021 378 / 970
+[18/02/2022 12:54:12] Fetching data for WBA 10/18/2021 379 / 970
+[18/02/2022 12:54:12] Fetching data for EFX 10/25/2021 380 / 970
+[18/02/2022 12:54:13] Fetching data for ZION 10/25/2021 381 / 970
+[18/02/2022 12:54:13] Fetching data for MTCH 11/8/2021 382 / 970
+[18/02/2022 12:54:13] Fetching data for EXPE 11/8/2021 383 / 970
+[18/02/2022 12:54:14] Fetching data for ADP 12/6/2021 384 / 970
+[18/02/2022 12:54:14] Fetching data for AME 12/6/2021 385 / 970
+[18/02/2022 12:54:14] Fetching data for ANSS 12/6/2021 386 / 970
+[18/02/2022 12:54:15] Fetching data for APH 12/6/2021 387 / 970
+[18/02/2022 12:54:15] Fetching data for CME 12/6/2021 388 / 970
+[18/02/2022 12:54:15] Fetching data for EQR 12/6/2021 389 / 970
+[18/02/2022 12:54:16] Fetching data for EXPD 12/6/2021 390 / 970
+[18/02/2022 12:54:16] Fetching data for FBHS 12/6/2021 391 / 970
+[18/02/2022 12:54:16] Fetching data for FMC 12/6/2021 392 / 970
+[18/02/2022 12:54:17] Fetching data for FRT 12/6/2021 393 / 970
+[18/02/2022 12:54:17] Fetching data for ITW 12/6/2021 394 / 970
+[18/02/2022 12:54:18] Fetching data for KLAC 12/6/2021 395 / 970
+[18/02/2022 12:54:18] Fetching data for LIN 12/6/2021 396 / 970
+[18/02/2022 12:54:18] Fetching data for NSC 12/6/2021 397 / 970
+[18/02/2022 12:54:19] Fetching data for PEP 12/6/2021 398 / 970
+[18/02/2022 12:54:19] Fetching data for REG 12/6/2021 399 / 970
+[18/02/2022 12:54:19] Fetching data for RSG 12/6/2021 400 / 970
+[18/02/2022 12:54:20] Fetching data for SNPS 12/6/2021 401 / 970
+[18/02/2022 12:54:20] Fetching data for TSN 12/6/2021 402 / 970
+[18/02/2022 12:54:20] Fetching data for UNP 12/6/2021 403 / 970
+[18/02/2022 12:54:21] Fetching data for VFC 12/6/2021 404 / 970
+[18/02/2022 12:54:21] Fetching data for ADI 12/13/2021 405 / 970
+[18/02/2022 12:54:21] Fetching data for NUE 12/20/2021 406 / 970
+[18/02/2022 12:54:22] Reported stocks
+EMN     [04-03-2017]
+DLR     [10-02-2017]
+EL      [10-02-2017]
+FB      [10-02-2017]
+EPAM    [07-02-2018]
+TDG     [07-02-2018]
+BDX     [04-01-2019]
+BIO     [04-01-2019]
+ATVI    [10-07-2019]
+PEP     [10-07-2019]
+TMO     [10-07-2019]
+VRSK    [10-07-2019]
+dtype: object
+[18/02/2022 12:54:22] Unreported stocks
+EOG                                     [12-5-2016]
+HII    [12-19-2016, 3-20-2017, 12-9-2019, 6-1-2021]
+ALK                                     [1-17-2017]
+GWW                         [1-17-2017, 10-16-2017]
+NSC              [1-23-2017, 10-30-2017, 12-6-2021]
+                           ...                     
+REG                                     [12-6-2021]
+TSN                                     [12-6-2021]
+VFC                                     [12-6-2021]
+ADI                                    [12-13-2021]
+NUE                                    [12-20-2021]
+Length: 253, dtype: object
+
+=========================================================================================
+[18/02/2022 13:41:58] Fetching data for EOG 12/5/2016 1 / 970
+[18/02/2022 13:41:59] Fetching data for HII 12/19/2016 2 / 970
+[18/02/2022 13:41:59] Fetching data for VIAC 12/19/2016 3 / 970
+[18/02/2022 13:42:00]  ERROR: || HTTP Error 404: Not Found, HTTPError C:\Users\newco\Documents\Repos\Python\Upwork\Steven\EarningsReversalPattern\src\tools\spiders\alpha_query_spider.py 67
+[18/02/2022 13:42:00] Fetching data for ALK 1/17/2017 4 / 970
+[18/02/2022 13:42:00] Fetching data for GWW 1/17/2017 5 / 970
+[18/02/2022 13:42:00] Fetching data for NSC 1/23/2017 6 / 970
+[18/02/2022 13:42:01] Fetching data for BRK.B 1/30/2017 7 / 970
+[18/02/2022 13:42:01] Fetching data for EMN 1/30/2017 8 / 970
+[18/02/2022 13:42:01] Fetching data for FDX 1/30/2017 9 / 970
+[18/02/2022 13:42:02] Fetching data for GD 1/30/2017 10 / 970
+[18/02/2022 13:42:02] Fetching data for HAL 1/30/2017 11 / 970
+[18/02/2022 13:42:03] Fetching data for LUV 1/30/2017 12 / 970
+[18/02/2022 13:42:03] Fetching data for STX 1/30/2017 13 / 970
+[18/02/2022 13:42:03] Fetching data for ALGN 2/6/2017 14 / 970
+[18/02/2022 13:42:04] Fetching data for COP 2/6/2017 15 / 970
+[18/02/2022 13:42:04] Fetching data for CTXS 2/6/2017 16 / 970
+[18/02/2022 13:42:05] Fetching data for GS 2/6/2017 17 / 970
+[18/02/2022 13:42:05] Fetching data for FANG 2/13/2017 18 / 970
+[18/02/2022 13:42:05] Fetching data for PXD 2/13/2017 19 / 970
+[18/02/2022 13:42:06] Fetching data for TYL 2/13/2017 20 / 970
+[18/02/2022 13:42:06] Fetching data for DXCM 3/6/2017 21 / 970
+[18/02/2022 13:42:06] Fetching data for ADSK 3/13/2017 22 / 970
+[18/02/2022 13:42:07] Fetching data for BXP 3/20/2017 23 / 970
+[18/02/2022 13:42:07] Fetching data for FLT 3/20/2017 24 / 970
+[18/02/2022 13:42:08] Fetching data for HII 3/20/2017 25 / 970
+[18/02/2022 13:42:08] Fetching data for HCA 3/27/2017 26 / 970
+[18/02/2022 13:42:08] Fetching data for EMN 4/3/2017 27 / 970
+[18/02/2022 13:42:09] Fetching data for EXPE 4/10/2017 28 / 970
+[18/02/2022 13:42:09] Fetching data for AXP 4/24/2017 29 / 970
+[18/02/2022 13:42:09] Fetching data for DGX 4/24/2017 30 / 970
+[18/02/2022 13:42:10] Fetching data for HON 4/24/2017 31 / 970
+[18/02/2022 13:42:10] Fetching data for REGN 5/1/2017 32 / 970
+[18/02/2022 13:42:11] Fetching data for EPAM 5/8/2017 33 / 970
+[18/02/2022 13:42:11] Fetching data for TPR 5/8/2017 34 / 970
+[18/02/2022 13:42:11] Fetching data for JKHY 5/22/2017 35 / 970
+[18/02/2022 13:42:12] Fetching data for PVH 5/22/2017 36 / 970
+[18/02/2022 13:42:12] Fetching data for ROK 5/22/2017 37 / 970
+[18/02/2022 13:42:12] Fetching data for UNH 5/22/2017 38 / 970
+[18/02/2022 13:42:13] Fetching data for BBY 5/30/2017 39 / 970
+[18/02/2022 13:42:13] Fetching data for ULTA 5/30/2017 40 / 970
+[18/02/2022 13:42:14] Fetching data for ATVI 6/19/2017 41 / 970
+[18/02/2022 13:42:14] Fetching data for DLR 6/19/2017 42 / 970
+[18/02/2022 13:42:14] Fetching data for EA 6/19/2017 43 / 970
+[18/02/2022 13:42:15] Fetching data for FB 6/19/2017 44 / 970
+[18/02/2022 13:42:15] Fetching data for HD 6/19/2017 45 / 970
+[18/02/2022 13:42:15] Fetching data for HUM 6/19/2017 46 / 970
+[18/02/2022 13:42:16] Fetching data for MAR 6/19/2017 47 / 970
+[18/02/2022 13:42:16] Fetching data for PTC 6/19/2017 48 / 970
+[18/02/2022 13:42:16] Fetching data for MCD 7/31/2017 49 / 970
+[18/02/2022 13:42:17] Fetching data for MHK 7/31/2017 50 / 970
+[18/02/2022 13:42:17] Fetching data for NDAQ 7/31/2017 51 / 970
+[18/02/2022 13:42:18] Fetching data for PKG 7/31/2017 52 / 970
+[18/02/2022 13:42:18] Fetching data for HUM 8/7/2017 53 / 970
+[18/02/2022 13:42:18] Fetching data for LHX 8/7/2017 54 / 970
+[18/02/2022 13:42:19] Fetching data for TFX 8/7/2017 55 / 970
+[18/02/2022 13:42:19] Fetching data for DXC 8/14/2017 56 / 970
+[18/02/2022 13:42:19] Fetching data for TECH 8/14/2017 57 / 970
+[18/02/2022 13:42:20] Fetching data for ZBRA 8/14/2017 58 / 970
+[18/02/2022 13:42:20] Fetching data for DLR 10/2/2017 59 / 970
+[18/02/2022 13:42:20] Fetching data for EL 10/2/2017 60 / 970
+[18/02/2022 13:42:21] Fetching data for FB 10/2/2017 61 / 970
+[18/02/2022 13:42:21] Fetching data for MKC 10/2/2017 62 / 970
+[18/02/2022 13:42:22] Fetching data for ETR 10/9/2017 63 / 970
+[18/02/2022 13:42:22] Fetching data for TSLA 10/9/2017 64 / 970
+[18/02/2022 13:42:22] Fetching data for COST 10/16/2017 65 / 970
+[18/02/2022 13:42:23] Fetching data for GWW 10/16/2017 66 / 970
+[18/02/2022 13:42:23] Fetching data for TGT 10/16/2017 67 / 970
+[18/02/2022 13:42:23] Fetching data for DHR 10/23/2017 68 / 970
+[18/02/2022 13:42:24] Fetching data for DOV 10/23/2017 69 / 970
+[18/02/2022 13:42:24] Fetching data for JBHT 10/23/2017 70 / 970
+[18/02/2022 13:42:25] Fetching data for UNP 10/23/2017 71 / 970
+[18/02/2022 13:42:25] Fetching data for ABMD 10/30/2017 72 / 970
+[18/02/2022 13:42:25] Fetching data for CME 10/30/2017 73 / 970
+[18/02/2022 13:42:26] Fetching data for ILMN 10/30/2017 74 / 970
+[18/02/2022 13:42:26] Fetching data for NSC 10/30/2017 75 / 970
+[18/02/2022 13:42:26] Fetching data for ORLY 10/30/2017 76 / 970
+[18/02/2022 13:42:27] Fetching data for ZTS 11/6/2017 77 / 970
+[18/02/2022 13:42:27] Fetching data for MSCI 11/6/2017 78 / 970
+[18/02/2022 13:42:27] Fetching data for QCOM 11/6/2017 79 / 970
+[18/02/2022 13:42:28] Fetching data for CMA 11/20/2017 80 / 970
+[18/02/2022 13:42:28] Fetching data for DD 11/20/2017 81 / 970
+[18/02/2022 13:42:29] Fetching data for HES 12/4/2017 82 / 970
+[18/02/2022 13:42:29] Fetching data for WST 12/4/2017 83 / 970
+[18/02/2022 13:42:29] Fetching data for MU 12/11/2017 84 / 970
+[18/02/2022 13:42:30] Fetching data for ROK 12/11/2017 85 / 970
+[18/02/2022 13:42:30] Fetching data for TDY 12/18/2017 86 / 970
+[18/02/2022 13:42:30] Fetching data for MHK 12/26/2017 87 / 970
+[18/02/2022 13:42:31] Fetching data for MMM 1/8/2018 88 / 970
+[18/02/2022 13:42:31] Fetching data for TEL 1/8/2018 89 / 970
+[18/02/2022 13:42:32] Fetching data for ALL 1/16/2018 90 / 970
+[18/02/2022 13:42:32] Fetching data for DAL 1/16/2018 91 / 970
+[18/02/2022 13:42:32] Fetching data for LUV 1/16/2018 92 / 970
+[18/02/2022 13:42:33] Fetching data for WYNN 1/16/2018 93 / 970
+[18/02/2022 13:42:33] Fetching data for TWTR 1/29/2018 94 / 970
+[18/02/2022 13:42:33] Fetching data for POOL 1/29/2018 95 / 970
+[18/02/2022 13:42:34] Fetching data for WHR 1/29/2018 96 / 970
+[18/02/2022 13:42:34] Fetching data for CTSH 2/12/2018 97 / 970
+[18/02/2022 13:42:35] Fetching data for K 2/12/2018 98 / 970
+[18/02/2022 13:42:35] Fetching data for OMC 2/12/2018 99 / 970
+[18/02/2022 13:42:35] Fetching data for SPGI 2/12/2018 100 / 970
+[18/02/2022 13:42:36] Fetching data for TPR 2/12/2018 101 / 970
+[18/02/2022 13:42:36] Fetching data for A 3/12/2018 102 / 970
+[18/02/2022 13:42:36] Fetching data for DE 3/12/2018 103 / 970
+[18/02/2022 13:42:37] Fetching data for ADBE 4/9/2018 104 / 970
+[18/02/2022 13:42:37] Fetching data for ADSK 4/9/2018 105 / 970
+[18/02/2022 13:42:37] Fetching data for ALL 4/9/2018 106 / 970
+[18/02/2022 13:42:38] Fetching data for NKE 4/9/2018 107 / 970
+[18/02/2022 13:42:38] Fetching data for NTAP 4/9/2018 108 / 970
+[18/02/2022 13:42:39] Fetching data for PSX 4/9/2018 109 / 970
+[18/02/2022 13:42:39] Fetching data for VRSK 4/9/2018 110 / 970
+[18/02/2022 13:42:39] Fetching data for BXP 4/30/2018 111 / 970
+[18/02/2022 13:42:40] Fetching data for PSA 4/30/2018 112 / 970
+[18/02/2022 13:42:40] Fetching data for SPG 4/30/2018 113 / 970
+[18/02/2022 13:42:40] Fetching data for SRE 4/30/2018 114 / 970
+[18/02/2022 13:42:41] Fetching data for ADP 5/7/2018 115 / 970
+[18/02/2022 13:42:41] Fetching data for EA 5/7/2018 116 / 970
+[18/02/2022 13:42:41] Fetching data for JKHY 5/7/2018 117 / 970
+[18/02/2022 13:42:42] Fetching data for MSCI 5/7/2018 118 / 970
+[18/02/2022 13:42:42] Fetching data for RSG 5/7/2018 119 / 970
+[18/02/2022 13:42:42] Fetching data for TDY 5/7/2018 120 / 970
+[18/02/2022 13:42:43] Fetching data for BDX 6/4/2018 121 / 970
+[18/02/2022 13:42:43] Fetching data for GL 6/4/2018 122 / 970
+[18/02/2022 13:42:44] Fetching data for ISRG 6/4/2018 123 / 970
+[18/02/2022 13:42:44] Fetching data for ROST 6/4/2018 124 / 970
+[18/02/2022 13:42:44] Fetching data for TECH 6/4/2018 125 / 970
+[18/02/2022 13:42:45] Fetching data for MCD 6/11/2018 126 / 970
+[18/02/2022 13:42:45] Fetching data for ATO 6/18/2018 127 / 970
+[18/02/2022 13:42:45] Fetching data for COO 6/18/2018 128 / 970
+[18/02/2022 13:42:46] Fetching data for ACN 7/2/2018 129 / 970
+[18/02/2022 13:42:46] Fetching data for ADBE 7/2/2018 130 / 970
+[18/02/2022 13:42:47] Fetching data for EPAM 7/2/2018 131 / 970
+[18/02/2022 13:42:47] Fetching data for NKE 7/2/2018 132 / 970
+[18/02/2022 13:42:47] Fetching data for TDG 7/2/2018 133 / 970
+[18/02/2022 13:42:48] Fetching data for SNA 7/23/2018 134 / 970
+[18/02/2022 13:42:48] Fetching data for HSY 7/30/2018 135 / 970
+[18/02/2022 13:42:48] Fetching data for RSG 7/30/2018 136 / 970
+[18/02/2022 13:42:49] Fetching data for CDW 8/6/2018 137 / 970
+[18/02/2022 13:42:49] Fetching data for FISV 8/6/2018 138 / 970
+[18/02/2022 13:42:49] Fetching data for FRT 8/6/2018 139 / 970
+[18/02/2022 13:42:50] Fetching data for FTNT 8/6/2018 140 / 970
+[18/02/2022 13:42:50] Fetching data for RCL 8/6/2018 141 / 970
+[18/02/2022 13:42:51] Fetching data for SPG 8/6/2018 142 / 970
+[18/02/2022 13:42:51] Fetching data for TSLA 8/6/2018 143 / 970
+[18/02/2022 13:42:51] Fetching data for TTWO 8/6/2018 144 / 970
+[18/02/2022 13:42:52] Fetching data for VRSK 8/6/2018 145 / 970
+[18/02/2022 13:42:52] Fetching data for VTR 8/6/2018 146 / 970
+[18/02/2022 13:42:52] Fetching data for CRL 8/20/2018 147 / 970
+[18/02/2022 13:42:53] Fetching data for NVDA 8/27/2018 148 / 970
+[18/02/2022 13:42:53] Fetching data for DISCA 9/17/2018 149 / 970
+[18/02/2022 13:42:53] Fetching data for IFF 9/17/2018 150 / 970
+[18/02/2022 13:42:54] Fetching data for BIIB 9/24/2018 151 / 970
+[18/02/2022 13:42:54] Fetching data for BWA 2/19/2019 152 / 970
+[18/02/2022 13:42:55] Fetching data for XRAY 3/4/2019 153 / 970
+[18/02/2022 13:42:55] Fetching data for LOW 3/18/2019 154 / 970
+[18/02/2022 13:42:55] Fetching data for MAR 3/18/2019 155 / 970
+[18/02/2022 13:42:56] Fetching data for BDX 4/1/2019 156 / 970
+[18/02/2022 13:42:56] Fetching data for BIO 4/1/2019 157 / 970
+[18/02/2022 13:42:56] Fetching data for NKE 4/1/2019 158 / 970
+[18/02/2022 13:42:57] Fetching data for IEX 4/29/2019 159 / 970
+[18/02/2022 13:42:57] Fetching data for FANG 5/13/2019 160 / 970
+[18/02/2022 13:42:57] Fetching data for FLT 5/13/2019 161 / 970
+[18/02/2022 13:42:58] Fetching data for FMC 5/13/2019 162 / 970
+[18/02/2022 13:42:58] Fetching data for MSI 5/13/2019 163 / 970
+[18/02/2022 13:42:59] Fetching data for AMAT 5/20/2019 164 / 970
+[18/02/2022 13:42:59] Fetching data for CSCO 5/20/2019 165 / 970
+[18/02/2022 13:42:59] Fetching data for DIS 5/20/2019 166 / 970
+[18/02/2022 13:43:00] Fetching data for MSCI 5/20/2019 167 / 970
+[18/02/2022 13:43:00] Fetching data for PGR 5/20/2019 168 / 970
+[18/02/2022 13:43:00] Fetching data for CPRT 5/28/2019 169 / 970
+[18/02/2022 13:43:01] Fetching data for PAYC 6/10/2019 170 / 970
+[18/02/2022 13:43:01] Fetching data for EPAM 6/10/2019 171 / 970
+[18/02/2022 13:43:01] Fetching data for ETR 6/10/2019 172 / 970
+[18/02/2022 13:43:02] Fetching data for FISV 6/10/2019 173 / 970
+[18/02/2022 13:43:02] Fetching data for MA 6/10/2019 174 / 970
+[18/02/2022 13:43:03] Fetching data for MSFT 6/10/2019 175 / 970
+[18/02/2022 13:43:03] Fetching data for PPG 6/10/2019 176 / 970
+[18/02/2022 13:43:03] Fetching data for SHW 6/10/2019 177 / 970
+[18/02/2022 13:43:04] Fetching data for SJM 6/10/2019 178 / 970
+[18/02/2022 13:43:04] Fetching data for SNPS 6/10/2019 179 / 970
+[18/02/2022 13:43:04] Fetching data for SYY 6/10/2019 180 / 970
+[18/02/2022 13:43:05] Fetching data for AMT 7/8/2019 181 / 970
+[18/02/2022 13:43:05] Fetching data for PEP 7/15/2019 182 / 970
+[18/02/2022 13:43:05] Fetching data for DHR 7/22/2019 183 / 970
+[18/02/2022 13:43:06] Fetching data for POOL 7/22/2019 184 / 970
+[18/02/2022 13:43:06] Fetching data for APD 7/29/2019 185 / 970
+[18/02/2022 13:43:07] Fetching data for CB 7/29/2019 186 / 970
+[18/02/2022 13:43:07] Fetching data for CDNS 7/29/2019 187 / 970
+[18/02/2022 13:43:07] Fetching data for CERN 7/29/2019 188 / 970
+[18/02/2022 13:43:08] Fetching data for DGX 7/29/2019 189 / 970
+[18/02/2022 13:43:08] Fetching data for GPN 7/29/2019 190 / 970
+[18/02/2022 13:43:08] Fetching data for KMB 7/29/2019 191 / 970
+[18/02/2022 13:43:09] Fetching data for LMT 7/29/2019 192 / 970
+[18/02/2022 13:43:09] Fetching data for MAS 7/29/2019 193 / 970
+[18/02/2022 13:43:09] Fetching data for TROW 7/29/2019 194 / 970
+[18/02/2022 13:43:10] Fetching data for WHR 7/29/2019 195 / 970
+[18/02/2022 13:43:10] Fetching data for WST 7/29/2019 196 / 970
+[18/02/2022 13:43:10] Fetching data for PAYC 8/5/2019 197 / 970
+[18/02/2022 13:43:11] Fetching data for VRTX 8/5/2019 198 / 970
+[18/02/2022 13:43:11] Fetching data for CME 8/5/2019 199 / 970
+[18/02/2022 13:43:12] Fetching data for ETR 8/5/2019 200 / 970
+[18/02/2022 13:43:12] Fetching data for MAA 8/5/2019 201 / 970
+[18/02/2022 13:43:12] Fetching data for OKE 8/5/2019 202 / 970
+[18/02/2022 13:43:13] Fetching data for SEE 8/5/2019 203 / 970
+[18/02/2022 13:43:13] Fetching data for LDOS 8/12/2019 204 / 970
+[18/02/2022 13:43:13] Fetching data for ZTS 8/12/2019 205 / 970
+[18/02/2022 13:43:14] Fetching data for ADP 8/12/2019 206 / 970
+[18/02/2022 13:43:14] Fetching data for AIZ 8/12/2019 207 / 970
+[18/02/2022 13:43:14] Fetching data for AMD 8/12/2019 208 / 970
+[18/02/2022 13:43:15] Fetching data for ANSS 8/12/2019 209 / 970
+[18/02/2022 13:43:15] Fetching data for AXP 8/12/2019 210 / 970
+[18/02/2022 13:43:15] Fetching data for BDX 8/12/2019 211 / 970
+[18/02/2022 13:43:16] Fetching data for CINF 8/12/2019 212 / 970
+[18/02/2022 13:43:16] Fetching data for COO 8/12/2019 213 / 970
+[18/02/2022 13:43:17] Fetching data for COST 8/12/2019 214 / 970
+[18/02/2022 13:43:17] Fetching data for CVS 8/12/2019 215 / 970
+[18/02/2022 13:43:17] Fetching data for ECL 8/12/2019 216 / 970
+[18/02/2022 13:43:18] Fetching data for EFX 8/12/2019 217 / 970
+[18/02/2022 13:43:18] Fetching data for FIS 8/12/2019 218 / 970
+[18/02/2022 13:43:18] Fetching data for FLT 8/12/2019 219 / 970
+[18/02/2022 13:43:19] Fetching data for FMC 8/12/2019 220 / 970
+[18/02/2022 13:43:19] Fetching data for IDXX 8/12/2019 221 / 970
+[18/02/2022 13:43:19] Fetching data for J 8/12/2019 222 / 970
+[18/02/2022 13:43:20] Fetching data for MA 8/12/2019 223 / 970
+[18/02/2022 13:43:20] Fetching data for MKC 8/12/2019 224 / 970
+[18/02/2022 13:43:21] Fetching data for MSFT 8/12/2019 225 / 970
+[18/02/2022 13:43:21] Fetching data for PLD 8/12/2019 226 / 970
+[18/02/2022 13:43:21] Fetching data for STE 8/12/2019 227 / 970
+[18/02/2022 13:43:22] Fetching data for TTWO 8/12/2019 228 / 970
+[18/02/2022 13:43:22] Fetching data for V 8/12/2019 229 / 970
+[18/02/2022 13:43:22] Fetching data for VRSK 8/12/2019 230 / 970
+[18/02/2022 13:43:23] Fetching data for WM 8/12/2019 231 / 970
+[18/02/2022 13:43:23] Fetching data for WMT 8/19/2019 232 / 970
+[18/02/2022 13:43:23] Fetching data for HSY 9/23/2019 233 / 970
+[18/02/2022 13:43:24] Fetching data for TSLA 9/30/2019 234 / 970
+[18/02/2022 13:43:24] Fetching data for ATVI 10/7/2019 235 / 970
+[18/02/2022 13:43:24] Fetching data for CPRT 10/7/2019 236 / 970
+[18/02/2022 13:43:25] Fetching data for PEP 10/7/2019 237 / 970
+[18/02/2022 13:43:25] Fetching data for TMO 10/7/2019 238 / 970
+[18/02/2022 13:43:26] Fetching data for VRSK 10/7/2019 239 / 970
+[18/02/2022 13:43:26] Fetching data for DPZ 10/14/2019 240 / 970
+[18/02/2022 13:43:26] Fetching data for EXPD 10/14/2019 241 / 970
+[18/02/2022 13:43:27] Fetching data for FAST 10/14/2019 242 / 970
+[18/02/2022 13:43:27] Fetching data for CCI 10/21/2019 243 / 970
+[18/02/2022 13:43:27] Fetching data for POOL 10/21/2019 244 / 970
+[18/02/2022 13:43:28] Fetching data for SRE 11/4/2019 245 / 970
+[18/02/2022 13:43:28] Fetching data for TYL 11/4/2019 246 / 970
+[18/02/2022 13:43:28] Fetching data for ANSS 11/11/2019 247 / 970
+[18/02/2022 13:43:29] Fetching data for MAA 11/18/2019 248 / 970
+[18/02/2022 13:43:29] Fetching data for HII 12/9/2019 249 / 970
+[18/02/2022 13:43:30] Fetching data for PH 12/9/2019 250 / 970
+[18/02/2022 13:43:30] Fetching data for PNC 12/9/2019 251 / 970
+[18/02/2022 13:43:30] Fetching data for SWK 12/9/2019 252 / 970
+[18/02/2022 13:43:31] Fetching data for TDY 12/9/2019 253 / 970
+[18/02/2022 13:43:31] Fetching data for GPN 12/16/2019 254 / 970
+[18/02/2022 13:43:31] Fetching data for VRTX 12/23/2019 255 / 970
+[18/02/2022 13:43:32] Fetching data for QRVO 1/13/2020 256 / 970
+[18/02/2022 13:43:32] Fetching data for ISRG 1/13/2020 257 / 970
+[18/02/2022 13:43:32] Fetching data for MPWR 1/13/2020 258 / 970
+[18/02/2022 13:43:33] Fetching data for PM 1/13/2020 259 / 970
+[18/02/2022 13:43:33] Fetching data for FRC 1/21/2020 260 / 970
+[18/02/2022 13:43:34] Fetching data for UNH 1/21/2020 261 / 970
+[18/02/2022 13:43:34] Fetching data for CHTR 2/3/2020 262 / 970
+[18/02/2022 13:43:34] Fetching data for AAPL 2/10/2020 263 / 970
+[18/02/2022 13:43:35] Fetching data for ABC 2/10/2020 264 / 970
+[18/02/2022 13:43:35] Fetching data for ATVI 2/10/2020 265 / 970
+[18/02/2022 13:43:35] Fetching data for CNC 2/10/2020 266 / 970
+[18/02/2022 13:43:36] Fetching data for NXPI 2/10/2020 267 / 970
+[18/02/2022 13:43:36] Fetching data for VRTX 6/1/2020 268 / 970
+[18/02/2022 13:43:36] Fetching data for BAX 6/1/2020 269 / 970
+[18/02/2022 13:43:37] Fetching data for CLX 6/1/2020 270 / 970
+[18/02/2022 13:43:37] Fetching data for EA 6/1/2020 271 / 970
+[18/02/2022 13:43:38] Fetching data for LLY 6/1/2020 272 / 970
+[18/02/2022 13:43:38] Fetching data for MSCI 6/8/2020 273 / 970
+[18/02/2022 13:43:38] Fetching data for OXY 6/8/2020 274 / 970
+[18/02/2022 13:43:39] Fetching data for KEYS 6/22/2020 275 / 970
+[18/02/2022 13:43:39] Fetching data for APTV 6/22/2020 276 / 970
+[18/02/2022 13:43:39] Fetching data for BBY 6/22/2020 277 / 970
+[18/02/2022 13:43:40] Fetching data for CERN 6/22/2020 278 / 970
+[18/02/2022 13:43:40] Fetching data for FTNT 6/22/2020 279 / 970
+[18/02/2022 13:43:40] Fetching data for GNRC 6/22/2020 280 / 970
+[18/02/2022 13:43:41] Fetching data for HD 6/22/2020 281 / 970
+[18/02/2022 13:43:41] Fetching data for HOLX 6/22/2020 282 / 970
+[18/02/2022 13:43:42] Fetching data for JKHY 6/22/2020 283 / 970
+[18/02/2022 13:43:42] Fetching data for LEN 6/22/2020 284 / 970
+[18/02/2022 13:43:42] Fetching data for LKQ 6/22/2020 285 / 970
+[18/02/2022 13:43:43] Fetching data for LOW 6/22/2020 286 / 970
+[18/02/2022 13:43:43] Fetching data for MAS 6/22/2020 287 / 970
+[18/02/2022 13:43:43] Fetching data for OKE 6/22/2020 288 / 970
+[18/02/2022 13:43:44] Fetching data for PNR 6/22/2020 289 / 970
+[18/02/2022 13:43:44] Fetching data for ROK 6/22/2020 290 / 970
+[18/02/2022 13:43:44] Fetching data for SEE 6/22/2020 291 / 970
+[18/02/2022 13:43:45] Fetching data for SLB 6/22/2020 292 / 970
+[18/02/2022 13:43:45] Fetching data for STZ 6/22/2020 293 / 970
+[18/02/2022 13:43:45] Fetching data for TEL 6/22/2020 294 / 970
+[18/02/2022 13:43:46] Fetching data for TROW 6/22/2020 295 / 970
+[18/02/2022 13:43:46] Fetching data for UNP 6/22/2020 296 / 970
+[18/02/2022 13:43:47] Fetching data for MPC 7/13/2020 297 / 970
+[18/02/2022 13:43:47] Fetching data for GRMN 8/3/2020 298 / 970
+[18/02/2022 13:43:47] Fetching data for AMGN 8/31/2020 299 / 970
+[18/02/2022 13:43:48] Fetching data for PKI 8/31/2020 300 / 970
+[18/02/2022 13:43:48] Fetching data for APTV 9/21/2020 301 / 970
+[18/02/2022 13:43:48] Fetching data for SEDG 9/28/2020 302 / 970
+[18/02/2022 13:43:49] Fetching data for CBRE 11/2/2020 303 / 970
+[18/02/2022 13:43:49] Fetching data for PYPL 11/9/2020 304 / 970
+[18/02/2022 13:43:49] Fetching data for EXR 11/16/2020 305 / 970
+[18/02/2022 13:43:50] Fetching data for EQR 12/7/2020 306 / 970
+[18/02/2022 13:43:50] Fetching data for ESS 12/7/2020 307 / 970
+[18/02/2022 13:43:51] Fetching data for GNRC 12/14/2020 308 / 970
+[18/02/2022 13:43:51] Fetching data for ALLE 12/21/2020 309 / 970
+[18/02/2022 13:43:51] Fetching data for MLM 12/21/2020 310 / 970
+[18/02/2022 13:43:52] Fetching data for SWK 12/21/2020 311 / 970
+[18/02/2022 13:43:52] Fetching data for TT 12/21/2020 312 / 970
+[18/02/2022 13:43:52] Fetching data for CE 1/11/2021 313 / 970
+[18/02/2022 13:43:53] Fetching data for ABC 1/11/2021 314 / 970
+[18/02/2022 13:43:53] Fetching data for CAH 1/11/2021 315 / 970
+[18/02/2022 13:43:53] Fetching data for CI 1/11/2021 316 / 970
+[18/02/2022 13:43:54] Fetching data for LKQ 1/11/2021 317 / 970
+[18/02/2022 13:43:54] Fetching data for HOLX 2/1/2021 318 / 970
+[18/02/2022 13:43:54] Fetching data for PVH 2/8/2021 319 / 970
+[18/02/2022 13:43:55] Fetching data for CDNS 3/1/2021 320 / 970
+[18/02/2022 13:43:55] Fetching data for COO 3/8/2021 321 / 970
+[18/02/2022 13:43:56] Fetching data for LEN 3/8/2021 322 / 970
+[18/02/2022 13:43:56] Fetching data for NDAQ 3/8/2021 323 / 970
+[18/02/2022 13:43:56] Fetching data for PCAR 3/8/2021 324 / 970
+[18/02/2022 13:43:57] Fetching data for AMAT 3/15/2021 325 / 970
+[18/02/2022 13:43:57] Fetching data for CFG 3/29/2021 326 / 970
+[18/02/2022 13:43:57] Fetching data for AON 3/29/2021 327 / 970
+[18/02/2022 13:43:58] Fetching data for COP 3/29/2021 328 / 970
+[18/02/2022 13:43:58] Fetching data for CVX 3/29/2021 329 / 970
+[18/02/2022 13:43:58] Fetching data for DRI 3/29/2021 330 / 970
+[18/02/2022 13:43:59] Fetching data for EMN 3/29/2021 331 / 970
+[18/02/2022 13:43:59] Fetching data for MLM 3/29/2021 332 / 970
+[18/02/2022 13:43:59] Fetching data for TFC 3/29/2021 333 / 970
+[18/02/2022 13:44:00] Fetching data for XOM 3/29/2021 334 / 970
+[18/02/2022 13:44:00] Fetching data for ZBRA 3/29/2021 335 / 970
+[18/02/2022 13:44:01] Fetching data for CMA 4/26/2021 336 / 970
+[18/02/2022 13:44:01] Fetching data for STT 4/26/2021 337 / 970
+[18/02/2022 13:44:01] Fetching data for UNP 4/26/2021 338 / 970
+[18/02/2022 13:44:02] Fetching data for TMUS 5/10/2021 339 / 970
+[18/02/2022 13:44:02] Fetching data for ABC 5/10/2021 340 / 970
+[18/02/2022 13:44:02] Fetching data for EMR 5/10/2021 341 / 970
+[18/02/2022 13:44:03] Fetching data for PH 5/10/2021 342 / 970
+[18/02/2022 13:44:03] Fetching data for ROP 5/24/2021 343 / 970
+[18/02/2022 13:44:03] Fetching data for TECH 5/24/2021 344 / 970
+[18/02/2022 13:44:04] Fetching data for HII 6/1/2021 345 / 970
+[18/02/2022 13:44:04] Fetching data for BIIB 6/7/2021 346 / 970
+[18/02/2022 13:44:04] Fetching data for BMY 6/14/2021 347 / 970
+[18/02/2022 13:44:05] Fetching data for SRE 6/14/2021 348 / 970
+[18/02/2022 13:44:05] Fetching data for CNC 6/21/2021 349 / 970
+[18/02/2022 13:44:06] Fetching data for IT 6/21/2021 350 / 970
+[18/02/2022 13:44:06] Fetching data for HSY 6/28/2021 351 / 970
+[18/02/2022 13:44:06] Fetching data for FRT 7/12/2021 352 / 970
+[18/02/2022 13:44:07] Fetching data for TWTR 7/26/2021 353 / 970
+[18/02/2022 13:44:07] Fetching data for AXP 7/26/2021 354 / 970
+[18/02/2022 13:44:07] Fetching data for IPG 7/26/2021 355 / 970
+[18/02/2022 13:44:08] Fetching data for MCK 7/26/2021 356 / 970
+[18/02/2022 13:44:08] Fetching data for MMC 7/26/2021 357 / 970
+[18/02/2022 13:44:08] Fetching data for NVDA 7/26/2021 358 / 970
+[18/02/2022 13:44:09] Fetching data for POOL 7/26/2021 359 / 970
+[18/02/2022 13:44:09] Fetching data for RHI 7/26/2021 360 / 970
+[18/02/2022 13:44:10] Fetching data for EBAY 8/16/2021 361 / 970
+[18/02/2022 13:44:10] Fetching data for EL 8/23/2021 362 / 970
+[18/02/2022 13:44:10] Fetching data for JKHY 8/23/2021 363 / 970
+[18/02/2022 13:44:11] Fetching data for LOW 8/23/2021 364 / 970
+[18/02/2022 13:44:11] Fetching data for PAYC 9/20/2021 365 / 970
+[18/02/2022 13:44:11] Fetching data for ISRG 9/20/2021 366 / 970
+[18/02/2022 13:44:12] Fetching data for MSFT 9/20/2021 367 / 970
+[18/02/2022 13:44:12] Fetching data for PKI 9/20/2021 368 / 970
+[18/02/2022 13:44:12] Fetching data for STE 9/20/2021 369 / 970
+[18/02/2022 13:44:13] Fetching data for ACN 9/27/2021 370 / 970
+[18/02/2022 13:44:13] Fetching data for CMA 9/27/2021 371 / 970
+[18/02/2022 13:44:14] Fetching data for COO 9/27/2021 372 / 970
+[18/02/2022 13:44:14] Fetching data for DRI 9/27/2021 373 / 970
+[18/02/2022 13:44:14] Fetching data for LNC 9/27/2021 374 / 970
+[18/02/2022 13:44:15] Fetching data for RJF 9/27/2021 375 / 970
+[18/02/2022 13:44:15] Fetching data for TFC 9/27/2021 376 / 970
+[18/02/2022 13:44:15] Fetching data for USB 9/27/2021 377 / 970
+[18/02/2022 13:44:16] Fetching data for PAYX 10/4/2021 378 / 970
+[18/02/2022 13:44:16] Fetching data for WBA 10/18/2021 379 / 970
+[18/02/2022 13:44:16] Fetching data for EFX 10/25/2021 380 / 970
+[18/02/2022 13:44:17] Fetching data for ZION 10/25/2021 381 / 970
+[18/02/2022 13:44:17] Fetching data for MTCH 11/8/2021 382 / 970
+[18/02/2022 13:44:18] Fetching data for EXPE 11/8/2021 383 / 970
+[18/02/2022 13:44:18] Fetching data for ADP 12/6/2021 384 / 970
+[18/02/2022 13:44:18] Fetching data for AME 12/6/2021 385 / 970
+[18/02/2022 13:44:19] Fetching data for ANSS 12/6/2021 386 / 970
+[18/02/2022 13:44:19] Fetching data for APH 12/6/2021 387 / 970
+[18/02/2022 13:44:19] Fetching data for CME 12/6/2021 388 / 970
+[18/02/2022 13:44:20] Fetching data for EQR 12/6/2021 389 / 970
+[18/02/2022 13:44:20] Fetching data for EXPD 12/6/2021 390 / 970
+[18/02/2022 13:44:20] Fetching data for FBHS 12/6/2021 391 / 970
+[18/02/2022 13:44:21] Fetching data for FMC 12/6/2021 392 / 970
+[18/02/2022 13:44:21] Fetching data for FRT 12/6/2021 393 / 970
+[18/02/2022 13:44:21] Fetching data for ITW 12/6/2021 394 / 970
+[18/02/2022 13:44:22] Fetching data for KLAC 12/6/2021 395 / 970
+[18/02/2022 13:44:22] Fetching data for LIN 12/6/2021 396 / 970
+[18/02/2022 13:44:23] Fetching data for NSC 12/6/2021 397 / 970
+[18/02/2022 13:44:23] Fetching data for PEP 12/6/2021 398 / 970
+[18/02/2022 13:44:23] Fetching data for REG 12/6/2021 399 / 970
+[18/02/2022 13:44:24] Fetching data for RSG 12/6/2021 400 / 970
+[18/02/2022 13:44:24] Fetching data for SNPS 12/6/2021 401 / 970
+[18/02/2022 13:44:24] Fetching data for TSN 12/6/2021 402 / 970
+[18/02/2022 13:44:25] Fetching data for UNP 12/6/2021 403 / 970
+[18/02/2022 13:44:25] Fetching data for VFC 12/6/2021 404 / 970
+[18/02/2022 13:44:25] Fetching data for ADI 12/13/2021 405 / 970
+[18/02/2022 13:44:26] Fetching data for NUE 12/20/2021 406 / 970
+[18/02/2022 13:44:26] Reported stocks
+EMN     [01-30-2017]
+GD      [01-30-2017]
+HAL     [01-30-2017]
+LUV     [01-30-2017]
+STX     [01-30-2017]
+            ...     
+EFX     [10-25-2021]
+ZION    [10-25-2021]
+MTCH    [11-08-2021]
+EXPE    [11-08-2021]
+SNPS    [12-06-2021]
+Length: 133, dtype: object
+[18/02/2022 13:44:26] Unreported stocks
+EOG                                     [12-5-2016]
+HII    [12-19-2016, 3-20-2017, 12-9-2019, 6-1-2021]
+ALK                                     [1-17-2017]
+GWW                         [1-17-2017, 10-16-2017]
+NSC                          [1-23-2017, 12-6-2021]
+                           ...                     
+RSG                                     [12-6-2021]
+TSN                                     [12-6-2021]
+VFC                                     [12-6-2021]
+ADI                                    [12-13-2021]
+NUE                                    [12-20-2021]
+Length: 187, dtype: object
+
+=========================================================================================
+[18/02/2022 13:53:23] Fetching data for EOG 12/5/2016 1 / 970
+[18/02/2022 13:53:24] Fetching data for HII 12/19/2016 2 / 970
+[18/02/2022 13:53:24] Fetching data for VIAC 12/19/2016 3 / 970
+[18/02/2022 13:53:24]  ERROR: || HTTP Error 404: Not Found, HTTPError C:\Users\newco\Documents\Repos\Python\Upwork\Steven\EarningsReversalPattern\src\tools\spiders\alpha_query_spider.py 70
+[18/02/2022 13:53:24] Fetching data for ALK 1/17/2017 4 / 970
+[18/02/2022 13:53:25] Fetching data for GWW 1/17/2017 5 / 970
+[18/02/2022 13:53:25] Fetching data for NSC 1/23/2017 6 / 970
+[18/02/2022 13:53:25] Fetching data for BRK.B 1/30/2017 7 / 970
+[18/02/2022 13:53:26] Fetching data for EMN 1/30/2017 8 / 970
+
+=========================================================================================
+[18/02/2022 13:54:57] Fetching data for EOG 12/5/2016 1 / 970
+[18/02/2022 13:54:58] Fetching data for HII 12/19/2016 2 / 970
+[18/02/2022 13:54:58] Fetching data for VIAC 12/19/2016 3 / 970
+[18/02/2022 13:54:58]  ERROR: || HTTP Error 404: Not Found, HTTPError C:\Users\newco\Documents\Repos\Python\Upwork\Steven\EarningsReversalPattern\src\tools\spiders\alpha_query_spider.py 70
+[18/02/2022 13:54:58] Fetching data for ALK 1/17/2017 4 / 970
+[18/02/2022 13:54:59] Fetching data for GWW 1/17/2017 5 / 970
+[18/02/2022 13:54:59] Fetching data for NSC 1/23/2017 6 / 970
+[18/02/2022 13:54:59] Fetching data for BRK.B 1/30/2017 7 / 970
+[18/02/2022 13:55:00] Fetching data for EMN 1/30/2017 8 / 970
+
+=========================================================================================
+[18/02/2022 13:55:25] Fetching data for EOG 12/5/2016 1 / 970
+[18/02/2022 13:55:26] Fetching data for HII 12/19/2016 2 / 970
+[18/02/2022 13:55:26] Fetching data for VIAC 12/19/2016 3 / 970
+[18/02/2022 13:55:27]  ERROR: || HTTP Error 404: Not Found, HTTPError C:\Users\newco\Documents\Repos\Python\Upwork\Steven\EarningsReversalPattern\src\tools\spiders\alpha_query_spider.py 70
+[18/02/2022 13:55:27] Fetching data for ALK 1/17/2017 4 / 970
+[18/02/2022 13:55:27] Fetching data for GWW 1/17/2017 5 / 970
+[18/02/2022 13:55:27] Fetching data for NSC 1/23/2017 6 / 970
+[18/02/2022 13:55:28] Fetching data for BRK.B 1/30/2017 7 / 970
+[18/02/2022 13:55:28] Fetching data for EMN 1/30/2017 8 / 970
+[18/02/2022 13:55:44] Fetching data for FDX 1/30/2017 9 / 970
+[18/02/2022 13:55:45] Fetching data for GD 1/30/2017 10 / 970
+
+=========================================================================================
+[18/02/2022 13:59:02] Fetching data for EOG 12/5/2016 1 / 970
+[18/02/2022 13:59:03]  ERROR: || 'datetime.datetime' object is not subscriptable, TypeError C:\Users\newco\Documents\Repos\Python\Upwork\Steven\EarningsReversalPattern\src\tools\spiders\alpha_query_spider.py 84
+[18/02/2022 13:59:03] Fetching data for HII 12/19/2016 2 / 970
+[18/02/2022 13:59:03]  ERROR: || 'datetime.datetime' object is not subscriptable, TypeError C:\Users\newco\Documents\Repos\Python\Upwork\Steven\EarningsReversalPattern\src\tools\spiders\alpha_query_spider.py 84
+[18/02/2022 13:59:03] Fetching data for VIAC 12/19/2016 3 / 970
+[18/02/2022 13:59:03]  ERROR: || HTTP Error 404: Not Found, HTTPError C:\Users\newco\Documents\Repos\Python\Upwork\Steven\EarningsReversalPattern\src\tools\spiders\alpha_query_spider.py 70
+[18/02/2022 13:59:03] Fetching data for ALK 1/17/2017 4 / 970
+[18/02/2022 13:59:04]  ERROR: || 'datetime.datetime' object is not subscriptable, TypeError C:\Users\newco\Documents\Repos\Python\Upwork\Steven\EarningsReversalPattern\src\tools\spiders\alpha_query_spider.py 84
+[18/02/2022 13:59:04] Fetching data for GWW 1/17/2017 5 / 970
+[18/02/2022 13:59:04]  ERROR: || 'datetime.datetime' object is not subscriptable, TypeError C:\Users\newco\Documents\Repos\Python\Upwork\Steven\EarningsReversalPattern\src\tools\spiders\alpha_query_spider.py 84
+[18/02/2022 13:59:04] Fetching data for NSC 1/23/2017 6 / 970
+[18/02/2022 13:59:04]  ERROR: || 'datetime.datetime' object is not subscriptable, TypeError C:\Users\newco\Documents\Repos\Python\Upwork\Steven\EarningsReversalPattern\src\tools\spiders\alpha_query_spider.py 84
+[18/02/2022 13:59:04] Fetching data for BRK.B 1/30/2017 7 / 970
+[18/02/2022 13:59:05]  ERROR: || 'datetime.datetime' object is not subscriptable, TypeError C:\Users\newco\Documents\Repos\Python\Upwork\Steven\EarningsReversalPattern\src\tools\spiders\alpha_query_spider.py 84
+[18/02/2022 13:59:05] Fetching data for EMN 1/30/2017 8 / 970
+
+=========================================================================================
+[18/02/2022 13:59:15] Fetching data for EOG 12/5/2016 1 / 970
+
+=========================================================================================
+[18/02/2022 14:00:49] Fetching data for EOG 12/5/2016 1 / 970
+[18/02/2022 14:00:52] Fetching data for HII 12/19/2016 2 / 970
+[18/02/2022 14:00:56] Fetching data for VIAC 12/19/2016 3 / 970
+[18/02/2022 14:00:56]  ERROR: || HTTP Error 404: Not Found, HTTPError C:\Users\newco\Documents\Repos\Python\Upwork\Steven\EarningsReversalPattern\src\tools\spiders\alpha_query_spider.py 67
+[18/02/2022 14:00:56] Fetching data for ALK 1/17/2017 4 / 970
+[18/02/2022 14:00:57] Fetching data for GWW 1/17/2017 5 / 970
+[18/02/2022 14:00:57] Fetching data for NSC 1/23/2017 6 / 970
+[18/02/2022 14:00:58] Fetching data for BRK.B 1/30/2017 7 / 970
+[18/02/2022 14:00:58] Fetching data for EMN 1/30/2017 8 / 970
+[18/02/2022 14:00:58] Fetching data for FDX 1/30/2017 9 / 970
+[18/02/2022 14:00:59] Fetching data for GD 1/30/2017 10 / 970
+[18/02/2022 14:00:59] Fetching data for HAL 1/30/2017 11 / 970
+[18/02/2022 14:00:59] Fetching data for LUV 1/30/2017 12 / 970
+[18/02/2022 14:01:00] Fetching data for STX 1/30/2017 13 / 970
+[18/02/2022 14:01:00] Fetching data for ALGN 2/6/2017 14 / 970
+[18/02/2022 14:01:00] Fetching data for COP 2/6/2017 15 / 970
+[18/02/2022 14:01:01] Fetching data for CTXS 2/6/2017 16 / 970
+[18/02/2022 14:01:01] Fetching data for GS 2/6/2017 17 / 970
+[18/02/2022 14:01:02] Fetching data for FANG 2/13/2017 18 / 970
+[18/02/2022 14:01:02] Fetching data for PXD 2/13/2017 19 / 970
+[18/02/2022 14:01:02] Fetching data for TYL 2/13/2017 20 / 970
+[18/02/2022 14:01:03] Fetching data for DXCM 3/6/2017 21 / 970
+[18/02/2022 14:01:03] Fetching data for ADSK 3/13/2017 22 / 970
+[18/02/2022 14:01:03] Fetching data for BXP 3/20/2017 23 / 970
+[18/02/2022 14:01:04] Fetching data for FLT 3/20/2017 24 / 970
+[18/02/2022 14:01:04] Fetching data for HII 3/20/2017 25 / 970
+[18/02/2022 14:01:05] Fetching data for HCA 3/27/2017 26 / 970
+[18/02/2022 14:01:05] Fetching data for EMN 4/3/2017 27 / 970
+[18/02/2022 14:01:05] Fetching data for EXPE 4/10/2017 28 / 970
+[18/02/2022 14:01:06] Fetching data for AXP 4/24/2017 29 / 970
+[18/02/2022 14:01:06] Fetching data for DGX 4/24/2017 30 / 970
+[18/02/2022 14:01:06] Fetching data for HON 4/24/2017 31 / 970
+[18/02/2022 14:01:07] Fetching data for REGN 5/1/2017 32 / 970
+[18/02/2022 14:01:07] Fetching data for EPAM 5/8/2017 33 / 970
+[18/02/2022 14:01:07] Fetching data for TPR 5/8/2017 34 / 970
+[18/02/2022 14:01:08] Fetching data for JKHY 5/22/2017 35 / 970
+[18/02/2022 14:01:08] Fetching data for PVH 5/22/2017 36 / 970
+[18/02/2022 14:01:08] Fetching data for ROK 5/22/2017 37 / 970
+[18/02/2022 14:01:09] Fetching data for UNH 5/22/2017 38 / 970
+[18/02/2022 14:01:09] Fetching data for BBY 5/30/2017 39 / 970
+[18/02/2022 14:01:10] Fetching data for ULTA 5/30/2017 40 / 970
+[18/02/2022 14:01:10] Fetching data for ATVI 6/19/2017 41 / 970
+[18/02/2022 14:01:10] Fetching data for DLR 6/19/2017 42 / 970
+[18/02/2022 14:01:11] Fetching data for EA 6/19/2017 43 / 970
+[18/02/2022 14:01:11] Fetching data for FB 6/19/2017 44 / 970
+[18/02/2022 14:01:11] Fetching data for HD 6/19/2017 45 / 970
+[18/02/2022 14:01:12] Fetching data for HUM 6/19/2017 46 / 970
+[18/02/2022 14:01:12] Fetching data for MAR 6/19/2017 47 / 970
+[18/02/2022 14:01:13] Fetching data for PTC 6/19/2017 48 / 970
+[18/02/2022 14:01:13] Fetching data for MCD 7/31/2017 49 / 970
+[18/02/2022 14:01:13] Fetching data for MHK 7/31/2017 50 / 970
+[18/02/2022 14:01:14] Fetching data for NDAQ 7/31/2017 51 / 970
+[18/02/2022 14:01:14] Fetching data for PKG 7/31/2017 52 / 970
+[18/02/2022 14:01:14] Fetching data for HUM 8/7/2017 53 / 970
+[18/02/2022 14:01:15] Fetching data for LHX 8/7/2017 54 / 970
+[18/02/2022 14:01:15] Fetching data for TFX 8/7/2017 55 / 970
+[18/02/2022 14:01:15] Fetching data for DXC 8/14/2017 56 / 970
+[18/02/2022 14:01:16] Fetching data for TECH 8/14/2017 57 / 970
+[18/02/2022 14:01:16] Fetching data for ZBRA 8/14/2017 58 / 970
+[18/02/2022 14:01:17] Fetching data for DLR 10/2/2017 59 / 970
+[18/02/2022 14:01:17] Fetching data for EL 10/2/2017 60 / 970
+[18/02/2022 14:01:17] Fetching data for FB 10/2/2017 61 / 970
+[18/02/2022 14:01:18] Fetching data for MKC 10/2/2017 62 / 970
+[18/02/2022 14:01:18] Fetching data for ETR 10/9/2017 63 / 970
+[18/02/2022 14:01:18] Fetching data for TSLA 10/9/2017 64 / 970
+[18/02/2022 14:01:19] Fetching data for COST 10/16/2017 65 / 970
+[18/02/2022 14:01:19] Fetching data for GWW 10/16/2017 66 / 970
+[18/02/2022 14:01:19] Fetching data for TGT 10/16/2017 67 / 970
+[18/02/2022 14:01:20] Fetching data for DHR 10/23/2017 68 / 970
+[18/02/2022 14:01:20] Fetching data for DOV 10/23/2017 69 / 970
+[18/02/2022 14:01:20] Fetching data for JBHT 10/23/2017 70 / 970
+[18/02/2022 14:01:21] Fetching data for UNP 10/23/2017 71 / 970
+[18/02/2022 14:01:21] Fetching data for ABMD 10/30/2017 72 / 970
+[18/02/2022 14:01:22] Fetching data for CME 10/30/2017 73 / 970
+[18/02/2022 14:01:22] Fetching data for ILMN 10/30/2017 74 / 970
+[18/02/2022 14:01:22] Fetching data for NSC 10/30/2017 75 / 970
+[18/02/2022 14:01:23] Fetching data for ORLY 10/30/2017 76 / 970
+[18/02/2022 14:01:23] Fetching data for ZTS 11/6/2017 77 / 970
+[18/02/2022 14:01:23] Fetching data for MSCI 11/6/2017 78 / 970
+[18/02/2022 14:01:24] Fetching data for QCOM 11/6/2017 79 / 970
+[18/02/2022 14:01:24] Fetching data for CMA 11/20/2017 80 / 970
+[18/02/2022 14:01:24] Fetching data for DD 11/20/2017 81 / 970
+[18/02/2022 14:01:25] Fetching data for HES 12/4/2017 82 / 970
+[18/02/2022 14:01:25] Fetching data for WST 12/4/2017 83 / 970
+[18/02/2022 14:01:26] Fetching data for MU 12/11/2017 84 / 970
+[18/02/2022 14:01:26] Fetching data for ROK 12/11/2017 85 / 970
+[18/02/2022 14:01:26] Fetching data for TDY 12/18/2017 86 / 970
+[18/02/2022 14:01:27] Fetching data for MHK 12/26/2017 87 / 970
+[18/02/2022 14:01:27] Fetching data for MMM 1/8/2018 88 / 970
+[18/02/2022 14:01:27] Fetching data for TEL 1/8/2018 89 / 970
+[18/02/2022 14:01:28] Fetching data for ALL 1/16/2018 90 / 970
+[18/02/2022 14:01:28] Fetching data for DAL 1/16/2018 91 / 970
+[18/02/2022 14:01:28] Fetching data for LUV 1/16/2018 92 / 970
+[18/02/2022 14:01:29] Fetching data for WYNN 1/16/2018 93 / 970
+[18/02/2022 14:01:29] Fetching data for TWTR 1/29/2018 94 / 970
+[18/02/2022 14:01:30] Fetching data for POOL 1/29/2018 95 / 970
+[18/02/2022 14:01:30] Fetching data for WHR 1/29/2018 96 / 970
+[18/02/2022 14:01:30] Fetching data for CTSH 2/12/2018 97 / 970
+[18/02/2022 14:01:31] Fetching data for K 2/12/2018 98 / 970
+[18/02/2022 14:01:31] Fetching data for OMC 2/12/2018 99 / 970
+[18/02/2022 14:01:31] Fetching data for SPGI 2/12/2018 100 / 970
+[18/02/2022 14:01:32] Fetching data for TPR 2/12/2018 101 / 970
+[18/02/2022 14:01:32] Fetching data for A 3/12/2018 102 / 970
+[18/02/2022 14:01:32] Fetching data for DE 3/12/2018 103 / 970
+[18/02/2022 14:01:33] Fetching data for ADBE 4/9/2018 104 / 970
+[18/02/2022 14:01:33] Fetching data for ADSK 4/9/2018 105 / 970
+[18/02/2022 14:01:34] Fetching data for ALL 4/9/2018 106 / 970
+[18/02/2022 14:01:34] Fetching data for NKE 4/9/2018 107 / 970
+[18/02/2022 14:01:34] Fetching data for NTAP 4/9/2018 108 / 970
+[18/02/2022 14:01:35] Fetching data for PSX 4/9/2018 109 / 970
+[18/02/2022 14:01:35] Fetching data for VRSK 4/9/2018 110 / 970
+[18/02/2022 14:01:35] Fetching data for BXP 4/30/2018 111 / 970
+[18/02/2022 14:01:36] Fetching data for PSA 4/30/2018 112 / 970
+[18/02/2022 14:01:36] Fetching data for SPG 4/30/2018 113 / 970
+[18/02/2022 14:01:36] Fetching data for SRE 4/30/2018 114 / 970
+[18/02/2022 14:01:37] Fetching data for ADP 5/7/2018 115 / 970
+[18/02/2022 14:01:37] Fetching data for EA 5/7/2018 116 / 970
+[18/02/2022 14:01:37] Fetching data for JKHY 5/7/2018 117 / 970
+[18/02/2022 14:01:38] Fetching data for MSCI 5/7/2018 118 / 970
+[18/02/2022 14:01:38] Fetching data for RSG 5/7/2018 119 / 970
+[18/02/2022 14:01:39] Fetching data for TDY 5/7/2018 120 / 970
+[18/02/2022 14:01:39] Fetching data for BDX 6/4/2018 121 / 970
+[18/02/2022 14:01:39] Fetching data for GL 6/4/2018 122 / 970
+[18/02/2022 14:01:40] Fetching data for ISRG 6/4/2018 123 / 970
+[18/02/2022 14:01:40] Fetching data for ROST 6/4/2018 124 / 970
+[18/02/2022 14:01:40] Fetching data for TECH 6/4/2018 125 / 970
+[18/02/2022 14:01:41] Fetching data for MCD 6/11/2018 126 / 970
+[18/02/2022 14:01:41] Fetching data for ATO 6/18/2018 127 / 970
+[18/02/2022 14:01:41] Fetching data for COO 6/18/2018 128 / 970
+[18/02/2022 14:01:42] Fetching data for ACN 7/2/2018 129 / 970
+[18/02/2022 14:01:42] Fetching data for ADBE 7/2/2018 130 / 970
+[18/02/2022 14:01:43] Fetching data for EPAM 7/2/2018 131 / 970
+[18/02/2022 14:01:43] Fetching data for NKE 7/2/2018 132 / 970
+[18/02/2022 14:01:43] Fetching data for TDG 7/2/2018 133 / 970
+[18/02/2022 14:01:44] Fetching data for SNA 7/23/2018 134 / 970
+[18/02/2022 14:01:44] Fetching data for HSY 7/30/2018 135 / 970
+[18/02/2022 14:01:44] Fetching data for RSG 7/30/2018 136 / 970
+[18/02/2022 14:01:45] Fetching data for CDW 8/6/2018 137 / 970
+[18/02/2022 14:01:45] Fetching data for FISV 8/6/2018 138 / 970
+[18/02/2022 14:01:45] Fetching data for FRT 8/6/2018 139 / 970
+[18/02/2022 14:01:46] Fetching data for FTNT 8/6/2018 140 / 970
+[18/02/2022 14:01:46] Fetching data for RCL 8/6/2018 141 / 970
+[18/02/2022 14:01:46] Fetching data for SPG 8/6/2018 142 / 970
+[18/02/2022 14:01:47] Fetching data for TSLA 8/6/2018 143 / 970
+[18/02/2022 14:01:47] Fetching data for TTWO 8/6/2018 144 / 970
+[18/02/2022 14:01:48] Fetching data for VRSK 8/6/2018 145 / 970
+[18/02/2022 14:01:48] Fetching data for VTR 8/6/2018 146 / 970
+[18/02/2022 14:01:48] Fetching data for CRL 8/20/2018 147 / 970
+[18/02/2022 14:01:49] Fetching data for NVDA 8/27/2018 148 / 970
+[18/02/2022 14:01:49] Fetching data for DISCA 9/17/2018 149 / 970
+[18/02/2022 14:01:49] Fetching data for IFF 9/17/2018 150 / 970
+[18/02/2022 14:01:50] Fetching data for BIIB 9/24/2018 151 / 970
+[18/02/2022 14:01:50] Fetching data for BWA 2/19/2019 152 / 970
+[18/02/2022 14:01:51] Fetching data for XRAY 3/4/2019 153 / 970
+[18/02/2022 14:01:51] Fetching data for LOW 3/18/2019 154 / 970
+[18/02/2022 14:01:51] Fetching data for MAR 3/18/2019 155 / 970
+[18/02/2022 14:01:52] Fetching data for BDX 4/1/2019 156 / 970
+[18/02/2022 14:01:52] Fetching data for BIO 4/1/2019 157 / 970
+[18/02/2022 14:01:52] Fetching data for NKE 4/1/2019 158 / 970
+[18/02/2022 14:01:53] Fetching data for IEX 4/29/2019 159 / 970
+[18/02/2022 14:01:53] Fetching data for FANG 5/13/2019 160 / 970
+[18/02/2022 14:01:53] Fetching data for FLT 5/13/2019 161 / 970
+[18/02/2022 14:01:54] Fetching data for FMC 5/13/2019 162 / 970
+[18/02/2022 14:01:54] Fetching data for MSI 5/13/2019 163 / 970
+[18/02/2022 14:01:54] Fetching data for AMAT 5/20/2019 164 / 970
+[18/02/2022 14:01:55] Fetching data for CSCO 5/20/2019 165 / 970
+[18/02/2022 14:01:55] Fetching data for DIS 5/20/2019 166 / 970
+[18/02/2022 14:01:56] Fetching data for MSCI 5/20/2019 167 / 970
+[18/02/2022 14:01:56] Fetching data for PGR 5/20/2019 168 / 970
+[18/02/2022 14:01:56] Fetching data for CPRT 5/28/2019 169 / 970
+[18/02/2022 14:01:57] Fetching data for PAYC 6/10/2019 170 / 970
+[18/02/2022 14:01:57] Fetching data for EPAM 6/10/2019 171 / 970
+[18/02/2022 14:01:57] Fetching data for ETR 6/10/2019 172 / 970
+[18/02/2022 14:01:58] Fetching data for FISV 6/10/2019 173 / 970
+[18/02/2022 14:01:58] Fetching data for MA 6/10/2019 174 / 970
+[18/02/2022 14:01:58] Fetching data for MSFT 6/10/2019 175 / 970
+[18/02/2022 14:01:59] Fetching data for PPG 6/10/2019 176 / 970
+[18/02/2022 14:01:59] Fetching data for SHW 6/10/2019 177 / 970
+[18/02/2022 14:02:00] Fetching data for SJM 6/10/2019 178 / 970
+[18/02/2022 14:02:00] Fetching data for SNPS 6/10/2019 179 / 970
+[18/02/2022 14:02:00] Fetching data for SYY 6/10/2019 180 / 970
+[18/02/2022 14:02:01] Fetching data for AMT 7/8/2019 181 / 970
+[18/02/2022 14:02:01] Fetching data for PEP 7/15/2019 182 / 970
+[18/02/2022 14:02:01] Fetching data for DHR 7/22/2019 183 / 970
+[18/02/2022 14:02:02] Fetching data for POOL 7/22/2019 184 / 970
+[18/02/2022 14:02:02] Fetching data for APD 7/29/2019 185 / 970
+[18/02/2022 14:02:03] Fetching data for CB 7/29/2019 186 / 970
+[18/02/2022 14:02:03] Fetching data for CDNS 7/29/2019 187 / 970
+[18/02/2022 14:02:03] Fetching data for CERN 7/29/2019 188 / 970
+[18/02/2022 14:02:04] Fetching data for DGX 7/29/2019 189 / 970
+[18/02/2022 14:02:04] Fetching data for GPN 7/29/2019 190 / 970
+[18/02/2022 14:02:04] Fetching data for KMB 7/29/2019 191 / 970
+[18/02/2022 14:02:05] Fetching data for LMT 7/29/2019 192 / 970
+[18/02/2022 14:02:05] Fetching data for MAS 7/29/2019 193 / 970
+[18/02/2022 14:02:05] Fetching data for TROW 7/29/2019 194 / 970
+[18/02/2022 14:02:06] Fetching data for WHR 7/29/2019 195 / 970
+[18/02/2022 14:02:06] Fetching data for WST 7/29/2019 196 / 970
+[18/02/2022 14:02:07] Fetching data for PAYC 8/5/2019 197 / 970
+[18/02/2022 14:02:07] Fetching data for VRTX 8/5/2019 198 / 970
+[18/02/2022 14:02:07] Fetching data for CME 8/5/2019 199 / 970
+[18/02/2022 14:02:08] Fetching data for ETR 8/5/2019 200 / 970
+[18/02/2022 14:02:08] Fetching data for MAA 8/5/2019 201 / 970
+[18/02/2022 14:02:08] Fetching data for OKE 8/5/2019 202 / 970
+[18/02/2022 14:02:09] Fetching data for SEE 8/5/2019 203 / 970
+[18/02/2022 14:02:09] Fetching data for LDOS 8/12/2019 204 / 970
+[18/02/2022 14:02:09] Fetching data for ZTS 8/12/2019 205 / 970
+[18/02/2022 14:02:10] Fetching data for ADP 8/12/2019 206 / 970
+[18/02/2022 14:02:10] Fetching data for AIZ 8/12/2019 207 / 970
+[18/02/2022 14:02:11] Fetching data for AMD 8/12/2019 208 / 970
+[18/02/2022 14:02:11] Fetching data for ANSS 8/12/2019 209 / 970
+[18/02/2022 14:02:11] Fetching data for AXP 8/12/2019 210 / 970
+[18/02/2022 14:02:12] Fetching data for BDX 8/12/2019 211 / 970
+[18/02/2022 14:02:12] Fetching data for CINF 8/12/2019 212 / 970
+[18/02/2022 14:02:12] Fetching data for COO 8/12/2019 213 / 970
+[18/02/2022 14:02:13] Fetching data for COST 8/12/2019 214 / 970
+[18/02/2022 14:02:13] Fetching data for CVS 8/12/2019 215 / 970
+[18/02/2022 14:02:13] Fetching data for ECL 8/12/2019 216 / 970
+[18/02/2022 14:02:14] Fetching data for EFX 8/12/2019 217 / 970
+[18/02/2022 14:02:14] Fetching data for FIS 8/12/2019 218 / 970
+[18/02/2022 14:02:15] Fetching data for FLT 8/12/2019 219 / 970
+[18/02/2022 14:02:15] Fetching data for FMC 8/12/2019 220 / 970
+[18/02/2022 14:02:15] Fetching data for IDXX 8/12/2019 221 / 970
+[18/02/2022 14:02:16] Fetching data for J 8/12/2019 222 / 970
+[18/02/2022 14:02:16] Fetching data for MA 8/12/2019 223 / 970
+[18/02/2022 14:02:16] Fetching data for MKC 8/12/2019 224 / 970
+[18/02/2022 14:02:17] Fetching data for MSFT 8/12/2019 225 / 970
+[18/02/2022 14:02:17] Fetching data for PLD 8/12/2019 226 / 970
+[18/02/2022 14:02:17] Fetching data for STE 8/12/2019 227 / 970
+[18/02/2022 14:02:18] Fetching data for TTWO 8/12/2019 228 / 970
+[18/02/2022 14:02:18] Fetching data for V 8/12/2019 229 / 970
+[18/02/2022 14:02:18] Fetching data for VRSK 8/12/2019 230 / 970
+[18/02/2022 14:02:19] Fetching data for WM 8/12/2019 231 / 970
+[18/02/2022 14:02:19] Fetching data for WMT 8/19/2019 232 / 970
+[18/02/2022 14:02:20] Fetching data for HSY 9/23/2019 233 / 970
+[18/02/2022 14:02:20] Fetching data for TSLA 9/30/2019 234 / 970
+[18/02/2022 14:02:20] Fetching data for ATVI 10/7/2019 235 / 970
+[18/02/2022 14:02:21] Fetching data for CPRT 10/7/2019 236 / 970
+[18/02/2022 14:02:21] Fetching data for PEP 10/7/2019 237 / 970
+[18/02/2022 14:02:21] Fetching data for TMO 10/7/2019 238 / 970
+[18/02/2022 14:02:22] Fetching data for VRSK 10/7/2019 239 / 970
+[18/02/2022 14:02:22] Fetching data for DPZ 10/14/2019 240 / 970
+[18/02/2022 14:02:22] Fetching data for EXPD 10/14/2019 241 / 970
+[18/02/2022 14:02:23] Fetching data for FAST 10/14/2019 242 / 970
+[18/02/2022 14:02:23] Fetching data for CCI 10/21/2019 243 / 970
+[18/02/2022 14:02:23] Fetching data for POOL 10/21/2019 244 / 970
+[18/02/2022 14:02:24] Fetching data for SRE 11/4/2019 245 / 970
+[18/02/2022 14:02:24] Fetching data for TYL 11/4/2019 246 / 970
+[18/02/2022 14:02:25] Fetching data for ANSS 11/11/2019 247 / 970
+[18/02/2022 14:02:25] Fetching data for MAA 11/18/2019 248 / 970
+[18/02/2022 14:02:25] Fetching data for HII 12/9/2019 249 / 970
+[18/02/2022 14:02:26] Fetching data for PH 12/9/2019 250 / 970
+[18/02/2022 14:02:26] Fetching data for PNC 12/9/2019 251 / 970
+[18/02/2022 14:02:26] Fetching data for SWK 12/9/2019 252 / 970
+[18/02/2022 14:02:27] Fetching data for TDY 12/9/2019 253 / 970
+[18/02/2022 14:02:27] Fetching data for GPN 12/16/2019 254 / 970
+[18/02/2022 14:02:27] Fetching data for VRTX 12/23/2019 255 / 970
+[18/02/2022 14:02:28] Fetching data for QRVO 1/13/2020 256 / 970
+[18/02/2022 14:02:28] Fetching data for ISRG 1/13/2020 257 / 970
+[18/02/2022 14:02:28] Fetching data for MPWR 1/13/2020 258 / 970
+[18/02/2022 14:02:29] Fetching data for PM 1/13/2020 259 / 970
+[18/02/2022 14:02:29] Fetching data for FRC 1/21/2020 260 / 970
+[18/02/2022 14:02:30] Fetching data for UNH 1/21/2020 261 / 970
+[18/02/2022 14:02:30] Fetching data for CHTR 2/3/2020 262 / 970
+[18/02/2022 14:02:30] Fetching data for AAPL 2/10/2020 263 / 970
+[18/02/2022 14:02:31] Fetching data for ABC 2/10/2020 264 / 970
+[18/02/2022 14:02:31] Fetching data for ATVI 2/10/2020 265 / 970
+[18/02/2022 14:02:31] Fetching data for CNC 2/10/2020 266 / 970
+[18/02/2022 14:02:32] Fetching data for NXPI 2/10/2020 267 / 970
+[18/02/2022 14:02:32] Fetching data for VRTX 6/1/2020 268 / 970
+[18/02/2022 14:02:33] Fetching data for BAX 6/1/2020 269 / 970
+[18/02/2022 14:02:33] Fetching data for CLX 6/1/2020 270 / 970
+[18/02/2022 14:02:33] Fetching data for EA 6/1/2020 271 / 970
+[18/02/2022 14:02:34] Fetching data for LLY 6/1/2020 272 / 970
+[18/02/2022 14:02:34] Fetching data for MSCI 6/8/2020 273 / 970
+[18/02/2022 14:02:34] Fetching data for OXY 6/8/2020 274 / 970
+[18/02/2022 14:02:35] Fetching data for KEYS 6/22/2020 275 / 970
+[18/02/2022 14:02:35] Fetching data for APTV 6/22/2020 276 / 970
+[18/02/2022 14:02:35] Fetching data for BBY 6/22/2020 277 / 970
+[18/02/2022 14:02:36] Fetching data for CERN 6/22/2020 278 / 970
+[18/02/2022 14:02:36] Fetching data for FTNT 6/22/2020 279 / 970
+[18/02/2022 14:02:36] Fetching data for GNRC 6/22/2020 280 / 970
+[18/02/2022 14:02:37] Fetching data for HD 6/22/2020 281 / 970
+[18/02/2022 14:02:37] Fetching data for HOLX 6/22/2020 282 / 970
+[18/02/2022 14:02:38] Fetching data for JKHY 6/22/2020 283 / 970
+[18/02/2022 14:02:38] Fetching data for LEN 6/22/2020 284 / 970
+[18/02/2022 14:02:38] Fetching data for LKQ 6/22/2020 285 / 970
+[18/02/2022 14:02:39] Fetching data for LOW 6/22/2020 286 / 970
+[18/02/2022 14:02:39] Fetching data for MAS 6/22/2020 287 / 970
+[18/02/2022 14:02:39] Fetching data for OKE 6/22/2020 288 / 970
+[18/02/2022 14:02:40] Fetching data for PNR 6/22/2020 289 / 970
+[18/02/2022 14:02:40] Fetching data for ROK 6/22/2020 290 / 970
+[18/02/2022 14:02:40] Fetching data for SEE 6/22/2020 291 / 970
+[18/02/2022 14:02:41] Fetching data for SLB 6/22/2020 292 / 970
+[18/02/2022 14:02:41] Fetching data for STZ 6/22/2020 293 / 970
+[18/02/2022 14:02:41] Fetching data for TEL 6/22/2020 294 / 970
+[18/02/2022 14:02:42] Fetching data for TROW 6/22/2020 295 / 970
+[18/02/2022 14:02:42] Fetching data for UNP 6/22/2020 296 / 970
+[18/02/2022 14:02:43] Fetching data for MPC 7/13/2020 297 / 970
+[18/02/2022 14:02:43] Fetching data for GRMN 8/3/2020 298 / 970
+[18/02/2022 14:02:43] Fetching data for AMGN 8/31/2020 299 / 970
+[18/02/2022 14:02:44] Fetching data for PKI 8/31/2020 300 / 970
+[18/02/2022 14:02:44] Fetching data for APTV 9/21/2020 301 / 970
+[18/02/2022 14:02:44] Fetching data for SEDG 9/28/2020 302 / 970
+[18/02/2022 14:02:45] Fetching data for CBRE 11/2/2020 303 / 970
+[18/02/2022 14:02:45] Fetching data for PYPL 11/9/2020 304 / 970
+[18/02/2022 14:02:45] Fetching data for EXR 11/16/2020 305 / 970
+[18/02/2022 14:02:46] Fetching data for EQR 12/7/2020 306 / 970
+[18/02/2022 14:02:46] Fetching data for ESS 12/7/2020 307 / 970
+[18/02/2022 14:02:47] Fetching data for GNRC 12/14/2020 308 / 970
+[18/02/2022 14:02:47] Fetching data for ALLE 12/21/2020 309 / 970
+[18/02/2022 14:02:47] Fetching data for MLM 12/21/2020 310 / 970
+[18/02/2022 14:02:48] Fetching data for SWK 12/21/2020 311 / 970
+[18/02/2022 14:02:48] Fetching data for TT 12/21/2020 312 / 970
+[18/02/2022 14:02:48] Fetching data for CE 1/11/2021 313 / 970
+[18/02/2022 14:02:49] Fetching data for ABC 1/11/2021 314 / 970
+[18/02/2022 14:02:49] Fetching data for CAH 1/11/2021 315 / 970
+[18/02/2022 14:02:49] Fetching data for CI 1/11/2021 316 / 970
+[18/02/2022 14:02:50] Fetching data for LKQ 1/11/2021 317 / 970
+[18/02/2022 14:02:50] Fetching data for HOLX 2/1/2021 318 / 970
+[18/02/2022 14:02:51] Fetching data for PVH 2/8/2021 319 / 970
+[18/02/2022 14:02:51] Fetching data for CDNS 3/1/2021 320 / 970
+[18/02/2022 14:02:51] Fetching data for COO 3/8/2021 321 / 970
+[18/02/2022 14:02:52] Fetching data for LEN 3/8/2021 322 / 970
+[18/02/2022 14:02:52] Fetching data for NDAQ 3/8/2021 323 / 970
+[18/02/2022 14:02:52] Fetching data for PCAR 3/8/2021 324 / 970
+[18/02/2022 14:02:53] Fetching data for AMAT 3/15/2021 325 / 970
+[18/02/2022 14:02:53] Fetching data for CFG 3/29/2021 326 / 970
+[18/02/2022 14:02:53] Fetching data for AON 3/29/2021 327 / 970
+[18/02/2022 14:02:54] Fetching data for COP 3/29/2021 328 / 970
+[18/02/2022 14:02:54] Fetching data for CVX 3/29/2021 329 / 970
+[18/02/2022 14:02:54] Fetching data for DRI 3/29/2021 330 / 970
+[18/02/2022 14:02:55] Fetching data for EMN 3/29/2021 331 / 970
+[18/02/2022 14:02:55] Fetching data for MLM 3/29/2021 332 / 970
+[18/02/2022 14:02:56] Fetching data for TFC 3/29/2021 333 / 970
+[18/02/2022 14:02:56] Fetching data for XOM 3/29/2021 334 / 970
+[18/02/2022 14:02:56] Fetching data for ZBRA 3/29/2021 335 / 970
+[18/02/2022 14:02:57] Fetching data for CMA 4/26/2021 336 / 970
+[18/02/2022 14:02:57] Fetching data for STT 4/26/2021 337 / 970
+[18/02/2022 14:02:57] Fetching data for UNP 4/26/2021 338 / 970
+[18/02/2022 14:02:58] Fetching data for TMUS 5/10/2021 339 / 970
+[18/02/2022 14:02:58] Fetching data for ABC 5/10/2021 340 / 970
+[18/02/2022 14:02:58] Fetching data for EMR 5/10/2021 341 / 970
+[18/02/2022 14:02:59] Fetching data for PH 5/10/2021 342 / 970
+[18/02/2022 14:02:59] Fetching data for ROP 5/24/2021 343 / 970
+[18/02/2022 14:02:59] Fetching data for TECH 5/24/2021 344 / 970
+[18/02/2022 14:03:00] Fetching data for HII 6/1/2021 345 / 970
+[18/02/2022 14:03:00] Fetching data for BIIB 6/7/2021 346 / 970
+[18/02/2022 14:03:01] Fetching data for BMY 6/14/2021 347 / 970
+[18/02/2022 14:03:01] Fetching data for SRE 6/14/2021 348 / 970
+[18/02/2022 14:03:01] Fetching data for CNC 6/21/2021 349 / 970
+[18/02/2022 14:03:02] Fetching data for IT 6/21/2021 350 / 970
+[18/02/2022 14:03:02] Fetching data for HSY 6/28/2021 351 / 970
+[18/02/2022 14:03:02] Fetching data for FRT 7/12/2021 352 / 970
+[18/02/2022 14:03:03] Fetching data for TWTR 7/26/2021 353 / 970
+[18/02/2022 14:03:03] Fetching data for AXP 7/26/2021 354 / 970
+[18/02/2022 14:03:03] Fetching data for IPG 7/26/2021 355 / 970
+[18/02/2022 14:03:04] Fetching data for MCK 7/26/2021 356 / 970
+[18/02/2022 14:03:04] Fetching data for MMC 7/26/2021 357 / 970
+[18/02/2022 14:03:05] Fetching data for NVDA 7/26/2021 358 / 970
+[18/02/2022 14:03:05] Fetching data for POOL 7/26/2021 359 / 970
+[18/02/2022 14:03:05] Fetching data for RHI 7/26/2021 360 / 970
+[18/02/2022 14:03:06] Fetching data for EBAY 8/16/2021 361 / 970
+[18/02/2022 14:03:06] Fetching data for EL 8/23/2021 362 / 970
+[18/02/2022 14:03:06] Fetching data for JKHY 8/23/2021 363 / 970
+[18/02/2022 14:03:07] Fetching data for LOW 8/23/2021 364 / 970
+[18/02/2022 14:03:07] Fetching data for PAYC 9/20/2021 365 / 970
+[18/02/2022 14:03:07] Fetching data for ISRG 9/20/2021 366 / 970
+[18/02/2022 14:03:08] Fetching data for MSFT 9/20/2021 367 / 970
+[18/02/2022 14:03:08] Fetching data for PKI 9/20/2021 368 / 970
+[18/02/2022 14:03:08] Fetching data for STE 9/20/2021 369 / 970
+[18/02/2022 14:03:09] Fetching data for ACN 9/27/2021 370 / 970
+[18/02/2022 14:03:09] Fetching data for CMA 9/27/2021 371 / 970
+[18/02/2022 14:03:10] Fetching data for COO 9/27/2021 372 / 970
+[18/02/2022 14:03:10] Fetching data for DRI 9/27/2021 373 / 970
+[18/02/2022 14:03:10] Fetching data for LNC 9/27/2021 374 / 970
+[18/02/2022 14:03:11] Fetching data for RJF 9/27/2021 375 / 970
+[18/02/2022 14:03:11] Fetching data for TFC 9/27/2021 376 / 970
+[18/02/2022 14:03:11] Fetching data for USB 9/27/2021 377 / 970
+[18/02/2022 14:03:12] Fetching data for PAYX 10/4/2021 378 / 970
+[18/02/2022 14:03:12] Fetching data for WBA 10/18/2021 379 / 970
+[18/02/2022 14:03:12] Fetching data for EFX 10/25/2021 380 / 970
+[18/02/2022 14:03:13] Fetching data for ZION 10/25/2021 381 / 970
+[18/02/2022 14:03:13] Fetching data for MTCH 11/8/2021 382 / 970
+[18/02/2022 14:03:14] Fetching data for EXPE 11/8/2021 383 / 970
+[18/02/2022 14:03:14] Fetching data for ADP 12/6/2021 384 / 970
+[18/02/2022 14:03:14] Fetching data for AME 12/6/2021 385 / 970
+[18/02/2022 14:03:15] Fetching data for ANSS 12/6/2021 386 / 970
+[18/02/2022 14:03:15] Fetching data for APH 12/6/2021 387 / 970
+[18/02/2022 14:03:15] Fetching data for CME 12/6/2021 388 / 970
+[18/02/2022 14:03:16] Fetching data for EQR 12/6/2021 389 / 970
+[18/02/2022 14:03:16] Fetching data for EXPD 12/6/2021 390 / 970
+[18/02/2022 14:03:16] Fetching data for FBHS 12/6/2021 391 / 970
+[18/02/2022 14:03:17] Fetching data for FMC 12/6/2021 392 / 970
+[18/02/2022 14:03:17] Fetching data for FRT 12/6/2021 393 / 970
+[18/02/2022 14:03:17] Fetching data for ITW 12/6/2021 394 / 970
+[18/02/2022 14:03:18] Fetching data for KLAC 12/6/2021 395 / 970
+[18/02/2022 14:03:18] Fetching data for LIN 12/6/2021 396 / 970
+[18/02/2022 14:03:19] Fetching data for NSC 12/6/2021 397 / 970
+[18/02/2022 14:03:19] Fetching data for PEP 12/6/2021 398 / 970
+[18/02/2022 14:03:19] Fetching data for REG 12/6/2021 399 / 970
+[18/02/2022 14:03:20] Fetching data for RSG 12/6/2021 400 / 970
+[18/02/2022 14:03:20] Fetching data for SNPS 12/6/2021 401 / 970
+[18/02/2022 14:03:20] Fetching data for TSN 12/6/2021 402 / 970
+[18/02/2022 14:03:21] Fetching data for UNP 12/6/2021 403 / 970
+[18/02/2022 14:03:21] Fetching data for VFC 12/6/2021 404 / 970
+[18/02/2022 14:03:21] Fetching data for ADI 12/13/2021 405 / 970
+[18/02/2022 14:03:22] Fetching data for NUE 12/20/2021 406 / 970
+[18/02/2022 14:03:22] Reported stocks
+Symbols        [EMN, GD, HAL, LUV, STX, ALGN, COP, PXD, TYL, ...
+Entry Dates    ([01-30-2017], [01-30-2017], [01-30-2017], [01...
+dtype: object
+[18/02/2022 14:03:22] Unreported stocks
+Symbols        [EOG, HII, ALK, GWW, NSC, BRK.B, FDX, CTXS, GS...
+Entry Dates    ([12-5-2016], [12-19-2016, 3-20-2017, 12-9-201...
+dtype: object
+
+=========================================================================================
+[18/02/2022 14:04:53] Fetching data for EOG 12/5/2016 1 / 970
+[18/02/2022 14:04:53] Fetching data for HII 12/19/2016 2 / 970
+[18/02/2022 14:04:54] Fetching data for VIAC 12/19/2016 3 / 970
+[18/02/2022 14:04:54]  ERROR: || HTTP Error 404: Not Found, HTTPError C:\Users\newco\Documents\Repos\Python\Upwork\Steven\EarningsReversalPattern\src\tools\spiders\alpha_query_spider.py 70
+[18/02/2022 14:04:54] Fetching data for ALK 1/17/2017 4 / 970
+[18/02/2022 14:04:54] Fetching data for GWW 1/17/2017 5 / 970
+[18/02/2022 14:04:55] Fetching data for NSC 1/23/2017 6 / 970
+[18/02/2022 14:04:55] Fetching data for BRK.B 1/30/2017 7 / 970
+[18/02/2022 14:04:55] Fetching data for EMN 1/30/2017 8 / 970
+[18/02/2022 14:04:56] Fetching data for FDX 1/30/2017 9 / 970
+[18/02/2022 14:04:56] Fetching data for GD 1/30/2017 10 / 970
+[18/02/2022 14:04:57] Fetching data for HAL 1/30/2017 11 / 970
+[18/02/2022 14:04:57] Fetching data for LUV 1/30/2017 12 / 970
+[18/02/2022 14:04:57] Fetching data for STX 1/30/2017 13 / 970
+[18/02/2022 14:04:58] Fetching data for ALGN 2/6/2017 14 / 970
+[18/02/2022 14:04:58] Fetching data for COP 2/6/2017 15 / 970
+[18/02/2022 14:04:58] Fetching data for CTXS 2/6/2017 16 / 970
+[18/02/2022 14:04:59] Fetching data for GS 2/6/2017 17 / 970
+[18/02/2022 14:04:59] Fetching data for FANG 2/13/2017 18 / 970
+[18/02/2022 14:04:59] Fetching data for PXD 2/13/2017 19 / 970
+[18/02/2022 14:05:00] Fetching data for TYL 2/13/2017 20 / 970
+[18/02/2022 14:05:00] Fetching data for DXCM 3/6/2017 21 / 970
+[18/02/2022 14:05:00] Fetching data for ADSK 3/13/2017 22 / 970
+[18/02/2022 14:05:01] Fetching data for BXP 3/20/2017 23 / 970
+[18/02/2022 14:05:01] Fetching data for FLT 3/20/2017 24 / 970
+[18/02/2022 14:05:02] Fetching data for HII 3/20/2017 25 / 970
+[18/02/2022 14:05:02] Fetching data for HCA 3/27/2017 26 / 970
+[18/02/2022 14:05:02] Fetching data for EMN 4/3/2017 27 / 970
+[18/02/2022 14:05:03] Fetching data for EXPE 4/10/2017 28 / 970
+[18/02/2022 14:05:03] Fetching data for AXP 4/24/2017 29 / 970
+[18/02/2022 14:05:03] Fetching data for DGX 4/24/2017 30 / 970
+[18/02/2022 14:05:04] Fetching data for HON 4/24/2017 31 / 970
+[18/02/2022 14:05:04] Fetching data for REGN 5/1/2017 32 / 970
+[18/02/2022 14:05:04] Fetching data for EPAM 5/8/2017 33 / 970
+[18/02/2022 14:05:05] Fetching data for TPR 5/8/2017 34 / 970
+[18/02/2022 14:05:05] Fetching data for JKHY 5/22/2017 35 / 970
+[18/02/2022 14:05:06] Fetching data for PVH 5/22/2017 36 / 970
+[18/02/2022 14:05:06] Fetching data for ROK 5/22/2017 37 / 970
+[18/02/2022 14:05:06] Fetching data for UNH 5/22/2017 38 / 970
+[18/02/2022 14:05:07] Fetching data for BBY 5/30/2017 39 / 970
+[18/02/2022 14:05:07] Fetching data for ULTA 5/30/2017 40 / 970
+[18/02/2022 14:05:07] Fetching data for ATVI 6/19/2017 41 / 970
+[18/02/2022 14:05:08] Fetching data for DLR 6/19/2017 42 / 970
+[18/02/2022 14:05:08] Fetching data for EA 6/19/2017 43 / 970
+[18/02/2022 14:05:08] Fetching data for FB 6/19/2017 44 / 970
+[18/02/2022 14:05:09] Fetching data for HD 6/19/2017 45 / 970
+[18/02/2022 14:05:09] Fetching data for HUM 6/19/2017 46 / 970
+[18/02/2022 14:05:09] Fetching data for MAR 6/19/2017 47 / 970
+[18/02/2022 14:05:10] Fetching data for PTC 6/19/2017 48 / 970
+[18/02/2022 14:05:10] Fetching data for MCD 7/31/2017 49 / 970
+[18/02/2022 14:05:11] Fetching data for MHK 7/31/2017 50 / 970
+[18/02/2022 14:05:11] Fetching data for NDAQ 7/31/2017 51 / 970
+[18/02/2022 14:05:11] Fetching data for PKG 7/31/2017 52 / 970
+[18/02/2022 14:05:12] Fetching data for HUM 8/7/2017 53 / 970
+[18/02/2022 14:05:12] Fetching data for LHX 8/7/2017 54 / 970
+[18/02/2022 14:05:12] Fetching data for TFX 8/7/2017 55 / 970
+[18/02/2022 14:05:13] Fetching data for DXC 8/14/2017 56 / 970
+[18/02/2022 14:05:13] Fetching data for TECH 8/14/2017 57 / 970
+[18/02/2022 14:05:13] Fetching data for ZBRA 8/14/2017 58 / 970
+[18/02/2022 14:05:14] Fetching data for DLR 10/2/2017 59 / 970
+[18/02/2022 14:05:14] Fetching data for EL 10/2/2017 60 / 970
+[18/02/2022 14:05:14] Fetching data for FB 10/2/2017 61 / 970
+[18/02/2022 14:05:15] Fetching data for MKC 10/2/2017 62 / 970
+[18/02/2022 14:05:15] Fetching data for ETR 10/9/2017 63 / 970
+[18/02/2022 14:05:16] Fetching data for TSLA 10/9/2017 64 / 970
+[18/02/2022 14:05:16] Fetching data for COST 10/16/2017 65 / 970
+[18/02/2022 14:05:16] Fetching data for GWW 10/16/2017 66 / 970
+[18/02/2022 14:05:17] Fetching data for TGT 10/16/2017 67 / 970
+[18/02/2022 14:05:17] Fetching data for DHR 10/23/2017 68 / 970
+[18/02/2022 14:05:17] Fetching data for DOV 10/23/2017 69 / 970
+[18/02/2022 14:05:18] Fetching data for JBHT 10/23/2017 70 / 970
+[18/02/2022 14:05:18] Fetching data for UNP 10/23/2017 71 / 970
+[18/02/2022 14:05:18] Fetching data for ABMD 10/30/2017 72 / 970
+[18/02/2022 14:05:19] Fetching data for CME 10/30/2017 73 / 970
+[18/02/2022 14:05:19] Fetching data for ILMN 10/30/2017 74 / 970
+[18/02/2022 14:05:19] Fetching data for NSC 10/30/2017 75 / 970
+[18/02/2022 14:05:20] Fetching data for ORLY 10/30/2017 76 / 970
+[18/02/2022 14:05:20] Fetching data for ZTS 11/6/2017 77 / 970
+[18/02/2022 14:05:21] Fetching data for MSCI 11/6/2017 78 / 970
+[18/02/2022 14:05:21] Fetching data for QCOM 11/6/2017 79 / 970
+[18/02/2022 14:05:21] Fetching data for CMA 11/20/2017 80 / 970
+[18/02/2022 14:05:22] Fetching data for DD 11/20/2017 81 / 970
+[18/02/2022 14:05:22] Fetching data for HES 12/4/2017 82 / 970
+[18/02/2022 14:05:22] Fetching data for WST 12/4/2017 83 / 970
+[18/02/2022 14:05:23] Fetching data for MU 12/11/2017 84 / 970
+[18/02/2022 14:05:23] Fetching data for ROK 12/11/2017 85 / 970
+[18/02/2022 14:05:23] Fetching data for TDY 12/18/2017 86 / 970
+[18/02/2022 14:05:24] Fetching data for MHK 12/26/2017 87 / 970
+[18/02/2022 14:05:24] Fetching data for MMM 1/8/2018 88 / 970
+[18/02/2022 14:05:24] Fetching data for TEL 1/8/2018 89 / 970
+[18/02/2022 14:05:25] Fetching data for ALL 1/16/2018 90 / 970
+[18/02/2022 14:05:25] Fetching data for DAL 1/16/2018 91 / 970
+[18/02/2022 14:05:25] Fetching data for LUV 1/16/2018 92 / 970
+[18/02/2022 14:05:26] Fetching data for WYNN 1/16/2018 93 / 970
+[18/02/2022 14:05:26] Fetching data for TWTR 1/29/2018 94 / 970
+[18/02/2022 14:05:27] Fetching data for POOL 1/29/2018 95 / 970
+[18/02/2022 14:05:27] Fetching data for WHR 1/29/2018 96 / 970
+[18/02/2022 14:05:27] Fetching data for CTSH 2/12/2018 97 / 970
+[18/02/2022 14:05:28] Fetching data for K 2/12/2018 98 / 970
+[18/02/2022 14:05:28] Fetching data for OMC 2/12/2018 99 / 970
+[18/02/2022 14:05:28] Fetching data for SPGI 2/12/2018 100 / 970
+[18/02/2022 14:05:29] Fetching data for TPR 2/12/2018 101 / 970
+[18/02/2022 14:05:29] Fetching data for A 3/12/2018 102 / 970
+[18/02/2022 14:05:29] Fetching data for DE 3/12/2018 103 / 970
+[18/02/2022 14:05:30] Fetching data for ADBE 4/9/2018 104 / 970
+[18/02/2022 14:05:30] Fetching data for ADSK 4/9/2018 105 / 970
+
+=========================================================================================
+[18/02/2022 14:05:33] Fetching data for EOG 12/5/2016 1 / 970
+[18/02/2022 14:05:33] Fetching data for HII 12/19/2016 2 / 970
+[18/02/2022 14:05:33] Fetching data for VIAC 12/19/2016 3 / 970
+[18/02/2022 14:05:34]  ERROR: || HTTP Error 404: Not Found, HTTPError C:\Users\newco\Documents\Repos\Python\Upwork\Steven\EarningsReversalPattern\src\tools\spiders\alpha_query_spider.py 70
+[18/02/2022 14:05:34] Fetching data for ALK 1/17/2017 4 / 970
+[18/02/2022 14:05:34] Fetching data for GWW 1/17/2017 5 / 970
+[18/02/2022 14:05:34] Fetching data for NSC 1/23/2017 6 / 970
+[18/02/2022 14:05:35] Fetching data for BRK.B 1/30/2017 7 / 970
+[18/02/2022 14:05:35] Fetching data for EMN 1/30/2017 8 / 970
+[18/02/2022 14:05:35] Fetching data for FDX 1/30/2017 9 / 970
+[18/02/2022 14:05:36] Fetching data for GD 1/30/2017 10 / 970
+[18/02/2022 14:05:36] Fetching data for HAL 1/30/2017 11 / 970
+[18/02/2022 14:05:37] Fetching data for LUV 1/30/2017 12 / 970
+[18/02/2022 14:05:37] Fetching data for STX 1/30/2017 13 / 970
+[18/02/2022 14:05:37] Fetching data for ALGN 2/6/2017 14 / 970
+[18/02/2022 14:05:38] Fetching data for COP 2/6/2017 15 / 970
+[18/02/2022 14:05:38] Fetching data for CTXS 2/6/2017 16 / 970
+[18/02/2022 14:05:38] Fetching data for GS 2/6/2017 17 / 970
+[18/02/2022 14:05:39] Fetching data for FANG 2/13/2017 18 / 970
+[18/02/2022 14:05:39] Fetching data for PXD 2/13/2017 19 / 970
+[18/02/2022 14:05:39] Fetching data for TYL 2/13/2017 20 / 970
+[18/02/2022 14:05:40] Fetching data for DXCM 3/6/2017 21 / 970
+[18/02/2022 14:05:40] Fetching data for ADSK 3/13/2017 22 / 970
+[18/02/2022 14:05:40] Fetching data for BXP 3/20/2017 23 / 970
+[18/02/2022 14:05:41] Fetching data for FLT 3/20/2017 24 / 970
+[18/02/2022 14:05:41] Fetching data for HII 3/20/2017 25 / 970
+[18/02/2022 14:05:41] Fetching data for HCA 3/27/2017 26 / 970
+[18/02/2022 14:05:42] Fetching data for EMN 4/3/2017 27 / 970
+[18/02/2022 14:05:42] Fetching data for EXPE 4/10/2017 28 / 970
+[18/02/2022 14:05:43] Fetching data for AXP 4/24/2017 29 / 970
+[18/02/2022 14:05:43] Fetching data for DGX 4/24/2017 30 / 970
+[18/02/2022 14:05:43] Fetching data for HON 4/24/2017 31 / 970
+[18/02/2022 14:05:44] Fetching data for REGN 5/1/2017 32 / 970
+[18/02/2022 14:05:44] Fetching data for EPAM 5/8/2017 33 / 970
+[18/02/2022 14:05:44] Fetching data for TPR 5/8/2017 34 / 970
+[18/02/2022 14:05:45] Fetching data for JKHY 5/22/2017 35 / 970
+[18/02/2022 14:05:45] Fetching data for PVH 5/22/2017 36 / 970
+[18/02/2022 14:05:45] Fetching data for ROK 5/22/2017 37 / 970
+[18/02/2022 14:05:46] Fetching data for UNH 5/22/2017 38 / 970
+[18/02/2022 14:05:46] Fetching data for BBY 5/30/2017 39 / 970
+[18/02/2022 14:05:46] Fetching data for ULTA 5/30/2017 40 / 970
+[18/02/2022 14:05:47] Fetching data for ATVI 6/19/2017 41 / 970
+[18/02/2022 14:05:47] Fetching data for DLR 6/19/2017 42 / 970
+[18/02/2022 14:05:48] Fetching data for EA 6/19/2017 43 / 970
+[18/02/2022 14:05:48] Fetching data for FB 6/19/2017 44 / 970
+[18/02/2022 14:05:48] Fetching data for HD 6/19/2017 45 / 970
+[18/02/2022 14:05:49] Fetching data for HUM 6/19/2017 46 / 970
+[18/02/2022 14:05:49] Fetching data for MAR 6/19/2017 47 / 970
+[18/02/2022 14:05:49] Fetching data for PTC 6/19/2017 48 / 970
+[18/02/2022 14:05:50] Fetching data for MCD 7/31/2017 49 / 970
+[18/02/2022 14:05:50] Fetching data for MHK 7/31/2017 50 / 970
+[18/02/2022 14:05:50] Fetching data for NDAQ 7/31/2017 51 / 970
+[18/02/2022 14:05:51] Fetching data for PKG 7/31/2017 52 / 970
+[18/02/2022 14:05:51] Fetching data for HUM 8/7/2017 53 / 970
+[18/02/2022 14:05:52] Fetching data for LHX 8/7/2017 54 / 970
+[18/02/2022 14:05:52] Fetching data for TFX 8/7/2017 55 / 970
+[18/02/2022 14:05:52] Fetching data for DXC 8/14/2017 56 / 970
+[18/02/2022 14:05:53] Fetching data for TECH 8/14/2017 57 / 970
+[18/02/2022 14:05:53] Fetching data for ZBRA 8/14/2017 58 / 970
+[18/02/2022 14:05:53] Fetching data for DLR 10/2/2017 59 / 970
+[18/02/2022 14:05:54] Fetching data for EL 10/2/2017 60 / 970
+[18/02/2022 14:05:54] Fetching data for FB 10/2/2017 61 / 970
+[18/02/2022 14:05:54] Fetching data for MKC 10/2/2017 62 / 970
+[18/02/2022 14:05:55] Fetching data for ETR 10/9/2017 63 / 970
+[18/02/2022 14:05:55] Fetching data for TSLA 10/9/2017 64 / 970
+[18/02/2022 14:05:56] Fetching data for COST 10/16/2017 65 / 970
+[18/02/2022 14:05:56] Fetching data for GWW 10/16/2017 66 / 970
+[18/02/2022 14:05:56] Fetching data for TGT 10/16/2017 67 / 970
+[18/02/2022 14:05:57] Fetching data for DHR 10/23/2017 68 / 970
+[18/02/2022 14:05:57] Fetching data for DOV 10/23/2017 69 / 970
+[18/02/2022 14:05:57] Fetching data for JBHT 10/23/2017 70 / 970
+[18/02/2022 14:05:58] Fetching data for UNP 10/23/2017 71 / 970
+[18/02/2022 14:05:58] Fetching data for ABMD 10/30/2017 72 / 970
+[18/02/2022 14:05:58] Fetching data for CME 10/30/2017 73 / 970
+[18/02/2022 14:05:59] Fetching data for ILMN 10/30/2017 74 / 970
+[18/02/2022 14:05:59] Fetching data for NSC 10/30/2017 75 / 970
+[18/02/2022 14:05:59] Fetching data for ORLY 10/30/2017 76 / 970
+[18/02/2022 14:06:00] Fetching data for ZTS 11/6/2017 77 / 970
+[18/02/2022 14:06:00] Fetching data for MSCI 11/6/2017 78 / 970
+[18/02/2022 14:06:00] Fetching data for QCOM 11/6/2017 79 / 970
+[18/02/2022 14:06:01] Fetching data for CMA 11/20/2017 80 / 970
+[18/02/2022 14:06:01] Fetching data for DD 11/20/2017 81 / 970
+[18/02/2022 14:06:02] Fetching data for HES 12/4/2017 82 / 970
+[18/02/2022 14:06:02] Fetching data for WST 12/4/2017 83 / 970
+[18/02/2022 14:06:02] Fetching data for MU 12/11/2017 84 / 970
+[18/02/2022 14:06:03] Fetching data for ROK 12/11/2017 85 / 970
+[18/02/2022 14:06:03] Fetching data for TDY 12/18/2017 86 / 970
+[18/02/2022 14:06:03] Fetching data for MHK 12/26/2017 87 / 970
+[18/02/2022 14:06:04] Fetching data for MMM 1/8/2018 88 / 970
+[18/02/2022 14:06:04] Fetching data for TEL 1/8/2018 89 / 970
+[18/02/2022 14:06:04] Fetching data for ALL 1/16/2018 90 / 970
+[18/02/2022 14:06:05] Fetching data for DAL 1/16/2018 91 / 970
+[18/02/2022 14:06:05] Fetching data for LUV 1/16/2018 92 / 970
+[18/02/2022 14:06:06] Fetching data for WYNN 1/16/2018 93 / 970
+[18/02/2022 14:06:06] Fetching data for TWTR 1/29/2018 94 / 970
+[18/02/2022 14:06:06] Fetching data for POOL 1/29/2018 95 / 970
+[18/02/2022 14:06:07] Fetching data for WHR 1/29/2018 96 / 970
+[18/02/2022 14:06:07] Fetching data for CTSH 2/12/2018 97 / 970
+[18/02/2022 14:06:07] Fetching data for K 2/12/2018 98 / 970
+[18/02/2022 14:06:08] Fetching data for OMC 2/12/2018 99 / 970
+[18/02/2022 14:06:08] Fetching data for SPGI 2/12/2018 100 / 970
+[18/02/2022 14:06:08] Reported stocks
+   Symbols   Entry Dates
+0      EMN  [01-30-2017]
+1       GD  [01-30-2017]
+2      HAL  [01-30-2017]
+3      LUV  [01-30-2017]
+4      STX  [01-30-2017]
+5     ALGN  [02-06-2017]
+6      COP  [02-06-2017]
+7      PXD  [02-13-2017]
+8      TYL  [02-13-2017]
+9     DXCM  [03-06-2017]
+10     AXP  [04-24-2017]
+11     DGX  [04-24-2017]
+12     HON  [04-24-2017]
+13    EPAM  [05-08-2017]
+14     TPR  [05-08-2017]
+15     BBY  [05-30-2017]
+16    ULTA  [05-30-2017]
+17     MCD  [07-31-2017]
+18     MHK  [07-31-2017]
+19    NDAQ  [07-31-2017]
+20     PKG  [07-31-2017]
+21     HUM  [08-07-2017]
+22     LHX  [08-07-2017]
+23     TFX  [08-07-2017]
+24     DXC  [08-14-2017]
+25    TECH  [08-14-2017]
+26    ZBRA  [08-14-2017]
+27     MKC  [10-02-2017]
+28     DHR  [10-23-2017]
+29     DOV  [10-23-2017]
+30    ABMD  [10-30-2017]
+31     CME  [10-30-2017]
+32    ILMN  [10-30-2017]
+33     NSC  [10-30-2017]
+34    ORLY  [10-30-2017]
+35     ZTS  [11-06-2017]
+36    MSCI  [11-06-2017]
+37    QCOM  [11-06-2017]
+38     DAL  [01-16-2018]
+39     WHR  [01-29-2018]
+40    CTSH  [02-12-2018]
+41       K  [02-12-2018]
+42    SPGI  [02-12-2018]
+[18/02/2022 14:06:08] Unreported stocks
+   Symbols              Entry Dates
+0      EOG              [12-5-2016]
+1      HII  [12-19-2016, 3-20-2017]
+2      ALK              [1-17-2017]
+3      GWW  [1-17-2017, 10-16-2017]
+4      NSC              [1-23-2017]
+5    BRK.B              [1-30-2017]
+6      FDX              [1-30-2017]
+7     CTXS               [2-6-2017]
+8       GS               [2-6-2017]
+9     FANG              [2-13-2017]
+10    ADSK              [3-13-2017]
+11     BXP              [3-20-2017]
+12     FLT              [3-20-2017]
+13     HCA              [3-27-2017]
+14     EMN               [4-3-2017]
+15    EXPE              [4-10-2017]
+16    REGN               [5-1-2017]
+17    JKHY              [5-22-2017]
+18     PVH              [5-22-2017]
+19     ROK  [5-22-2017, 12-11-2017]
+20     UNH              [5-22-2017]
+21    ATVI              [6-19-2017]
+22     DLR   [6-19-2017, 10-2-2017]
+23      EA              [6-19-2017]
+24      FB   [6-19-2017, 10-2-2017]
+25      HD              [6-19-2017]
+26     HUM              [6-19-2017]
+27     MAR              [6-19-2017]
+28     PTC              [6-19-2017]
+29      EL              [10-2-2017]
+30     ETR              [10-9-2017]
+31    TSLA              [10-9-2017]
+32    COST             [10-16-2017]
+33     TGT             [10-16-2017]
+34    JBHT             [10-23-2017]
+35     UNP             [10-23-2017]
+36     CMA             [11-20-2017]
+37      DD             [11-20-2017]
+38     HES              [12-4-2017]
+39     WST              [12-4-2017]
+40      MU             [12-11-2017]
+41     TDY             [12-18-2017]
+42     MHK             [12-26-2017]
+43     MMM               [1-8-2018]
+44     TEL               [1-8-2018]
+45     ALL              [1-16-2018]
+46     LUV              [1-16-2018]
+47    WYNN              [1-16-2018]
+48    TWTR              [1-29-2018]
+49    POOL              [1-29-2018]
+50     OMC              [2-12-2018]
+
+=========================================================================================
+[18/02/2022 14:12:44] Fetching data for EOG 12/5/2016 1 / 970
+[18/02/2022 14:12:45] Fetching data for HII 12/19/2016 2 / 970
+[18/02/2022 14:12:45] Fetching data for VIAC 12/19/2016 3 / 970
+[18/02/2022 14:12:45]  ERROR: || HTTP Error 404: Not Found, HTTPError C:\Users\newco\Documents\Repos\Python\Upwork\Steven\EarningsReversalPattern\src\tools\spiders\alpha_query_spider.py 78
+[18/02/2022 14:12:45] Fetching data for ALK 1/17/2017 4 / 970
+[18/02/2022 14:12:46] Fetching data for GWW 1/17/2017 5 / 970
+[18/02/2022 14:12:46] Fetching data for NSC 1/23/2017 6 / 970
+[18/02/2022 14:12:46] Fetching data for BRK.B 1/30/2017 7 / 970
+[18/02/2022 14:12:47] Fetching data for EMN 1/30/2017 8 / 970
+[18/02/2022 14:12:47] Fetching data for FDX 1/30/2017 9 / 970
+[18/02/2022 14:12:47] Fetching data for GD 1/30/2017 10 / 970
+[18/02/2022 14:12:48] Fetching data for HAL 1/30/2017 11 / 970
+[18/02/2022 14:12:48] Fetching data for LUV 1/30/2017 12 / 970
+[18/02/2022 14:12:49] Fetching data for STX 1/30/2017 13 / 970
+[18/02/2022 14:12:49] Fetching data for ALGN 2/6/2017 14 / 970
+[18/02/2022 14:12:49] Fetching data for COP 2/6/2017 15 / 970
+[18/02/2022 14:12:50] Fetching data for CTXS 2/6/2017 16 / 970
+[18/02/2022 14:12:50] Fetching data for GS 2/6/2017 17 / 970
+[18/02/2022 14:12:50] Fetching data for FANG 2/13/2017 18 / 970
+[18/02/2022 14:12:51] Fetching data for PXD 2/13/2017 19 / 970
+[18/02/2022 14:12:51] Fetching data for TYL 2/13/2017 20 / 970
+[18/02/2022 14:12:51] Fetching data for DXCM 3/6/2017 21 / 970
+[18/02/2022 14:12:52] Fetching data for ADSK 3/13/2017 22 / 970
+[18/02/2022 14:12:52] Fetching data for BXP 3/20/2017 23 / 970
+[18/02/2022 14:12:52] Fetching data for FLT 3/20/2017 24 / 970
+[18/02/2022 14:12:53] Fetching data for HII 3/20/2017 25 / 970
+[18/02/2022 14:12:53] Fetching data for HCA 3/27/2017 26 / 970
+[18/02/2022 14:12:54] Fetching data for EMN 4/3/2017 27 / 970
+[18/02/2022 14:12:54] Fetching data for EXPE 4/10/2017 28 / 970
+[18/02/2022 14:12:54] Fetching data for AXP 4/24/2017 29 / 970
+[18/02/2022 14:12:55] Fetching data for DGX 4/24/2017 30 / 970
+[18/02/2022 14:12:55] Fetching data for HON 4/24/2017 31 / 970
+[18/02/2022 14:12:55] Fetching data for REGN 5/1/2017 32 / 970
+[18/02/2022 14:12:56] Fetching data for EPAM 5/8/2017 33 / 970
+[18/02/2022 14:12:56] Fetching data for TPR 5/8/2017 34 / 970
+[18/02/2022 14:12:56] Fetching data for JKHY 5/22/2017 35 / 970
+[18/02/2022 14:12:57] Fetching data for PVH 5/22/2017 36 / 970
+[18/02/2022 14:12:57] Fetching data for ROK 5/22/2017 37 / 970
+[18/02/2022 14:12:57] Fetching data for UNH 5/22/2017 38 / 970
+[18/02/2022 14:12:58] Fetching data for BBY 5/30/2017 39 / 970
+[18/02/2022 14:12:58] Fetching data for ULTA 5/30/2017 40 / 970
+[18/02/2022 14:12:59] Fetching data for ATVI 6/19/2017 41 / 970
+[18/02/2022 14:12:59] Fetching data for DLR 6/19/2017 42 / 970
+[18/02/2022 14:12:59] Fetching data for EA 6/19/2017 43 / 970
+[18/02/2022 14:13:00] Fetching data for FB 6/19/2017 44 / 970
+[18/02/2022 14:13:00] Fetching data for HD 6/19/2017 45 / 970
+[18/02/2022 14:13:00] Fetching data for HUM 6/19/2017 46 / 970
+[18/02/2022 14:13:01] Fetching data for MAR 6/19/2017 47 / 970
+[18/02/2022 14:13:01] Fetching data for PTC 6/19/2017 48 / 970
+[18/02/2022 14:13:01] Fetching data for MCD 7/31/2017 49 / 970
+[18/02/2022 14:13:02] Fetching data for MHK 7/31/2017 50 / 970
+[18/02/2022 14:13:02] Fetching data for NDAQ 7/31/2017 51 / 970
+[18/02/2022 14:13:02] Fetching data for PKG 7/31/2017 52 / 970
+[18/02/2022 14:13:03] Fetching data for HUM 8/7/2017 53 / 970
+[18/02/2022 14:13:03] Fetching data for LHX 8/7/2017 54 / 970
+[18/02/2022 14:13:04] Fetching data for TFX 8/7/2017 55 / 970
+[18/02/2022 14:13:04] Fetching data for DXC 8/14/2017 56 / 970
+[18/02/2022 14:13:04] Fetching data for TECH 8/14/2017 57 / 970
+[18/02/2022 14:13:05] Fetching data for ZBRA 8/14/2017 58 / 970
+[18/02/2022 14:13:05] Fetching data for DLR 10/2/2017 59 / 970
+[18/02/2022 14:13:05] Fetching data for EL 10/2/2017 60 / 970
+[18/02/2022 14:13:06] Fetching data for FB 10/2/2017 61 / 970
+[18/02/2022 14:13:06] Fetching data for MKC 10/2/2017 62 / 970
+[18/02/2022 14:13:06] Fetching data for ETR 10/9/2017 63 / 970
+[18/02/2022 14:13:07] Fetching data for TSLA 10/9/2017 64 / 970
+[18/02/2022 14:13:07] Fetching data for COST 10/16/2017 65 / 970
+[18/02/2022 14:13:07] Fetching data for GWW 10/16/2017 66 / 970
+[18/02/2022 14:13:08] Fetching data for TGT 10/16/2017 67 / 970
+[18/02/2022 14:13:08] Fetching data for DHR 10/23/2017 68 / 970
+[18/02/2022 14:13:08] Fetching data for DOV 10/23/2017 69 / 970
+[18/02/2022 14:13:09] Fetching data for JBHT 10/23/2017 70 / 970
+[18/02/2022 14:13:09] Fetching data for UNP 10/23/2017 71 / 970
+[18/02/2022 14:13:10] Fetching data for ABMD 10/30/2017 72 / 970
+[18/02/2022 14:13:10] Fetching data for CME 10/30/2017 73 / 970
+[18/02/2022 14:13:10] Fetching data for ILMN 10/30/2017 74 / 970
+[18/02/2022 14:13:11] Fetching data for NSC 10/30/2017 75 / 970
+[18/02/2022 14:13:11] Fetching data for ORLY 10/30/2017 76 / 970
+[18/02/2022 14:13:11] Fetching data for ZTS 11/6/2017 77 / 970
+[18/02/2022 14:13:12] Fetching data for MSCI 11/6/2017 78 / 970
+[18/02/2022 14:13:12] Fetching data for QCOM 11/6/2017 79 / 970
+[18/02/2022 14:13:12] Fetching data for CMA 11/20/2017 80 / 970
+[18/02/2022 14:13:13] Fetching data for DD 11/20/2017 81 / 970
+[18/02/2022 14:13:13] Fetching data for HES 12/4/2017 82 / 970
+[18/02/2022 14:13:13] Fetching data for WST 12/4/2017 83 / 970
+[18/02/2022 14:13:14] Fetching data for MU 12/11/2017 84 / 970
+[18/02/2022 14:13:14] Fetching data for ROK 12/11/2017 85 / 970
+[18/02/2022 14:13:15] Fetching data for TDY 12/18/2017 86 / 970
+[18/02/2022 14:13:15] Fetching data for MHK 12/26/2017 87 / 970
+[18/02/2022 14:13:15] Fetching data for MMM 1/8/2018 88 / 970
+[18/02/2022 14:13:16] Fetching data for TEL 1/8/2018 89 / 970
+[18/02/2022 14:13:16] Fetching data for ALL 1/16/2018 90 / 970
+[18/02/2022 14:13:16] Fetching data for DAL 1/16/2018 91 / 970
+[18/02/2022 14:13:17] Fetching data for LUV 1/16/2018 92 / 970
+[18/02/2022 14:13:17] Fetching data for WYNN 1/16/2018 93 / 970
+[18/02/2022 14:13:17] Fetching data for TWTR 1/29/2018 94 / 970
+[18/02/2022 14:13:18] Fetching data for POOL 1/29/2018 95 / 970
+[18/02/2022 14:13:18] Fetching data for WHR 1/29/2018 96 / 970
+[18/02/2022 14:13:18] Fetching data for CTSH 2/12/2018 97 / 970
+[18/02/2022 14:13:19] Fetching data for K 2/12/2018 98 / 970
+[18/02/2022 14:13:19] Fetching data for OMC 2/12/2018 99 / 970
+[18/02/2022 14:13:19] Fetching data for SPGI 2/12/2018 100 / 970
+[18/02/2022 14:13:20] Reported stocks
+   Symbols   Entry Dates Reported Dates
+0      EMN  [01-30-2017]   [01-26-2017]
+1       GD  [01-30-2017]   [01-27-2017]
+2      HAL  [01-30-2017]   [01-23-2017]
+3      LUV  [01-30-2017]   [01-26-2017]
+4      STX  [01-30-2017]   [01-24-2017]
+5     ALGN  [02-06-2017]   [01-31-2017]
+6      COP  [02-06-2017]   [02-02-2017]
+7      PXD  [02-13-2017]   [02-07-2017]
+8      TYL  [02-13-2017]   [02-08-2017]
+9     DXCM  [03-06-2017]   [02-28-2017]
+10     AXP  [04-24-2017]   [04-19-2017]
+11     DGX  [04-24-2017]   [04-20-2017]
+12     HON  [04-24-2017]   [04-21-2017]
+13    EPAM  [05-08-2017]   [05-04-2017]
+14     TPR  [05-08-2017]   [05-02-2017]
+15     BBY  [05-30-2017]   [05-25-2017]
+16    ULTA  [05-30-2017]   [05-25-2017]
+17     MCD  [07-31-2017]   [07-25-2017]
+18     MHK  [07-31-2017]   [07-27-2017]
+19    NDAQ  [07-31-2017]   [07-26-2017]
+20     PKG  [07-31-2017]   [07-26-2017]
+21     HUM  [08-07-2017]   [08-02-2017]
+22     LHX  [08-07-2017]   [08-01-2017]
+23     TFX  [08-07-2017]   [08-03-2017]
+24     DXC  [08-14-2017]   [08-08-2017]
+25    TECH  [08-14-2017]   [08-08-2017]
+26    ZBRA  [08-14-2017]   [08-08-2017]
+27     MKC  [10-02-2017]   [09-28-2017]
+28     DHR  [10-23-2017]   [10-19-2017]
+29     DOV  [10-23-2017]   [10-19-2017]
+30    ABMD  [10-30-2017]   [10-26-2017]
+31     CME  [10-30-2017]   [10-26-2017]
+32    ILMN  [10-30-2017]   [10-24-2017]
+33     NSC  [10-30-2017]   [10-25-2017]
+34    ORLY  [10-30-2017]   [10-25-2017]
+35     ZTS  [11-06-2017]   [11-02-2017]
+36    MSCI  [11-06-2017]   [11-02-2017]
+37    QCOM  [11-06-2017]   [11-01-2017]
+38     DAL  [01-16-2018]   [01-11-2018]
+39     WHR  [01-29-2018]   [01-24-2018]
+40    CTSH  [02-12-2018]   [02-07-2018]
+41       K  [02-12-2018]   [02-08-2018]
+42    SPGI  [02-12-2018]   [02-06-2018]
+[18/02/2022 14:13:20] Unreported stocks
+   Symbols              Entry Dates
+0      EOG              [12-5-2016]
+1      HII  [12-19-2016, 3-20-2017]
+2      ALK              [1-17-2017]
+3      GWW  [1-17-2017, 10-16-2017]
+4      NSC              [1-23-2017]
+5    BRK.B              [1-30-2017]
+6      FDX              [1-30-2017]
+7     CTXS               [2-6-2017]
+8       GS               [2-6-2017]
+9     FANG              [2-13-2017]
+10    ADSK              [3-13-2017]
+11     BXP              [3-20-2017]
+12     FLT              [3-20-2017]
+13     HCA              [3-27-2017]
+14     EMN               [4-3-2017]
+15    EXPE              [4-10-2017]
+16    REGN               [5-1-2017]
+17    JKHY              [5-22-2017]
+18     PVH              [5-22-2017]
+19     ROK  [5-22-2017, 12-11-2017]
+20     UNH              [5-22-2017]
+21    ATVI              [6-19-2017]
+22     DLR   [6-19-2017, 10-2-2017]
+23      EA              [6-19-2017]
+24      FB   [6-19-2017, 10-2-2017]
+25      HD              [6-19-2017]
+26     HUM              [6-19-2017]
+27     MAR              [6-19-2017]
+28     PTC              [6-19-2017]
+29      EL              [10-2-2017]
+30     ETR              [10-9-2017]
+31    TSLA              [10-9-2017]
+32    COST             [10-16-2017]
+33     TGT             [10-16-2017]
+34    JBHT             [10-23-2017]
+35     UNP             [10-23-2017]
+36     CMA             [11-20-2017]
+37      DD             [11-20-2017]
+38     HES              [12-4-2017]
+39     WST              [12-4-2017]
+40      MU             [12-11-2017]
+41     TDY             [12-18-2017]
+42     MHK             [12-26-2017]
+43     MMM               [1-8-2018]
+44     TEL               [1-8-2018]
+45     ALL              [1-16-2018]
+46     LUV              [1-16-2018]
+47    WYNN              [1-16-2018]
+48    TWTR              [1-29-2018]
+49    POOL              [1-29-2018]
+50     OMC              [2-12-2018]

@@ -3,6 +3,9 @@ CONFIG_JSON     = 'json/config.json'
 STOCK_LIST      = "data/Trade_List_2017_Present.xlsx"
 STOCK_LIST_TEST = "data/Trade_List_2017_Present_TEST.xlsx"
 
+ANNOUNCEMENT_DATE = "Announcement Date"
+
+LONG_ENTRY = 'LONGENTRY'
 
 class FileMode:
     """
